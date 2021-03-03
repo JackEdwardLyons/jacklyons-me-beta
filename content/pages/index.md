@@ -29,7 +29,7 @@ sections:
     col_number: two
     is_numbered: true
     grid_items:
-      - title: Service Title
+      - title: Vue.js
         content: >
           My front end framework of choice is Vue.js. I love working with Vue as
           it allows me to write clean, powerful code and prototype fast! I'm
