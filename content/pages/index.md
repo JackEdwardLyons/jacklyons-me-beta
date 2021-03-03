@@ -36,10 +36,12 @@ sections:
           also a big fan of Nuxt.js for building Server Side Redered
           applications.
       - title: Service Title
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+        content: >
+          I also enjoy working with React.js coupled with TypeScript. React is
+          just as powerful as Vue, but it does involve more technical decision
+          making and code co-ordination with other third party libraries. React
+          is a great tool for building powerful, modern web apps and I
+          especially love using React Hooks and Functional Components.
       - title: Service Title
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
