@@ -30,10 +30,11 @@ sections:
     is_numbered: true
     grid_items:
       - title: Service Title
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          My front end framework of choice is Vue.js. I love working with Vue as
+          it allows me to write clean, powerful code and prototype fast! I'm
+          also a big fan of Nuxt.js for building Server Side Redered
+          applications.
       - title: Service Title
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
