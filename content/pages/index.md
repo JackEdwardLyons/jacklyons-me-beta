@@ -5,9 +5,10 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Jack Lyons and this is my site.'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      I'm a front end web developer from Brisbane, Australia. I enjoy building
+      modern web sites and applications with Vue, React, ES2015+, GraphQL,
+      TailwindCSS and Sass. Contact me today for help on your next project!
     actions:
       - label: Let's talk
         url: /contact
