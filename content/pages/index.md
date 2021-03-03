@@ -35,7 +35,7 @@ sections:
           it allows me to write clean, powerful code and prototype fast! I'm
           also a big fan of Nuxt.js for building Server Side Redered
           applications.
-      - title: Service Title
+      - title: React.js
         content: >
           I also enjoy working with React.js coupled with TypeScript. React is
           just as powerful as Vue, but it does involve more technical decision
