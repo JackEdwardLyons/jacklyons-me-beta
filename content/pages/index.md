@@ -43,10 +43,11 @@ sections:
           is a great tool for building powerful, modern web apps and I
           especially love using React Hooks and Functional Components.
       - title: Node.js
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+        content: >
+          My preferred tech stack uses Node.js on the back end as it allows me
+          to leverage all the latest JavaScript syntax and features. Node has an
+          extensive package ecosystem (npm) and is easy to get up and running
+          fast.
       - title: Service title
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
