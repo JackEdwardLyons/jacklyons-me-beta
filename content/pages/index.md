@@ -55,13 +55,8 @@ sections:
       - title: WordPress
         image_alt: lorem-ipsum
         content: >
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          *   Lorem ipsum
-
-          *   dolor sit amet
+          WordPress is by far the most popular platform for custom client
+          websites. I also use it to build eCommerce websites too.
         actions: []
         type: grid_item
   - section_id: testimonials
