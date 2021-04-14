@@ -48,7 +48,7 @@ sections:
           to leverage all the latest JavaScript syntax and features. Node has an
           extensive package ecosystem (npm) and is easy to get up and running
           fast.
-      - title: WordPress
+      - title: GraphQL with Apollo
         content: >
           WordPress is by far the most popular platform for custom client
           websites. I also use it to build eCommerce websites too.
