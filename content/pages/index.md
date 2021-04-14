@@ -52,7 +52,7 @@ sections:
         content: >
           WordPress is by far the most popular platform for custom client
           websites. I also use it to build eCommerce websites too.
-      - title: lorem-ipsum
+      - title: WordPress
         image_alt: lorem-ipsum
         content: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
