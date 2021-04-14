@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Jack Lyons and this is my site.'
+    title: "Hi, I'm Jack Lyons \U0001F44B\U0001F3FC I'm a Front End Developer from Brisbane, Australia \U0001F998"
     content: >
       I'm a front end web developer from Brisbane, Australia. I enjoy building
       modern web sites and applications with Vue, React, ES2020+, TypeScript,
