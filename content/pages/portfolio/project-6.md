@@ -1,6 +1,6 @@
 ---
 title: USA Roadtrip App
-subtitle: Optional Project Subtitle
+subtitle: A simple app to explore America's cities.
 date: '2018-12-18'
 thumb_image: images/interesting-panda.jpg
 thumb_image_alt: A handheld game console on a yellow background
