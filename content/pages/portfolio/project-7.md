@@ -36,7 +36,7 @@ layout: project
 ---
 [**Click here to view the project**](https://fluttering-farmer.glitch.me/)
 
-*Note: this project is hosted for free on *[***"Glitch***](http://glitch.com/)*", which means it might be asleep and therefore take just a little while to "wake up". Just hang in there til it loads.*
+*Note: this project is hosted for free on *[***Glitch***](http://glitch.com/)*, which means it might be asleep and therefore take just a little while to "wake up". Just hang in there til it loads.*
 
 In 2017 my partner and I spent six months living and road tripping across the United States. While we were on the road I decided to learn about the super-hot-and-trending [**Vue.js**](https://vuejs.org/)\*\* \*\*framework and build a USA Roadtrip App along the way. I gotta say, there’s a reason why Vue is so damn popular! It's a really great framework.
 
