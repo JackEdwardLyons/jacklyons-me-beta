@@ -1,10 +1,10 @@
 ---
-title: Project Title 3
-subtitle: Optional Project Subtitle
+title: Explorate
+subtitle: A shortcut to seamless freight forwarding & logistics.
 date: '2019-04-08'
-thumb_image: images/3_thumb.jpg
+thumb_image: images/chris-pagan-sfjS-FglvU4-unsplash(1).jpg
 thumb_image_alt: A yellow retro telephone on a yellow background
-image: images/3.jpg
+image: images/chris-pagan-sfjS-FglvU4-unsplash(1).jpg
 image_alt: A yellow retro telephone on a yellow background
 seo:
   title: Project Title 3
@@ -34,11 +34,12 @@ seo:
       relativeUrl: true
 layout: project
 ---
+[**Explorate**](https://www.explorate.co/) is a really promising startup out of Brisbane, Australia. The company has a massive vision to update the shipping and logistics industry. The company is passionate about changing the worlds interaction with freight. They plan make it easy to simply book and track a shipping container from start to finish.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mus mauris vitae ultricies leo. In vitae turpis massa sed. Mauris nunc congue nisi vitae suscipit tellus mauris a. Phasellus egestas tellus rutrum tellus pellentesque. Nulla facilisi morbi tempus iaculis urna id volutpat. Ac tortor vitae purus faucibus ornare suspendisse sed. Libero volutpat sed cras ornare arcu dui vivamus arcu felis. Suspendisse interdum consectetur libero id. Quisque egestas diam in arcu. Eget gravida cum sociis natoque penatibus et. Ipsum suspendisse ultrices gravida dictum fusce ut placerat orci. Etiam dignissim diam quis enim. Vestibulum lorem sed risus ultricies tristique nulla aliquet enim tortor. Ac orci phasellus egestas tellus rutrum tellus pellentesque eu tincidunt. Nulla malesuada pellentesque elit eget gravida cum sociis natoque. Ut venenatis tellus in metus vulputate eu scelerisque felis. Porttitor eget dolor morbi non arcu risus quis varius quam. Volutpat lacus laoreet non curabitur. Vulputate mi sit amet mauris commodo quis imperdiet massa.
+I took on a short-term role at Explorate to help the co-founders build out their application front end using Vue.js. As the sole front end developer at the time, my role was to develop the admin panel, booking system and user profiles from scratch.
 
->"Design adds value faster than it adds costs." - Joel Spolsky
+This meant making a lot of large upfront decisions on the tech stack, which subsequently lead me to choosing Vue.js for the front end and Node.js for back end. Asynchronous state management was made possible with Vuex using named modules. I also provided  guidance for the development their internal API for more efficient requests and data flow.
 
-Amet risus nullam eget felis eget. Quisque egestas diam in arcu cursus euismod quis. Nibh nisl condimentum id venenatis a condimentum. Condimentum vitae sapien pellentesque habitant morbi. Adipiscing bibendum est ultricies integer quis auctor elit. Velit laoreet id donec ultrices. Neque egestas congue quisque egestas diam. Euismod quis viverra nibh cras pulvinar mattis. Lobortis scelerisque fermentum dui faucibus. Arcu felis bibendum ut tristique. Metus vulputate eu scelerisque felis imperdiet proin fermentum. Enim nunc faucibus a pellentesque sit amet porttitor. Nec nam aliquam sem et tortor consequat. Ullamcorper a lacus vestibulum sed arcu non. Semper quis lectus nulla at volutpat. Lectus magna fringilla urna porttitor rhoncus dolor purus non. Neque laoreet suspendisse interdum consectetur libero id faucibus nisl tincidunt. Ut pharetra sit amet aliquam id diam maecenas ultricies. Non pulvinar neque laoreet suspendisse interdum consectetur libero. Morbi tincidunt ornare massa eget.
+Some of the complex pieces of UI involved an intricate Gantt chart system. The chart visualizes all the available freight carriers for a particular journey. It can be filtered by carrier, date, price and transit time. Below you can see a screenshot of the chart in action.
 
-Netus et malesuada fames ac turpis. Morbi tristique senectus et netus. Tempor commodo ullamcorper a lacus vestibulum sed. Id eu nisl nunc mi ipsum. Sed ullamcorper morbi tincidunt ornare. Tellus in metus vulputate eu scelerisque felis. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam erat. Neque volutpat ac tincidunt vitae. Enim diam vulputate ut pharetra sit amet aliquam. In eu mi bibendum neque egestas congue quisque egestas. At imperdiet dui accumsan sit. Diam sit amet nisl suscipit. Tellus in metus vulputate eu. Non pulvinar neque laoreet suspendisse interdum consectetur libero. Fusce ut placerat orci nulla pellentesque dignissim. Neque egestas congue quisque egestas diam in arcu.
+Working with the team at Explorate gave me a fun insight into the world of logistics and now it makes total sense why this solution is so sorely needed. I truly do wish the team at Explorate all the best for the future.
