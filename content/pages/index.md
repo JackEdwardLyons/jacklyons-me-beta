@@ -80,7 +80,13 @@ sections:
       - author: 'Phil Lascala, Founder of Evac Guide'
         avatar: images/aubrey_hoover.jpg
         avatar_alt: Aubrey Hoover's photo
-        content: '    Jackaa was an incredible asset to our team.      He continued to provide quality suggestions to improve our project and supported these suggestions with high quality work. I always felt comfortable with Jacks capabilities and his level of communication was beneficial.     I highly recommend Jack and would love to continue working with him again shortly.'
+        content: >-
+          Jackaa was an incredible asset to our team.      He continued to
+          provide quality suggestions to improve our project and supported these
+          suggestions with high quality work. I always felt comfortable with
+          Jacks capabilities and his level of communication was beneficial.    
+          I highly recommend Jack and would love to continue working with him
+          again shortly.
       - author: Deegan Wallace
         avatar: images/deegan_wallace.jpg
         avatar_alt: Deegan Wallace's photo
