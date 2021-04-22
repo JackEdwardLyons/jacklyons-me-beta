@@ -34,12 +34,23 @@ seo:
       relativeUrl: true
 layout: project
 ---
+[**Matrix**](https://www.squiz.net/technology/cms) is a market leading enterprise CMS, used around the world on a huge variety of commercial websites, including universities, government agencies, local councils, and more.
+I was brought on as the main front end developer to help redevelop the front end UI for the much anticipated Matrix 5.5+ release. For those of you who don't know Matrix ... Think WordPress and multiply it's complexity by 50 ... at least!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla facilisi morbi tempus iaculis urna. Non curabitur gravida arcu ac tortor dignissim. Pretium quam vulputate dignissim suspendisse in est. Ante in nibh mauris cursus mattis. Adipiscing bibendum est ultricies integer quis auctor elit sed vulputate. Facilisi nullam vehicula ipsum a arcu cursus. Habitant morbi tristique senectus et. Urna duis convallis convallis tellus id interdum velit. Sociis natoque penatibus et magnis. Adipiscing tristique risus nec feugiat in fermentum posuere.
+The Matrix platform is a serious contendor for the development of largescale commercial websites. It is used extensively throughout Australia and the world by leading universities, government agencies, city councils, banks and more. My work at Squiz focused on updating and improving the front end user experience on the Matrix CMS. This included, but was not limited to:
 
->"You can't use up creativity. The more you use, the more you have." - Maya Angelou
+*   Redeveloping UI from mockups and user feedback.
 
-Feugiat in fermentum posuere urna nec tincidunt praesent semper. Bibendum enim facilisis gravida neque convallis a. Diam donec adipiscing tristique risus nec feugiat in fermentum. Vitae suscipit tellus mauris a diam. Sit amet aliquam id diam maecenas. Id velit ut tortor pretium viverra suspendisse. Massa tincidunt dui ut ornare lectus sit amet est. Dui vivamus arcu felis bibendum ut tristique et egestas quis. Purus sit amet volutpat consequat mauris nunc congue nisi. Et netus et malesuada fames ac. Sed faucibus turpis in eu. Pharetra pharetra massa massa ultricies. Non enim praesent elementum facilisis leo vel fringilla est ullamcorper. Quis hendrerit dolor magna eget est.
+*   Heavy refactoring of JS, PHP, HTML and CSS code.
 
-Elit pellentesque habitant morbi tristique senectus et netus et. Cras adipiscing enim eu turpis egestas pretium aenean pharetra magna. Turpis egestas pretium aenean pharetra magna ac placerat. Suspendisse sed nisi lacus sed viverra tellus in. Lectus arcu bibendum at varius vel pharetra vel turpis. Scelerisque eleifend donec pretium vulputate sapien nec sagittis aliquam malesuada. Donec pretium vulputate sapien nec sagittis. Ipsum a arcu cursus vitae congue mauris rhoncus aenean. Sed euismod nisi porta lorem. Semper quis lectus nulla at. Tincidunt ornare massa eget egestas purus viverra accumsan in nisl. Eu tincidunt tortor aliquam nulla facilisi cras fermentum odio eu. Aliquam sem et tortor consequat id porta. Aliquam ut porttitor leo a diam sollicitudin tempor id eu. Ipsum dolor sit amet consectetur adipiscing elit.
+*   Adding dynamic components and modern features while removing outdated code.
 
+*   Writing clean, testable code using Jenkins.
+
+*   Sitewide bug fixes and upgrades.
+
+*   Working remotely and in office with developers across Australia.
+
+*   Following a a Kanban workflow with weekly team standups.
+
+ 
