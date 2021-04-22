@@ -2,7 +2,7 @@
 title: SoldNest
 subtitle: Sell your home with the most trusted agent.
 date: '2019-04-30'
-thumb_image: images/Screen Shot 2021-04-22 at 8.06.45 pm.png
+thumb_image: images/soldnest-house.jpg
 thumb_image_alt: An orange on a blue background
 image: images/Screen Shot 2021-04-22 at 8.06.45 pm.png
 image_alt: An orange on a blue background
