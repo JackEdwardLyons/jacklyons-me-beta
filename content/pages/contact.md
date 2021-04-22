@@ -27,8 +27,9 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - Error on the site
-          - Sponsorship
+          - Project work
+          - Full-time job
+          - Consulting / Advice
           - Other
       - input_type: textarea
         name: message
