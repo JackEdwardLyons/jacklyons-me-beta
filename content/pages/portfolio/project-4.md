@@ -2,7 +2,7 @@
 title: Adore Beauty
 subtitle: Australia's largest online beauty store
 date: '2019-02-26'
-thumb_image: images/4_thumb.jpg
+thumb_image: images/adore-beauty.png
 thumb_image_alt: A table tennis racket on a pink background
 image: images/adore-beauty.png
 image_alt: A table tennis racket on a pink background
