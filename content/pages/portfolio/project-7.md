@@ -4,7 +4,7 @@ subtitle: A simple app to help you explore America's cities.
 date: '2018-01-15'
 thumb_image: images/7_thumb.jpg
 thumb_image_alt: A black headphones on a yeallow background
-image: images/7.jpg
+image: images/kait-herzog-82421.jpg
 image_alt: A black headphones on a yeallow background
 seo:
   title: Project Title 7
