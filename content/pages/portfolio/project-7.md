@@ -1,8 +1,8 @@
 ---
-title: USA Roadtrip App
-subtitle: A simple app to help you explore America's cities.
+title: PaleoHacks
+subtitle: Paleohacks is the largest paleo diet & paleo recipe community online.
 date: '2018-01-15'
-thumb_image: images/7_thumb.jpg
+thumb_image: images/paleohacks.jpg
 thumb_image_alt: A black headphones on a yeallow background
 image: images/kait-herzog-82421.jpg
 image_alt: A black headphones on a yeallow background
@@ -34,16 +34,8 @@ seo:
       relativeUrl: true
 layout: project
 ---
-[**Click here to view the project**](https://fluttering-farmer.glitch.me/)
+[**View Site**](http://www.blog.paleohacks.com)
 
-*Note: this project is hosted for free on *[***Glitch***](http://glitch.com/)*, which means it might be asleep and therefore take just a little while to "wake up". Just hang in there til it loads.*
+[**PaleoHacks**](https://blog.paleohacks.com) are here to give you the tools to move better, eat smarter and live the best version of yourself. On Paleohacks, you’ll discover realistic advice about your health, easy recipes with real food, and exercises focusing on natural movement. What you do with that knowledge is up to you. We’re just here to help you make the best, healthiest decision. So here’s to you and moving forward.
 
-In 2017 my partner and I spent six months living and road tripping across the United States. While we were on the road I decided to learn about the super-hot-and-trending [**Vue.js**](https://vuejs.org/) framework and build a USA Roadtrip App along the way. I gotta say, there’s a reason why Vue is so damn popular! It's a really great framework.
-
-This project was built *without* using [**Vuex**](https://vuex.vuejs.org/), the popular state management library. The reason *why* I chose not to use it was because I wanted to find out first hand where and when the pain point/s exist as an application scales. Vuex is there to help manage state but sometimes it can be overkill for a simple application.  Once you've felt some of the pain points of passing state around in your app, you'll appreciate the need for Vuex. This app sat right on the Vuex cusp and I did start to notice some quirks when managing the "loading" state of the application. This was because data was being fetched by a parent component and then passed as props down to the child components but also emitted back up to the parent.
-
-Another huge takeaway I gained from this experience was learning to handle asynchronous code. Fetching data from the Yelp API and passing it down into child components can get get messy quite fast. That's another side effect of an inefficiently management "state" - ala, without Vuex. Knowing which state should belong where (does it belong in a parent component or a child component?) is a tough question to answer. It is certainly worthwhile to take the time upfront to map out your application. *Some advice*: break down each component and try to understand what each does in the whole scheme of things.
-
-If I had to choose a better code architecture, I would use Vuex upfront and create development and user stories for each component, plus I'd add Jest or Nightwatch into the mix to ensure the application runs as expected.
-
-All in all, this was a really fun project and I would highly recommend you take a look at Vue.js!
+At PaleoHacks I have worked on developing new page templates using PHP, HTML5, CSS3 and jQuery. I also developed a custom plugin and have helped the development team with numerous front end fixes.
