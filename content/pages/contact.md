@@ -30,7 +30,7 @@ sections:
           - Project work
           - Full-time job
           - Consulting / Advice
-          - lorem-ipsum
+          - Other
       - input_type: textarea
         name: message
         label: Message
