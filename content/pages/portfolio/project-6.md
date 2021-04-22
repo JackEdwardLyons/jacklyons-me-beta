@@ -4,7 +4,7 @@ subtitle: A simple app to explore America's cities.
 date: '2018-12-18'
 thumb_image: images/interesting-panda.jpg
 thumb_image_alt: A handheld game console on a yellow background
-image: images/6.jpg
+image: images/interesting-panda.jpg
 image_alt: A handheld game console on a yellow background
 seo:
   title: Project Title 6
