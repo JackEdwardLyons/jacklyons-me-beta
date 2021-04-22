@@ -4,7 +4,7 @@ subtitle: Optional Project Subtitle
 date: '2019-01-05'
 thumb_image: images/royal-hedgehog.png
 thumb_image_alt: A white gamepad on a green background
-image: images/matrix.png
+image: images/royal-hedgehog.png
 image_alt: A white gamepad on a green background
 seo:
   title: Project Title 5
