@@ -31,10 +31,12 @@ sections:
           - Full-time job
           - Consulting / Advice
           - Other
+        is_required: true
       - input_type: textarea
         name: message
         label: Message
         default_value: Your message
+        is_required: true
     submit_label: Send Message
 seo:
   title: Contact
