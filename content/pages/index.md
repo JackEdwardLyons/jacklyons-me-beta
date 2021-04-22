@@ -77,7 +77,7 @@ sections:
           fast and absolutely embodies the startup mentality. Jack is a highly 
           proficient front-end developer and has a great handle on the Vue JS 
           framework.
-      - author: Aubrey Hoover
+      - author: 'Phil Lascala, Founder of Evac Guide'
         avatar: images/aubrey_hoover.jpg
         avatar_alt: Aubrey Hoover's photo
         content: '    Jack was an incredible asset to our team.      He continued to provide quality suggestions to improve our project and supported these suggestions with high quality work. I always felt comfortable with Jacks capabilities and his level of communication was beneficial.     I highly recommend Jack and would love to continue working with him again shortly.'
