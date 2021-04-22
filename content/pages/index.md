@@ -87,7 +87,7 @@ sections:
           Jacks capabilities and his level of communication was beneficial.    
           I highly recommend Jack and would love to continue working with him
           again shortly.
-      - author: Deegan Wallace
+      - author: Steven Lynagh -
         avatar: images/deegan_wallace.jpg
         avatar_alt: Deegan Wallace's photo
         content: >-
