@@ -85,8 +85,7 @@ sections:
           quality suggestions to improve our project and supported these
           suggestions with high quality work. I always felt comfortable with
           Jacks capabilities and his level of communication was beneficial.    
-          I highly recommend Jack and would love to continue working with him
-          again shortly.
+          I highly recommend Jack!
       - author: Steven Lynagh - ACRRM
         avatar: images/deegan_wallace.jpg
         avatar_alt: Deegan Wallace's photo
