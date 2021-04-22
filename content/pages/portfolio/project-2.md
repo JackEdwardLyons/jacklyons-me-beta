@@ -1,5 +1,5 @@
 ---
-title: Project Title 2
+title: SoldNest
 subtitle: Sell your home with the most trusted agent.
 date: '2019-04-30'
 thumb_image: images/2_thumb.jpg
