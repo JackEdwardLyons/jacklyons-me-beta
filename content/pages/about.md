@@ -31,11 +31,16 @@ seo:
       relativeUrl: true
 layout: page
 ---
+Hi there, my name's Jack Lyons. I'm an expert front end Vue developer from Brisbane, Australia 🇦🇺. My preferred tech stack includes Vue.js or Nuxt.js on the front end coupled with Node.js on the back end. I enjoy working on responsive, mobile-first websites, web app's and SaaS products.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+When I'm not coding you can usually find me outdoors rock climbing, travelling the world, digital nomadding from cafes and coworking spaces or attending dev meetups. I also write rock climbing and travel articles on my other blog called [**Adventureinmyveins**](https://www.adventureinmyveins.com)**. **It's an adventure publication crafted for rock climbers and mountain lovers who want to travel the world & build a location independent lifestyle.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+My background is in Urban Planning and I have a degree from the University of Queensland. I have also studied abroad in Austria, where I learnt German, studied Environmental Sustainability at the Karl-Franzens-Universität* Graz* 🇦🇹. It was there at university where I also met my wife Zoe [***@wildblend.***](https://www.instagram.com/wildblend/)
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
+While I don't work as an urban planner anymore, I am still deeply interested in the emerging wave of "[**urban tech**](https://www.quora.com/What-is-urban-tech)" and "[**smart city**](https://en.wikipedia.org/wiki/Smart_city)" startups around the world. I would love to merge my passion for web and software development to solve the challenges of our modern built and natural environment. If you are looking for a front end developer for your urban tech startup, then please let me know!
 
-*Thank You for reading!*
+Currently I am living on the Gold Coast, after travelling the USA 🇺🇸 for past 12 months in 2019. During that time I was fortunate enough to work for some excellent clients both in Australia and in the United States. This included [**Adore Beauty**](https://jacklyons.me/portfolio/adore-beauty/), [**SoldNest**](https://jacklyons.me/portfolio/soldnest/), [**EvacGuide**](https://jacklyons.me/portfolio/evac-guide/) and [**Paleo Hacks**](https://jacklyons.me/portfolio/paleohacks/)**.**
+
+At present I am open to new opportunities but realistically only have about 15 extra hours up my sleeve. If you require help on a short, medium, or long term basis, please keep that in mind.
+
+If you are looking for an expert React or Vue developer, feel free to message me via the [**contact page**](https://jacklyons.me/contact).
