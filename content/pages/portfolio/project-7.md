@@ -1,6 +1,6 @@
 ---
 title: USA Roadtrip App
-subtitle: A
+subtitle: A simple app to help you explore America's cities.
 date: '2018-01-15'
 thumb_image: images/7_thumb.jpg
 thumb_image_alt: A black headphones on a yeallow background
