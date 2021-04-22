@@ -1,5 +1,5 @@
 ---
-title: Project Title 6
+title: USA Roadtrip App
 subtitle: Optional Project Subtitle
 date: '2018-12-18'
 thumb_image: images/interesting-panda.jpg
