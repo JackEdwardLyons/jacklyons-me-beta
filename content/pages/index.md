@@ -87,7 +87,7 @@ sections:
           Jacks capabilities and his level of communication was beneficial.    
           I highly recommend Jack!
       - author: Steven Lynagh - ACRRM
-        avatar: images/deegan_wallace.jpg
+        avatar: images/index.png
         avatar_alt: Deegan Wallace's photo
         content: >-
           Jack coded a large 
