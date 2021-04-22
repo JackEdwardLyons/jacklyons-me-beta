@@ -56,6 +56,4 @@ My role as a front end developer included building out new User Interfaces and w
 
 *   SEO and Google Structured Data schema creation
 
- 
-
 I worked with the Adore Beauty team as a contractor for approximately four months. I really enjoyed my time with the team and wish them the very best!
