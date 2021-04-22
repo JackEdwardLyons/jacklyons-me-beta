@@ -1,6 +1,6 @@
 ---
 title: Squiz Matrix CMS
-subtitle: Optional Project Subtitle
+subtitle: 'Flexible, simple content management.'
 date: '2019-01-05'
 thumb_image: images/royal-hedgehog.png
 thumb_image_alt: A white gamepad on a green background
