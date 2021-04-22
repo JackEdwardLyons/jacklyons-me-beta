@@ -42,4 +42,4 @@ This meant making a lot of large upfront decisions on the tech stack, which subs
 
 Some of the complex pieces of UI involved an intricate Gantt chart system. The chart visualizes all the available freight carriers for a particular journey. It can be filtered by carrier, date, price and transit time. Below you can see a screenshot of the chart in action.
 
-Working with the team at Explorate gave me a fun insight into the world of logistics and now it makes total sense why this solution is so sorely needed. I truly do wish the guys at Explorate all the best for the future.
+Working with the team at Explorate gave me a fun insight into the world of logistics and now it makes total sense why this solution is so sorely needed. I truly do wish the team at Explorate all the best for the future.
