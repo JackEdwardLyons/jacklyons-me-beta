@@ -69,7 +69,7 @@ sections:
     subtitle: An optional subtitle of the section
     col_number: three
     testimonials:
-      - author: Alex Ewart - Founder of Explorate
+      - author: Alex Ewart - Co-founder of Explorate
         avatar: images/sean_salazar.jpg
         avatar_alt: Sean Salazar's photo
         content: |-
