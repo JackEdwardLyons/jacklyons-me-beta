@@ -72,10 +72,11 @@ sections:
       - author: Sean Salazar
         avatar: images/sean_salazar.jpg
         avatar_alt: Sean Salazar's photo
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla.
+        content: |-
+          Jack is a fantastic talent and an absolute legend of a guy. He works 
+          fast and absolutely embodies the startup mentality. Jack is a highly 
+          proficient front-end developer and has a great handle on the Vue JS 
+          framework.
       - author: Aubrey Hoover
         avatar: images/aubrey_hoover.jpg
         avatar_alt: Aubrey Hoover's photo
