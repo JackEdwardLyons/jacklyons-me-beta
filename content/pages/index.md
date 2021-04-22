@@ -78,17 +78,16 @@ sections:
           proficient front-end developer and has a great handle on the Vue JS 
           framework.
       - author: 'Phil Lascala, Founder of Evac Guide'
-        avatar: images/aubrey_hoover.jpg
+        avatar: images/Screen Shot 2021-04-22 at 7.17.20 pm.png
         avatar_alt: Aubrey Hoover's photo
         content: >-
           Jack was an incredible asset to our team.      He continued to provide
           quality suggestions to improve our project and supported these
           suggestions with high quality work. I always felt comfortable with
           Jacks capabilities and his level of communication was beneficial.    
-          I highly recommend Jack and would love to continue working with him
-          again shortly.
+          I highly recommend Jack!
       - author: Steven Lynagh - ACRRM
-        avatar: images/deegan_wallace.jpg
+        avatar: images/index.png
         avatar_alt: Deegan Wallace's photo
         content: >-
           Jack coded a large 
