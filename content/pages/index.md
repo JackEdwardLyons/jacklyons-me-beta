@@ -70,7 +70,7 @@ sections:
     col_number: three
     testimonials:
       - author: Alex Ewart - Co-founder of Explorate
-        avatar: images/sean_salazar.jpg
+        avatar: images/explorate.jpg
         avatar_alt: Sean Salazar's photo
         content: |-
           Jack is a fantastic talent and an absolute legend of a guy. He works 
