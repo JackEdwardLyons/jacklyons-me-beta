@@ -91,8 +91,14 @@ sections:
         avatar: images/deegan_wallace.jpg
         avatar_alt: Deegan Wallace's photo
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam.
+          Jack coded a large 
+
+          eLearning project with us at ACRRM. He was always enthusiastic,
+          knowledgable and has an 
+
+          obvious passion for his work.. Hire 
+
+          him.
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
