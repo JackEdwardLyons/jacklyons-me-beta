@@ -1,5 +1,5 @@
 ---
-title: Project Title 5
+title: Squiz Matrix CMS
 subtitle: Optional Project Subtitle
 date: '2019-01-05'
 thumb_image: images/royal-hedgehog.png
