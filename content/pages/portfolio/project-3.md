@@ -1,5 +1,5 @@
 ---
-title: Project Title 3
+title: Explorate
 subtitle: Optional Project Subtitle
 date: '2019-04-08'
 thumb_image: images/chris-pagan-sfjS-FglvU4-unsplash(1).jpg
