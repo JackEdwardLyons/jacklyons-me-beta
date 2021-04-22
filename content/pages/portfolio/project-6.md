@@ -1,10 +1,10 @@
 ---
-title: Project Title 6
-subtitle: Optional Project Subtitle
+title: USA Roadtrip App
+subtitle: A simple app to explore America's cities.
 date: '2018-12-18'
-thumb_image: images/10.jpg
+thumb_image: images/interesting-panda.jpg
 thumb_image_alt: A handheld game console on a yellow background
-image: images/6.jpg
+image: images/interesting-panda.jpg
 image_alt: A handheld game console on a yellow background
 seo:
   title: Project Title 6
@@ -34,13 +34,16 @@ seo:
       relativeUrl: true
 layout: project
 ---
+[**Click here to view the project**](https://fluttering-farmer.glitch.me/)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Suspendisse faucibus interdum posuere lorem ipsum dolor. Malesuada fames ac turpis egestas sed tempus urna et. Non odio euismod lacinia at quis risus. Nisl vel pretium lectus quam id leo in vitae turpis. Dolor sit amet consectetur adipiscing elit ut. Id donec ultrices tincidunt arcu non sodales neque sodales ut. Risus ultricies tristique nulla aliquet enim. Nulla aliquet porttitor lacus luctus accumsan tortor posuere ac ut. Et leo duis ut diam. Auctor neque vitae tempus quam pellentesque. Scelerisque in dictum non consectetur a erat nam at. Quisque sagittis purus sit amet volutpat consequat. Vulputate enim nulla aliquet porttitor lacus.
+*Note: this project is hosted for free on *[***Glitch***](http://glitch.com/)*, which means it might be asleep and therefore take just a little while to "wake up". Just hang in there til it loads.*
 
->"Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated." - Paul Rand,
+In 2017 my partner and I spent six months living and road tripping across the United States. While we were on the road I decided to learn about the super-hot-and-trending [**Vue.js**](https://vuejs.org/)** **framework and build a USA Roadtrip App along the way. I gotta say, there’s a reason why Vue is so damn popular! It's a really great framework.
 
-Nisl purus in mollis nunc sed id semper. Congue mauris rhoncus aenean vel elit scelerisque mauris pellentesque. Etiam erat velit scelerisque in dictum non consectetur. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida hendrerit. Cursus eget nunc scelerisque viverra mauris in aliquam sem. Aliquam id diam maecenas ultricies mi eget mauris pharetra. Nisi quis eleifend quam adipiscing vitae proin sagittis nisl. Elit at imperdiet dui accumsan. Senectus et netus et malesuada fames ac turpis. Justo nec ultrices dui sapien eget mi proin sed libero. Aliquet eget sit amet tellus cras adipiscing enim eu turpis. Nisl purus in mollis nunc sed id. Elit duis tristique sollicitudin nibh sit. Duis ultricies lacus sed turpis. Porttitor eget dolor morbi non. Scelerisque eu ultrices vitae auctor eu augue ut. At urna condimentum mattis pellentesque id. Massa eget egestas purus viverra accumsan. Fermentum dui faucibus in ornare quam. Pharetra vel turpis nunc eget lorem.
+This project was built *without* using [**Vuex**](https://vuex.vuejs.org/), the popular state management library. The reason *why* I chose not to use it was because I wanted to find out first hand where and when the pain point/s exist as an application scales. Vuex is there to help manage state but sometimes it can be overkill for a simple application.  Once you've felt some of the pain points of passing state around in your app, you'll appreciate the need for Vuex. This app sat right on the Vuex cusp and I did start to notice some quirks when managing the "loading" state of the application. This was because data was being fetched by a parent component and then passed as props down to the child components but also emitted back up to the parent.
 
-Sodales neque sodales ut etiam sit amet nisl. Sodales ut etiam sit amet nisl purus. Nisi vitae suscipit tellus mauris a diam maecenas sed. Egestas purus viverra accumsan in nisl nisi scelerisque. Gravida cum sociis natoque penatibus et magnis dis parturient. In hac habitasse platea dictumst vestibulum. Cras semper auctor neque vitae tempus quam pellentesque nec nam. Tellus integer feugiat scelerisque varius morbi enim nunc. Ultricies mi eget mauris pharetra et ultrices neque ornare. Vitae suscipit tellus mauris a diam. Commodo viverra maecenas accumsan lacus vel. Libero id faucibus nisl tincidunt eget nullam.
+Another huge takeaway I gained from this experience was learning to handle asynchronous code. Fetching data from the Yelp API and passing it down into child components can get get messy quite fast. That's another side effect of an inefficiently management "state" - ala, without Vuex. Knowing which state should belong where (does it belong in a parent component or a child component?) is a tough question to answer. It is certainly worthwhile to take the time upfront to map out your application. *Some advice*: break down each component and try to understand what each does in the whole scheme of things.
 
-Nibh praesent tristique magna sit amet purus gravida. Aenean pharetra magna ac placerat vestibulum lectus mauris. Nulla aliquet enim tortor at auctor. Lobortis elementum nibh tellus molestie. Vitae proin sagittis nisl rhoncus mattis. Velit scelerisque in dictum non consectetur a erat. Elementum curabitur vitae nunc sed. Nisl nisi scelerisque eu ultrices vitae auctor eu. Proin libero nunc consequat interdum varius sit. Molestie ac feugiat sed lectus vestibulum mattis ullamcorper. Turpis cursus in hac habitasse. Adipiscing elit pellentesque habitant morbi tristique.
+If I had to choose a better code architecture, I would use Vuex upfront and create development and user stories for each component, plus I'd add Jest or Nightwatch into the mix to ensure the application runs as expected.
+
+All in all, this was a really fun project and I would highly recommend you take a look at Vue.js!
