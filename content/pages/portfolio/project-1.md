@@ -4,7 +4,7 @@ subtitle: A rock climbing blog for digital dirtbags
 date: '2019-05-10'
 thumb_image: images/1_thumb.jpg
 thumb_image_alt: 'White, black, and red shoe sole'
-image: images/1.jpg
+image: images/Screen Shot 2021-04-22 at 7.59.53 pm.png
 image_alt: 'White, black, and red shoe sole'
 seo:
   title: Project Title 1
