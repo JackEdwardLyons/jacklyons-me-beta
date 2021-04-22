@@ -27,7 +27,7 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - 'Looking for '
+          - Consult
           - Sponsorship
           - Other
       - input_type: textarea
