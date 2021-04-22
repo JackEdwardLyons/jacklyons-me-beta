@@ -1,5 +1,5 @@
 ---
-title: USA Roadtrip App
+title: PaleoHacks
 subtitle: A simple app to help you explore America's cities.
 date: '2018-01-15'
 thumb_image: images/paleohacks.jpg
