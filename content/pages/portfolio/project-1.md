@@ -1,6 +1,6 @@
 ---
 title: Adventure In My Veins
-subtitle: Optional Project Subtitle
+subtitle: A rock climbing blog for digital dirtbags
 date: '2019-05-10'
 thumb_image: images/1_thumb.jpg
 thumb_image_alt: 'White, black, and red shoe sole'
