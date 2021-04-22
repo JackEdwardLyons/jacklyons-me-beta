@@ -5,7 +5,7 @@ subtitle: |-
    a front end web developer from Gold Coast, Australia. I enjoy building 
   modern web sites and applications with Vue, React, ES2015+, GraphQL, 
   TailwindCSS and Sass.
-image: images/about.jpg
+image: images/9.jpg
 image_alt: A man taking a picture
 seo:
   title: About Us
