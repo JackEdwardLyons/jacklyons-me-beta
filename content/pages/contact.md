@@ -29,7 +29,7 @@ sections:
         options:
           - Project work
           - Full-time job
-          - Advice
+          - Consulting / Advice
       - input_type: textarea
         name: message
         label: Message
