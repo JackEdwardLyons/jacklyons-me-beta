@@ -28,7 +28,7 @@ sections:
         default_value: Please select
         options:
           - Project work
-          - Sponsorship
+          - Full-time job
           - Other
       - input_type: textarea
         name: message
