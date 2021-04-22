@@ -1,6 +1,6 @@
 ---
 title: PaleoHacks
-subtitle: A simple app to help you explore America's cities.
+subtitle: Paleohacks is the largest paleo diet & paleo recipe community online.
 date: '2018-01-15'
 thumb_image: images/paleohacks.jpg
 thumb_image_alt: A black headphones on a yeallow background
