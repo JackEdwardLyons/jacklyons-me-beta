@@ -11,7 +11,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Blog
+      value: Jack Lyons | Blog
       keyName: property
     - name: 'og:image'
       value: images/12.jpg
