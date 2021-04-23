@@ -40,7 +40,7 @@ seo:
         web sites and applications with Vue, React, ES2015+, GraphQL,
         TailwindCSS and Sass.
     - name: 'twitter:image'
-      value: images/about.jpg
+      value: images/9.jpg
       relativeUrl: true
 layout: page
 ---
