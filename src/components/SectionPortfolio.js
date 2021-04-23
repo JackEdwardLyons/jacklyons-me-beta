@@ -43,6 +43,7 @@ export default class SectionPortfolio extends React.Component {
                           <Image width={700} height={500} src={withPrefix(_.get(post, 'frontmatter.thumb_image', null))} alt={_.get(post, 'frontmatter.thumb_image_alt', null)} />
                         </div>
                         )}
+                        
                         <header className="project-header">
                           <h3 className="project-title">{_.get(post, 'frontmatter.title', null)}</h3>
                         </header>
