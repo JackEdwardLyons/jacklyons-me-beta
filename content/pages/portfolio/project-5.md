@@ -26,7 +26,7 @@ seo:
         government agencies.
       keyName: property
     - name: 'og:image'
-      value: images/5.jpg
+      value: /images/good-thyme.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
