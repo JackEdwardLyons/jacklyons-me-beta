@@ -4,7 +4,7 @@ subtitle: A rock climbing blog for digital dirtbags
 date: '2019-05-10'
 thumb_image: images/aimv-screenshot.png
 thumb_image_alt: Adventure in my veins website
-image: images/Screen Shot 2021-04-22 at 7.59.53 pm.png
+image: images/aimv-screenshot.png
 image_alt: Adventure in my veins website
 seo:
   title: Adventure In My Veins
