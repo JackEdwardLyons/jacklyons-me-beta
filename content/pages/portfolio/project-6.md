@@ -17,7 +17,10 @@ seo:
       value: Project Title 6
       keyName: property
     - name: 'og:description'
-      value: This is the project 6 description
+      value: >-
+        In 2017 my wife and I spent six months living and road tripping across
+        the United States. I decided to learn about Vue.js and build a USA
+        Roadtrip App.
       keyName: property
     - name: 'og:image'
       value: /images/kait-herzog-82421.jpg
