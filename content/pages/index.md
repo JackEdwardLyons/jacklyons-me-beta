@@ -137,7 +137,7 @@ seo:
         TypeScript, GraphQL, TailwindCSS and Sass. Contact me today for help on
         your next project!
     - name: 'twitter:image'
-      value: images/exto_preview.png
+      value: /images/9.jpg
       relativeUrl: true
 layout: advanced
 ---
