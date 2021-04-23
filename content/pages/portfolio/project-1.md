@@ -20,7 +20,10 @@ seo:
       value: Project Title 1
       keyName: property
     - name: 'og:description'
-      value: This is the project 1 description
+      value: >-
+        Adventure In My Veins is an adventure publication crafted for
+        wanderlusting, thrill seeking, mountain lovers who want to build a
+        location independent lifestyle.
       keyName: property
     - name: 'og:image'
       value: images/Screen Shot 2021-04-23 at 10.23.44 am.png
