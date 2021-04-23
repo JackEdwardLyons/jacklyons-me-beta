@@ -17,7 +17,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Project Title 5
+      value: Jack Lyons | Squiz Matrix
       keyName: property
     - name: 'og:description'
       value: >-
