@@ -30,7 +30,7 @@ seo:
     - name: 'twitter:description'
       value: This is the project 6 description
     - name: 'twitter:image'
-      value: images/6.jpg
+      value: /images/kait-herzog-82421.jpg
       relativeUrl: true
 layout: project
 ---
