@@ -39,7 +39,7 @@ seo:
         huge variety of commercial websites, including universities and
         government agencies.
     - name: 'twitter:image'
-      value: images/5.jpg
+      value: Jack Lyons | Squiz Matrix
       relativeUrl: true
 layout: project
 ---
