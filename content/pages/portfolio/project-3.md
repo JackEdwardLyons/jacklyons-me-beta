@@ -38,7 +38,7 @@ seo:
         company has a massive vision to update the shipping and logistics
         industry. 
     - name: 'twitter:image'
-      value: images/3.jpg
+      value: images/chris-pagan-sfjS-FglvU4-unsplash(1).jpg
       relativeUrl: true
 layout: project
 ---
