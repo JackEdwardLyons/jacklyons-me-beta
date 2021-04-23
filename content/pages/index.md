@@ -42,7 +42,7 @@ sections:
           making and code co-ordination with other third party libraries. React
           is a great tool for building powerful, modern web apps and I
           especially love using React Hooks and Functional Components.
-      - title: Node.js
+      - title: GraphQL with Apollo
         content: >
           Apollo is the industry-standard GraphQL implementation, providing the
           data graph layer that connects modern apps to the cloud. REST APIs are
