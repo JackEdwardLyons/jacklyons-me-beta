@@ -31,7 +31,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Project Title 3
+      value: Explorate
     - name: 'twitter:description'
       value: >-
         Explorate is a really promising startup out of Brisbane, Australia. The
