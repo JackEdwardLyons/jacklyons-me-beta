@@ -19,7 +19,9 @@ seo:
       value: Project Title 2
       keyName: property
     - name: 'og:description'
-      value: This is the project 2 description
+      value: >-
+        SoldNest is a California based start-up with a brilliant tool that
+        allows one to see the best ways to increase their home’s value.
       keyName: property
     - name: 'og:image'
       value: images/2.jpg
@@ -30,7 +32,9 @@ seo:
     - name: 'twitter:title'
       value: Project Title 2
     - name: 'twitter:description'
-      value: This is the project 2 description
+      value: >-
+        SoldNest is a California based start-up with a brilliant tool that
+        allows one to see the best ways to increase their home’s value.
     - name: 'twitter:image'
       value: images/2.jpg
       relativeUrl: true
