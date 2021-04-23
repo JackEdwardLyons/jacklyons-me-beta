@@ -3,9 +3,9 @@ title: Explorate
 subtitle: A shortcut to seamless freight forwarding & logistics.
 date: '2019-04-08'
 thumb_image: images/chris-pagan-sfjS-FglvU4-unsplash(1).jpg
-thumb_image_alt: A yellow retro telephone on a yellow background
+thumb_image_alt: An image of a cargo ship
 image: images/chris-pagan-sfjS-FglvU4-unsplash(1).jpg
-image_alt: A yellow retro telephone on a yellow background
+image_alt: An image of a cargo ship
 seo:
   title: Project Title 3
   description: This is the project 3 description
