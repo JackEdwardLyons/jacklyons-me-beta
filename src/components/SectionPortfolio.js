@@ -1,6 +1,6 @@
 import React from 'react';
 import _ from 'lodash';
-
+import Image from 'next/image'
 import {htmlToReact, getPages, Link, withPrefix} from '../utils';
 
 export default class SectionPortfolio extends React.Component {
@@ -40,9 +40,10 @@ export default class SectionPortfolio extends React.Component {
                       <Link href={withPrefix(_.get(post, '__metadata.urlPath', null))} className="project-link">
                         {_.get(post, 'frontmatter.thumb_image', null) && (
                         <div className="project-thumbnail">
-                          <img src={withPrefix(_.get(post, 'frontmatter.thumb_image', null))} alt={_.get(post, 'frontmatter.thumb_image_alt', null)} />
+                          <Image width={700} height={500} src={withPrefix(_.get(post, 'frontmatter.thumb_image', null))} alt={_.get(post, 'frontmatter.thumb_image_alt', null)} />
                         </div>
                         )}
+
                         <header className="project-header">
                           <h3 className="project-title">{_.get(post, 'frontmatter.title', null)}</h3>
                         </header>
