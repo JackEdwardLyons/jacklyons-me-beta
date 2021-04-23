@@ -53,7 +53,13 @@ sections:
       - title: WordPress & Headless CMS solutions
         content: >
           WordPress is by far the most popular platform for custom client
-          websites. I also use it to build eCommerce websites too.
+          websites. I also use it to build eCommerce websites too. However, it's
+          bulky and slow, and easily hackable. That's where **headless CMS**
+          solutions come to the rescue! A headless CMS is a back-end only
+          content management 
+
+          system built as a content repository that makes content accessible via
+          an API for display on any device.
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
