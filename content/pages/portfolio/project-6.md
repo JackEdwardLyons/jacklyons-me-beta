@@ -20,7 +20,7 @@ seo:
       value: This is the project 6 description
       keyName: property
     - name: 'og:image'
-      value: images/6.jpg
+      value: /images/kait-herzog-82421.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
