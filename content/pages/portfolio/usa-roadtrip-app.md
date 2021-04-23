@@ -23,7 +23,7 @@ seo:
         Roadtrip App.
       keyName: property
     - name: 'og:image'
-      value: /images/kait-herzog-82421.jpg
+      value: /images/welcome-to-colorado.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
