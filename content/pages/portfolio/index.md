@@ -13,7 +13,9 @@ seo:
       value: Jack Lyons | Portfolio
       keyName: property
     - name: 'og:description'
-      value: This is the portfolio page
+      value: >-
+        Check out my latest work. If you would like help on your next project,
+        get in touch via my contact page!
       keyName: property
     - name: 'og:image'
       value: images/1.jpg
