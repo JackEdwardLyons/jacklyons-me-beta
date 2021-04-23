@@ -17,7 +17,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Project Title 1
+      value: Adventure In My Veins
       keyName: property
     - name: 'og:description'
       value: >-
