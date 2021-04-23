@@ -465,8 +465,8 @@ models:
       - section
     fields:
       - type: markdown
-        name: content
-        label: Content
+        name: title
+        label: Title
         description: The text content of the section.
       - type: markdown
         name: content
