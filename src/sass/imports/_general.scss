@@ -30,8 +30,8 @@ a {
   border-bottom: 1px solid currentColor;
   color: _palette(accent);
   text-decoration: none;
-  -webkit-transition: .3s ease;
-  transition: .3s ease;
+  -webkit-transition: 0.3s ease;
+  transition: 0.3s ease;
 
   .accent-green & {
     color: _palette(accent-green);
@@ -184,15 +184,15 @@ blockquote {
     .accent-green & {
       color: _palette(accent-green);
     }
-  
+
     .accent-blue & {
       color: _palette(accent-blue);
     }
-  
+
     .accent-violet & {
       color: _palette(accent-violet);
     }
-  
+
     .accent-yellow & {
       color: _palette(accent-yellow);
     }
@@ -262,7 +262,7 @@ table {
 }
 
 caption {
-  color: _palette(charcoal-light-40);
+  color: _palette(charcoal-light-20);
   font-size: 0.88889em;
   font-style: normal;
   margin-bottom: 0.9375em;
