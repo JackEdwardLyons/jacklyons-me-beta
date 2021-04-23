@@ -34,7 +34,10 @@ seo:
     - name: 'twitter:title'
       value: Adventure In My Veins
     - name: 'twitter:description'
-      value: This is the project 1 description
+      value: >-
+        Adventure In My Veins is an adventure publication crafted for
+        wanderlusting, thrill seeking, mountain lovers who want to build a
+        location independent lifestyle.
     - name: 'twitter:image'
       value: images/Screen Shot 2021-04-23 at 10.23.44 am.png
       relativeUrl: true
