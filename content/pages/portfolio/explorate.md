@@ -25,7 +25,7 @@ seo:
         industry. 
       keyName: property
     - name: 'og:image'
-      value: images/chris-pagan-sfjS-FglvU4-unsplash(1).jpg
+      value: /images/cargo-ship.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
