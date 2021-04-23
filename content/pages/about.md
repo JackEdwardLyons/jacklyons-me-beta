@@ -18,7 +18,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Me
+      value: Jack Lyons | About Me
       keyName: property
     - name: 'og:description'
       value: >-
