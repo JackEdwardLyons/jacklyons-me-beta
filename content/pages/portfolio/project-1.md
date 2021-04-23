@@ -8,7 +8,10 @@ image: images/Screen Shot 2021-04-22 at 7.59.53 pm.png
 image_alt: Adventure in my veins website
 seo:
   title: Adventure In My Veins
-  description: This is the project 1 description
+  description: >-
+    Adventure In My Veins is an adventure publication crafted for wanderlusting,
+    thrill seeking, mountain lovers who want to build a location independent
+    lifestyle.
   extra:
     - name: 'og:type'
       value: website
