@@ -86,8 +86,11 @@ window.onNextjsAppDidMount = function () {
   window.addEventListener(
     "resize",
     function () {
-      if (document.querySelector(".menu-toggle").offsetParent === null) {
-        document.body.classList.remove("menu--opened");
+      const menuToggle = document.querySelector(".menu-toggle");
+      if (menuToggle) {
+        if (menuToggle.offsetParent === null) {
+          document.body.classList.remove("menu--opened");
+        }
       }
     },
     true
