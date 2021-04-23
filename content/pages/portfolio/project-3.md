@@ -34,7 +34,7 @@ seo:
       relativeUrl: true
 layout: project
 ---
-[**Explorate**](https://www.explorate.co/) is a really promising startup out of Brisbane, Australia. The company has a massive vision to update the shipping and logistics industry. The company is passionate about changing the worlds interaction with freight. They plan make it easy to simply book and track a shipping container from start to finish.
+[**Explorate**](https://www.explorate.co/) is a really promising startup out of Brisbane, Australia. The company has a massive vision to update the shipping and logistics industry. The team are passionate about changing the worlds interaction with freight. They plan make it easy to simply book and track a shipping container from start to finish.
 
 I took on a short-term role at Explorate to help the co-founders build out their application front end using Vue.js. As the sole front end developer at the time, my role was to develop the admin panel, booking system and user profiles from scratch.
 
