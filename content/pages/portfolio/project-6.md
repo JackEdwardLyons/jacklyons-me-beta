@@ -14,7 +14,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Project Title 6
+      value: Jack Lyons | USA Roadtrip App
       keyName: property
     - name: 'og:description'
       value: >-
