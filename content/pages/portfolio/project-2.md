@@ -24,7 +24,7 @@ seo:
         allows one to see the best ways to increase their home’s value.
       keyName: property
     - name: 'og:image'
-      value: images/2.jpg
+      value: images/Screen Shot 2021-04-22 at 8.06.45 pm.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
