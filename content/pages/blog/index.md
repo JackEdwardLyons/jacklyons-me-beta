@@ -5,7 +5,9 @@ hide_title: false
 col_number: three
 seo:
   title: Jack Lyons | Blog
-  description: This is the blog page
+  description: >-
+    I like to write helpful articles on web development, as well as personal and
+    professional development.
   extra:
     - name: 'og:type'
       value: website
