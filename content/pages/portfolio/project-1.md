@@ -23,7 +23,7 @@ seo:
       value: This is the project 1 description
       keyName: property
     - name: 'og:image'
-      value: images/1.jpg
+      value: images/Screen Shot 2021-04-23 at 10.23.44 am.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
