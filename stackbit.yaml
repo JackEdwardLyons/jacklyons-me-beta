@@ -468,6 +468,10 @@ models:
         name: content
         label: Content
         description: The text content of the section.
+      - type: markdown
+        name: content
+        label: Content
+        description: The text content of the section.
       - type: list
         name: actions
         label: Action Buttons
