@@ -33,7 +33,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About Me
+      value: Jack Lyons | About Me
     - name: 'twitter:description'
       value: >-
         I'm a front end web developer from Australia. I enjoy building modern
