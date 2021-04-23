@@ -7,7 +7,7 @@ thumb_image_alt: Adore Beauty logo
 image: images/adore-beauty.png
 image_alt: Adore Beauty logo
 seo:
-  title: Project Title 4
+  title: Jack Lyons | Adore Beauty
   description: This is the project 4 description
   extra:
     - name: 'og:type'
