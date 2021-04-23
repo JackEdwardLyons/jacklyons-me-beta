@@ -107,7 +107,7 @@ sections:
         style: button
 seo:
   title: Jack Lyons | Front End Web Developer
-  description: The preview of the Exto theme
+  description: 'Hi, I''m Jack Lyons. I''m a Front End Developer from Gold Coast, Australia.'
   extra:
     - name: 'og:type'
       value: website
