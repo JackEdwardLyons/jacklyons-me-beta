@@ -50,7 +50,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contact
+      value: Jack Lyons | Contact
       keyName: property
     - name: 'og:description'
       value: >-
