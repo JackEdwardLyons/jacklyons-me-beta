@@ -118,7 +118,10 @@ seo:
       value: Jack Lyons | Front End Web Developer
       keyName: property
     - name: 'og:description'
-      value: The preview of the Exto theme
+      value: >-
+        I enjoy building modern web sites and applications with Vue, React,
+        TypeScript, GraphQL, TailwindCSS and Sass. Contact me today for help on
+        your next project!
       keyName: property
     - name: 'og:image'
       value: images/exto_preview.png
