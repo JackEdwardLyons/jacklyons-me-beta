@@ -5,7 +5,7 @@ date: '2019-01-05'
 thumb_image: images/royal-hedgehog.png
 thumb_image_alt: Squiz Matrix logo
 image: images/royal-hedgehog.png
-image_alt: A white gamepad on a green background
+image_alt: Squiz Matrix logo
 seo:
   title: Project Title 5
   description: This is the project 5 description
