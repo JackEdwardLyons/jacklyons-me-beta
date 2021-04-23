@@ -38,9 +38,6 @@ seo:
         Matrix is a market leading enterprise CMS, used around the world on a
         huge variety of commercial websites, including universities and
         government agencies.
-    - name: 'twitter:image'
-      value: Jack Lyons | Squiz Matrix
-      relativeUrl: true
 layout: project
 ---
 [**Matrix**](https://www.squiz.net/technology/cms) is a market leading enterprise CMS, used around the world on a huge variety of commercial websites, including universities, government agencies, local councils, and more.
