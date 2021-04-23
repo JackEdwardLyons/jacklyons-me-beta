@@ -40,7 +40,11 @@ sections:
     submit_label: Send Message
 seo:
   title: Jack Lyons | Contact
-  description: This is the contact page
+  description: >-
+    Have any questions about your next website or web application project? Feel
+    free to get in touch with me! I’ll do my best to get back to you
+
+    ASAP.
   extra:
     - name: 'og:type'
       value: website
