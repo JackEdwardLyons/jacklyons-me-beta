@@ -29,7 +29,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Project Title 6
+      value: Jack Lyons | USA Roadtrip App
     - name: 'twitter:description'
       value: >-
         In 2017 my wife and I spent six months living and road tripping across
