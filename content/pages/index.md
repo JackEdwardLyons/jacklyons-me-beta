@@ -52,12 +52,8 @@ sections:
           right data to the right place!
       - title: WordPress & Headless CMS solutions
         content: >
-          Apollo is the industry-standard GraphQL implementation, providing the
-          data graph layer that connects modern apps to the cloud. REST APIs are
-          not a good fit for modern apps because they require large amounts of
-          hard-to-manage data fetching code. With Apollo, components simply
-          declare their data requirements using GraphQL and Apollo gets the
-          right data to the right place!
+          WordPress is by far the most popular platform for custom client
+          websites. I also use it to build eCommerce websites too.
       - title: WordPress
         image_alt: lorem-ipsum
         content: >
