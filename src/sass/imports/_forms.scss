@@ -60,22 +60,22 @@ option {
     height: 2px;
     left: 0;
     position: absolute;
-    -webkit-transition: width .3s;
-    transition: width .3s;
+    -webkit-transition: width 0.3s;
+    transition: width 0.3s;
     width: 0;
 
     .accent-green & {
       background: _palette(accent-green);
     }
-  
+
     .accent-blue & {
       background: _palette(accent-blue);
     }
-  
+
     .accent-violet & {
       background: _palette(accent-violet);
     }
-  
+
     .accent-yellow & {
       background: _palette(accent-yellow);
     }
@@ -106,7 +106,7 @@ option {
   &:before,
   &:after {
     border: solid transparent;
-    border-width: .3125em;
+    border-width: 0.3125em;
     box-sizing: border-box;
     content: "";
     position: absolute;
@@ -116,8 +116,8 @@ option {
   }
 
   &:before {
-    border-top-color: _palette(charcoal-light-40);
-    margin-top: .125em;
+    border-top-color: _palette(charcoal-light-20);
+    margin-top: 0.125em;
 
     .palette-dark & {
       border-top-color: _palette(charcoal-light-25);
@@ -125,8 +125,8 @@ option {
   }
 
   &:after {
-    border-bottom-color: _palette(charcoal-light-40);
-    margin-top: -.75em;
+    border-bottom-color: _palette(charcoal-light-20);
+    margin-top: -0.75em;
 
     .palette-dark & {
       border-bottom-color: _palette(charcoal-light-25);
@@ -142,7 +142,7 @@ option {
     font-weight: normal;
   }
 
-  input[type=checkbox] {
+  input[type="checkbox"] {
     height: 1.5em;
     left: 0;
     position: absolute;
@@ -152,44 +152,44 @@ option {
 
 // Placeholder text color
 ::-webkit-input-placeholder {
-  color: _palette(charcoal-light-40);
+  color: _palette(charcoal-light-20);
 }
 
 ::-moz-placeholder {
-  color: _palette(charcoal-light-40);
+  color: _palette(charcoal-light-20);
   opacity: 1;
 }
 
 :-ms-input-placeholder {
-  color: _palette(charcoal-light-40);
+  color: _palette(charcoal-light-20);
 }
 
 ::-ms-input-placeholder {
-  color: _palette(charcoal-light-40);
+  color: _palette(charcoal-light-20);
 }
 
 ::placeholder {
-  color: _palette(charcoal-light-40);
+  color: _palette(charcoal-light-20);
 }
 
 .palette-dark {
   ::-webkit-input-placeholder {
     color: _palette(charcoal-light-25);
   }
-  
+
   ::-moz-placeholder {
     color: _palette(charcoal-light-25);
     opacity: 1;
   }
-  
+
   :-ms-input-placeholder {
     color: _palette(charcoal-light-25);
   }
-  
+
   ::-ms-input-placeholder {
     color: _palette(charcoal-light-25);
   }
-  
+
   ::placeholder {
     color: _palette(charcoal-light-25);
   }

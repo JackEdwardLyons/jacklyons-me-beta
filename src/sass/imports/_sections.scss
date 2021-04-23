@@ -24,7 +24,7 @@
 }
 
 .block-subtitle {
-  color: _palette(charcoal-light-40);
+  color: _palette(charcoal-light-20);
   font-size: 0.88889em;
   line-height: 1.5;
   margin: 0.5em 0 0;
@@ -129,8 +129,8 @@
   left: 50%;
   position: absolute;
   top: 50%;
-  -webkit-transform: translate(-50%,-50%);
-  transform: translate(-50%,-50%);
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
   z-index: 2;
 
   .accent-green & {
@@ -157,22 +157,22 @@
     height: 32%;
     left: 0;
     position: absolute;
-    transition: .3s ease;
-    -webkit-transition: .3s ease;
+    transition: 0.3s ease;
+    -webkit-transition: 0.3s ease;
     width: 100%;
 
     .accent-green & {
       border-color: _palette(accent-green);
     }
-  
+
     .accent-blue & {
       border-color: _palette(accent-blue);
     }
-  
+
     .accent-violet & {
       border-color: _palette(accent-violet);
     }
-  
+
     .accent-yellow & {
       border-color: _palette(accent-yellow);
     }
