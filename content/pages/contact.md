@@ -64,6 +64,10 @@ seo:
     - name: 'twitter:title'
       value: Contact
     - name: 'twitter:description'
-      value: This is the contact page
+      value: >-
+        Have any questions about your next website or web application project?
+        Feel free to get in touch with me! I’ll do my best to get back to you
+
+        ASAP.
 layout: advanced
 ---
