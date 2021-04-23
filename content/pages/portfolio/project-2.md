@@ -36,7 +36,7 @@ seo:
         SoldNest is a California based start-up with a brilliant tool that
         allows one to see the best ways to increase their home’s value.
     - name: 'twitter:image'
-      value: images/2.jpg
+      value: images/Screen Shot 2021-04-22 at 8.06.45 pm.png
       relativeUrl: true
 layout: project
 ---
