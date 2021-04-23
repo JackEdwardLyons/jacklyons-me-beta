@@ -8,7 +8,9 @@ image: images/Screen Shot 2021-04-22 at 8.06.45 pm.png
 image_alt: An image of the SoldNest website
 seo:
   title: SoldNest
-  description: This is the project 2 description
+  description: >-
+    SoldNest is a California based start-up with a brilliant tool that allows
+    one to see the best ways to increase their home’s value.
   extra:
     - name: 'og:type'
       value: website
