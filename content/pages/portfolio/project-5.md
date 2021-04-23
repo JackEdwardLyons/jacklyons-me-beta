@@ -7,7 +7,7 @@ thumb_image_alt: Squiz Matrix logo
 image: images/royal-hedgehog.png
 image_alt: Squiz Matrix logo
 seo:
-  title: Project Title 5
+  title: Jack Lyons | Squiz Matrix
   description: >-
     Matrix is a market leading enterprise CMS, used around the world on a huge
     variety of commercial websites, including universities and government
