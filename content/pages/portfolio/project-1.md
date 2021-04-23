@@ -33,7 +33,7 @@ seo:
     - name: 'twitter:description'
       value: This is the project 1 description
     - name: 'twitter:image'
-      value: images/1.jpg
+      value: images/Screen Shot 2021-04-23 at 10.23.44 am.png
       relativeUrl: true
 layout: project
 ---
