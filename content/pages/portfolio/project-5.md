@@ -20,7 +20,10 @@ seo:
       value: Project Title 5
       keyName: property
     - name: 'og:description'
-      value: This is the project 5 description
+      value: >-
+        Matrix is a market leading enterprise CMS, used around the world on a
+        huge variety of commercial websites, including universities and
+        government agencies.
       keyName: property
     - name: 'og:image'
       value: images/5.jpg
