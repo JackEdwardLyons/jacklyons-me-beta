@@ -27,7 +27,7 @@ seo:
         TailwindCSS and Sass.
       keyName: property
     - name: 'og:image'
-      value: images/about.jpg
+      value: images/9.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
