@@ -63,5 +63,6 @@
             }
         ]
     },
-    "domain": "https://jacks-website-8f246.netlify.app"
+    "domain": "https://jacks-website-8f246.netlify.app",
+    "favicon": "images/jack.png"
 }
