@@ -4,7 +4,7 @@ subtitle: A simple app to explore America's cities.
 date: '2018-12-18'
 thumb_image: images/welcome-to-colorado.jpg
 thumb_image_alt: An image of a "Welcome to Colorado" sign
-image: images/interesting-panda.jpg
+image: images/welcome-to-colorado.jpg
 image_alt: An image of a "Welcome to Colorado" sign
 seo:
   title: Jack Lyons | USA Roadtrip App
