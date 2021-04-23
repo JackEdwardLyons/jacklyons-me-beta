@@ -6,10 +6,9 @@ sections:
     type: section_hero
     title: 'Hi, I''m Jack Lyons. I''m a Front End Developer from Gold Coast, Australia.'
     content: >
-      I'm a front end web developer from Brisbane, Australia. I enjoy building
-      modern web sites and applications with Vue, React, ES2020+, TypeScript,
-      GraphQL, TailwindCSS and Sass. Contact me today for help on your next
-      project!
+      I enjoy building modern web sites and applications with Vue, React,
+      ES2020+, TypeScript, GraphQL, TailwindCSS and Sass. Contact me today for
+      help on your next project!
     actions:
       - label: Let's talk
         url: /contact
