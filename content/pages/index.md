@@ -124,7 +124,7 @@ seo:
         your next project!
       keyName: property
     - name: 'og:image'
-      value: images/exto_preview.png
+      value: /images/9.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
