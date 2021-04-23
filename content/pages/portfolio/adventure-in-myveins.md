@@ -26,7 +26,7 @@ seo:
         location independent lifestyle.
       keyName: property
     - name: 'og:image'
-      value: images/Screen Shot 2021-04-23 at 10.23.44 am.png
+      value: /images/aimv-screenshot.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
