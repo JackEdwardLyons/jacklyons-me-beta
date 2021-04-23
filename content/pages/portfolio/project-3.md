@@ -31,7 +31,10 @@ seo:
     - name: 'twitter:title'
       value: Project Title 3
     - name: 'twitter:description'
-      value: This is the project 3 description
+      value: >-
+        Explorate is a really promising startup out of Brisbane, Australia. The
+        company has a massive vision to update the shipping and logistics
+        industry. 
     - name: 'twitter:image'
       value: images/3.jpg
       relativeUrl: true
