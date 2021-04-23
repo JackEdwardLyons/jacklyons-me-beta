@@ -8,7 +8,9 @@ image: images/adore-beauty.png
 image_alt: Adore Beauty logo
 seo:
   title: Jack Lyons | Adore Beauty
-  description: This is the project 4 description
+  description: >-
+    Adore Beauty is Australia’s longest-running online beauty stores, and an
+    official stockist of over 200 leading global beauty brands.
   extra:
     - name: 'og:type'
       value: website
