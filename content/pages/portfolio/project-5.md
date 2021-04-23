@@ -34,7 +34,10 @@ seo:
     - name: 'twitter:title'
       value: Project Title 5
     - name: 'twitter:description'
-      value: This is the project 5 description
+      value: >-
+        Matrix is a market leading enterprise CMS, used around the world on a
+        huge variety of commercial websites, including universities and
+        government agencies.
     - name: 'twitter:image'
       value: images/5.jpg
       relativeUrl: true
