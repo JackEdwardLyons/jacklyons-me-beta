@@ -5,7 +5,7 @@ date: '2018-12-18'
 thumb_image: images/interesting-panda.jpg
 thumb_image_alt: An image of a "Welcome to Colorado" sign
 image: images/interesting-panda.jpg
-image_alt: A handheld game console on a yellow background
+image_alt: An image of a "Welcome to Colorado" sign
 seo:
   title: Project Title 6
   description: This is the project 6 description
