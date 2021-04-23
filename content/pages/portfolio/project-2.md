@@ -7,7 +7,7 @@ thumb_image_alt: An image of a house
 image: images/Screen Shot 2021-04-22 at 8.06.45 pm.png
 image_alt: An image of the SoldNest website
 seo:
-  title: Project Title 2
+  title: SoldNest
   description: This is the project 2 description
   extra:
     - name: 'og:type'
