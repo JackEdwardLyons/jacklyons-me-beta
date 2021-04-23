@@ -13,7 +13,7 @@ export default class SectionHero extends React.Component {
                 {_.get(section, 'title', null) && (
                 <div className="block-header inner-sm">
                     <h1 className="block-title">{_.get(section, 'title', null)}</h1>
-                    <h2>{markdownify(_.get(section, 'content', null))}</h2>
+                    <h2>{markdownify(_.get(section, 'title', null))}</h2>
                 </div>
                 )}
                 {_.get(section, 'content', null) && (
