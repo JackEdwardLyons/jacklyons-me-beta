@@ -3,7 +3,7 @@ title: Squiz Matrix CMS
 subtitle: 'Flexible, simple content management.'
 date: '2019-01-05'
 thumb_image: images/royal-hedgehog.png
-thumb_image_alt: A white gamepad on a green background
+thumb_image_alt: Squiz Matrix logo
 image: images/royal-hedgehog.png
 image_alt: A white gamepad on a green background
 seo:
