@@ -8,7 +8,7 @@ image: images/interesting-panda.jpg
 image_alt: An image of a "Welcome to Colorado" sign
 seo:
   title: Jack Lyons | USA Roadtrip App
-  description: This is the project 6 description
+  description: "In 2017 my wife and I spent six months living and road tripping across the United States. I decided to learn about\_Vue.js and build a USA Roadtrip App."
   extra:
     - name: 'og:type'
       value: website
