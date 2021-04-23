@@ -467,7 +467,7 @@ models:
       - type: markdown
         name: title
         label: Title
-        description: The text content of the section.
+        description: The text content of the title.
       - type: markdown
         name: content
         label: Content
