@@ -3,7 +3,7 @@ title: USA Roadtrip App
 subtitle: A simple app to explore America's cities.
 date: '2018-12-18'
 thumb_image: images/interesting-panda.jpg
-thumb_image_alt: A handheld game console on a yellow background
+thumb_image_alt: Welcome to Colorado image
 image: images/interesting-panda.jpg
 image_alt: A handheld game console on a yellow background
 seo:
