@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Jack Lyons. I''m a Front End Developer from Gold Coast, Australia'
+    title: 'Hi, I''m Jack Lyons. I''m a Front End Developer from Gold Coast, Australia.'
     content: >
       I'm a front end web developer from Brisbane, Australia. I enjoy building
       modern web sites and applications with Vue, React, ES2020+, TypeScript,
@@ -42,12 +42,6 @@ sections:
           making and code co-ordination with other third party libraries. React
           is a great tool for building powerful, modern web apps and I
           especially love using React Hooks and Functional Components.
-      - title: Node.js
-        content: >
-          My preferred tech stack uses Node.js on the back end as it allows me
-          to leverage all the latest JavaScript syntax and features. Node has an
-          extensive package ecosystem (npm) and is easy to get up and running
-          fast.
       - title: GraphQL with Apollo
         content: >
           Apollo is the industry-standard GraphQL implementation, providing the
@@ -56,13 +50,16 @@ sections:
           hard-to-manage data fetching code. With Apollo, components simply
           declare their data requirements using GraphQL and Apollo gets the
           right data to the right place!
-      - title: WordPress
-        image_alt: lorem-ipsum
+      - title: WordPress & Headless CMS solutions
         content: >
           WordPress is by far the most popular platform for custom client
-          websites. I also use it to build eCommerce websites too.
-        actions: []
-        type: grid_item
+          websites. I also use it to build eCommerce websites too. However, it's
+          bulky and slow, and easily hackable. That's where **headless CMS**
+          solutions come to the rescue! A headless CMS is a back-end only
+          content management 
+
+          system built as a content repository that makes content accessible via
+          an API for display on any device.
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
