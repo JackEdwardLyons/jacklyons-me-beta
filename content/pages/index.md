@@ -107,10 +107,9 @@ sections:
 seo:
   title: Jack Lyons | Front End Web Developer
   description: >-
-    I'm a front end web developer from Brisbane, Australia. I enjoy building
-    modern web sites and applications with Vue, React, ES2020+, TypeScript,
-    GraphQL, TailwindCSS and Sass. Contact me today for help on your next
-    project!
+    I enjoy building modern web sites and applications with Vue, React,
+    TypeScript, GraphQL, TailwindCSS and Sass. Contact me today for help on your
+    next project!
   extra:
     - name: 'og:type'
       value: website
