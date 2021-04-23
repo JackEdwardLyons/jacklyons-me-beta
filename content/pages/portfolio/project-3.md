@@ -7,7 +7,7 @@ thumb_image_alt: An image of a cargo ship
 image: images/chris-pagan-sfjS-FglvU4-unsplash(1).jpg
 image_alt: An image of a cargo ship
 seo:
-  title: Project Title 3
+  title: Explorate
   description: >-
     Explorate is a really promising startup out of Brisbane, Australia. The
     company has a massive vision to update the shipping and logistics industry. 
