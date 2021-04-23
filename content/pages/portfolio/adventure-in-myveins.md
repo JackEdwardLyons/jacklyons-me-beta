@@ -39,7 +39,7 @@ seo:
         wanderlusting, thrill seeking, mountain lovers who want to build a
         location independent lifestyle.
     - name: 'twitter:image'
-      value: images/Screen Shot 2021-04-23 at 10.23.44 am.png
+      value: /images/aimv-screenshot.png
       relativeUrl: true
 layout: project
 ---
