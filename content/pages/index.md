@@ -54,13 +54,6 @@ sections:
         content: >
           WordPress is by far the most popular platform for custom client
           websites. I also use it to build eCommerce websites too.
-      - title: WordPress
-        image_alt: lorem-ipsum
-        content: >
-          WordPress is by far the most popular platform for custom client
-          websites. I also use it to build eCommerce websites too.
-        actions: []
-        type: grid_item
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
