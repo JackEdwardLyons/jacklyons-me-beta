@@ -8,7 +8,7 @@ subtitle: |-
 image: images/9.jpg
 image_alt: A man taking a picture
 seo:
-  title: About Me
+  title: Jack Lyons | About Me
   description: >-
     I'm a front end web developer from Australia. I enjoy building modern web
     sites and applications with Vue, React, ES2015+, GraphQL, TailwindCSS and
