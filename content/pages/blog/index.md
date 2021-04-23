@@ -22,7 +22,9 @@ seo:
     - name: 'twitter:title'
       value: Jack Lyons | Blog
     - name: 'twitter:description'
-      value: This is the blog page
+      value: >-
+        I like to write helpful articles on web development, as well as personal
+        and professional development.
     - name: 'twitter:image'
       value: images/12.jpg
       relativeUrl: true
