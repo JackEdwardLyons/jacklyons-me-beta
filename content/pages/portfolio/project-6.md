@@ -38,7 +38,7 @@ layout: project
 
 *Note: this project is hosted for free on *[***Glitch***](http://glitch.com/)*, which means it might be asleep and therefore take just a little while to "wake up". Just hang in there til it loads.*
 
-In 2017 my partner and I spent six months living and road tripping across the United States. While we were on the road I decided to learn about the super-hot-and-trending [**Vue.js**](https://vuejs.org/)** **framework and build a USA Roadtrip App along the way. I gotta say, there’s a reason why Vue is so damn popular! It's a really great framework.
+In 2017 my wife and I spent six months living and road tripping across the United States. While we were on the road I decided to learn about the super-hot-and-trending [**Vue.js**](https://vuejs.org/) framework and build a USA Roadtrip App along the way. I gotta say, there’s a reason why Vue is so damn popular! It's a really great framework.
 
 This project was built *without* using [**Vuex**](https://vuex.vuejs.org/), the popular state management library. The reason *why* I chose not to use it was because I wanted to find out first hand where and when the pain point/s exist as an application scales. Vuex is there to help manage state but sometimes it can be overkill for a simple application.  Once you've felt some of the pain points of passing state around in your app, you'll appreciate the need for Vuex. This app sat right on the Vuex cusp and I did start to notice some quirks when managing the "loading" state of the application. This was because data was being fetched by a parent component and then passed as props down to the child components but also emitted back up to the parent.
 
