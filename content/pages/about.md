@@ -14,41 +14,42 @@ seo:
     sites and applications with Vue, React, ES2015+, GraphQL, TailwindCSS and
     Sass.
   extra:
-    - name: 'og:type'
+    - name: "og:type"
       value: website
       keyName: property
-    - name: 'og:title'
+    - name: "og:title"
       value: Jack Lyons | About Me
       keyName: property
-    - name: 'og:description'
+    - name: "og:description"
       value: >-
         I'm a front end web developer from Australia. I enjoy building modern
         web sites and applications with Vue, React, ES2015+, GraphQL,
         TailwindCSS and Sass.
       keyName: property
-    - name: 'og:image'
+    - name: "og:image"
       value: images/9.jpg
       keyName: property
       relativeUrl: true
-    - name: 'twitter:card'
+    - name: "twitter:card"
       value: summary_large_image
-    - name: 'twitter:title'
+    - name: "twitter:title"
       value: Jack Lyons | About Me
-    - name: 'twitter:description'
+    - name: "twitter:description"
       value: >-
         I'm a front end web developer from Australia. I enjoy building modern
         web sites and applications with Vue, React, ES2015+, GraphQL,
         TailwindCSS and Sass.
-    - name: 'twitter:image'
+    - name: "twitter:image"
       value: images/9.jpg
       relativeUrl: true
 layout: page
 ---
+
 Hi there, my name's Jack Lyons. I'm an expert front end React and Vue developer from Brisbane, Australia 🇦🇺. My preferred tech stack includes Vue.js or Nuxt.js on the front end coupled with Node.js on the back end. I enjoy working on responsive, mobile-first websites, web app's and SaaS products.
 
 When I'm not coding you can usually find me outdoors rock climbing, travelling the world, digital nomadding from cafes and coworking spaces or attending dev meetups. I also write rock climbing and travel articles on my other blog called [**Adventureinmyveins**](https://www.adventureinmyveins.com). It's an adventure publication crafted for rock climbers and mountain lovers who want to travel the world & build a location independent lifestyle.
 
-My background is in Urban Planning and I have a degree from the University of Queensland. I have also studied abroad in Austria, where I learnt German, studied Environmental Sustainability at the Karl-Franzens-Universität\* Graz\* 🇦🇹. It was there at university where I also met my wife Zoe [***@wildblend.***](https://www.instagram.com/wildblend/)
+My background is in Urban Planning and I have a degree from the University of Queensland. I have also studied abroad in Austria, where I learnt German, studied Environmental Sustainability at the Karl-Franzens-Universität\* Graz\* 🇦🇹. It was there at university where I also met my wife Zoe [**_@wildblend._**](https://www.instagram.com/wildblend/)
 
 While I don't work as an urban planner anymore, I am still deeply interested in the emerging wave of "[**urban tech**](https://www.quora.com/What-is-urban-tech)" and "[**smart city**](https://en.wikipedia.org/wiki/Smart_city)" startups around the world. I would love to merge my passion for web and software development to solve the challenges of our modern built and natural environment. If you are looking for a front end developer for your urban tech startup, then please let me know!
 
