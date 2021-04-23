@@ -7,7 +7,7 @@ thumb_image_alt: An image of a "Welcome to Colorado" sign
 image: images/interesting-panda.jpg
 image_alt: An image of a "Welcome to Colorado" sign
 seo:
-  title: Project Title 6
+  title: Jack Lyons | USA Roadtrip App
   description: This is the project 6 description
   extra:
     - name: 'og:type'
