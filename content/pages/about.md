@@ -35,7 +35,10 @@ seo:
     - name: 'twitter:title'
       value: About Us
     - name: 'twitter:description'
-      value: This is the about us page
+      value: >-
+        I'm a front end web developer from Australia. I enjoy building modern
+        web sites and applications with Vue, React, ES2015+, GraphQL,
+        TailwindCSS and Sass.
     - name: 'twitter:image'
       value: images/about.jpg
       relativeUrl: true
