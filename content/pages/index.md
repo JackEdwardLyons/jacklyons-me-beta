@@ -108,8 +108,10 @@ sections:
 seo:
   title: Jack Lyons | Front End Web Developer
   description: >-
-    Hi, I'm Jack Lyons. I'm a Front End Developer from Gold Coast, Australia.
-    Contact me today for help on your next project!
+    I'm a front end web developer from Brisbane, Australia. I enjoy building
+    modern web sites and applications with Vue, React, ES2020+, TypeScript,
+    GraphQL, TailwindCSS and Sass. Contact me today for help on your next
+    project!
   extra:
     - name: 'og:type'
       value: website
