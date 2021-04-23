@@ -36,7 +36,7 @@ seo:
         the United States. I decided to learn about Vue.js and build a USA
         Roadtrip App.
     - name: 'twitter:image'
-      value: /images/kait-herzog-82421.jpg
+      value: /images/welcome-to-colorado.jpg
       relativeUrl: true
 layout: project
 ---
