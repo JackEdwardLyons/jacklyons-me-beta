@@ -62,7 +62,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Contact
+      value: Jack Lyons | Contact
     - name: 'twitter:description'
       value: >-
         Have any questions about your next website or web application project?
