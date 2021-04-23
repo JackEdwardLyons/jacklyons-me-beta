@@ -32,7 +32,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Project Title 1
+      value: Adventure In My Veins
     - name: 'twitter:description'
       value: This is the project 1 description
     - name: 'twitter:image'
