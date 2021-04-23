@@ -26,5 +26,11 @@ seo:
     - name: 'twitter:image'
       value: images/12.jpg
       relativeUrl: true
+    - name: 'og:description'
+      value: >-
+        I like to write helpful articles on web development, as well as personal
+        and professional development.
+      keyName: property
+      relativeUrl: false
 layout: blog
 ---
