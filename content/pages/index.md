@@ -50,7 +50,7 @@ sections:
           hard-to-manage data fetching code. With Apollo, components simply
           declare their data requirements using GraphQL and Apollo gets the
           right data to the right place!
-      - title: GraphQL with Apollo
+      - title: WordPress & Headless CMS solutions
         content: >
           Apollo is the industry-standard GraphQL implementation, providing the
           data graph layer that connects modern apps to the cloud. REST APIs are
