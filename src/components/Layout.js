@@ -10,7 +10,7 @@ export default class Body extends React.Component {
   render() {
     return (
       <React.Fragment>
-        <Helmet>
+        <Helmet htmlAttributes={{ lang: "en" }}>
           <title>
             {_.get(this.props, "page.frontmatter.seo.title", null)
               ? _.get(this.props, "page.frontmatter.seo.title", null)
