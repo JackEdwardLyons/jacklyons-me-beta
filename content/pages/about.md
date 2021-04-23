@@ -21,7 +21,10 @@ seo:
       value: About Me
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: >-
+        I'm a front end web developer from Australia. I enjoy building modern
+        web sites and applications with Vue, React, ES2015+, GraphQL,
+        TailwindCSS and Sass.
       keyName: property
     - name: 'og:image'
       value: images/about.jpg
