@@ -24,7 +24,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Portfolio
+      value: Jack Lyons | Portfolio
     - name: 'twitter:description'
       value: >-
         Check out my latest work. If you would like help on your next project,
