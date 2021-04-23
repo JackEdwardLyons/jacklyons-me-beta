@@ -19,7 +19,9 @@ seo:
       value: Jack Lyons | Adore Beauty
       keyName: property
     - name: 'og:description'
-      value: This is the project 4 description
+      value: >-
+        Adore Beauty is Australia’s longest-running online beauty stores, and an
+        official stockist of over 200 leading global beauty brands.
       keyName: property
     - name: 'og:image'
       value: images/adore-beauty.png
@@ -30,7 +32,9 @@ seo:
     - name: 'twitter:title'
       value: Jack Lyons | Adore Beauty
     - name: 'twitter:description'
-      value: This is the project 4 description
+      value: >-
+        Adore Beauty is Australia’s longest-running online beauty stores, and an
+        official stockist of over 200 leading global beauty brands.
     - name: 'twitter:image'
       value: images/adore-beauty.png
       relativeUrl: true
