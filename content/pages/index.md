@@ -44,10 +44,12 @@ sections:
           especially love using React Hooks and Functional Components.
       - title: Node.js
         content: >
-          My preferred tech stack uses Node.js on the back end as it allows me
-          to leverage all the latest JavaScript syntax and features. Node has an
-          extensive package ecosystem (npm) and is easy to get up and running
-          fast.
+          Apollo is the industry-standard GraphQL implementation, providing the
+          data graph layer that connects modern apps to the cloud. REST APIs are
+          not a good fit for modern apps because they require large amounts of
+          hard-to-manage data fetching code. With Apollo, components simply
+          declare their data requirements using GraphQL and Apollo gets the
+          right data to the right place!
       - title: GraphQL with Apollo
         content: >
           Apollo is the industry-standard GraphQL implementation, providing the
