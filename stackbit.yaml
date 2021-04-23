@@ -467,7 +467,7 @@ models:
       - type: markdown
         name: title
         label: Title
-        description: The text content of the title.
+        description: The text content of the hero title.
       - type: markdown
         name: content
         label: Content
