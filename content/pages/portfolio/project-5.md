@@ -32,7 +32,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Project Title 5
+      value: /images/good-thyme.png
     - name: 'twitter:description'
       value: >-
         Matrix is a market leading enterprise CMS, used around the world on a
