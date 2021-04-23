@@ -3,7 +3,7 @@ title: Portfolio
 subtitle: This is an optional subtitle for the portfolio page.
 layout_style: mosaic
 seo:
-  title: Portfolio
+  title: Jack Lyons | Portfolio
   description: >-
     Check out my latest work. If you would like help on your next project, get
     in touch via my contact page!
