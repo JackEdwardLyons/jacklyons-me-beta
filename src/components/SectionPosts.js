@@ -10,6 +10,7 @@ export default class SectionPosts extends React.Component {
     let section = _.get(this.props, "section", null);
     let display_posts = _.orderBy(getPages(this.props.pages, "/blog"), "frontmatter.date", "desc");
     let recent_posts = display_posts.slice(0, _.get(section, "posts_number", null));
+
     return (
       <section id={_.get(section, "section_id", null)} className="block block-posts outer">
         <div className="inner">
