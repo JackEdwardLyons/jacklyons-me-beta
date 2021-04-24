@@ -1,6 +1,6 @@
 ---
 title: Squiz Matrix CMS
-subtitle: 'Flexible, simple content management.'
+subtitle: Squiz Matrix
 date: '2019-01-05'
 thumb_image: images/royal-hedgehog.png
 thumb_image_alt: Squiz Matrix logo
