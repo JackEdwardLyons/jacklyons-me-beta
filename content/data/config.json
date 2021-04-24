@@ -1,68 +1,68 @@
 {
-  "title": "Jack Lyons | Front End Developer",
-  "path_prefix": "/",
-  "color_scheme": "light",
-  "accent_color": "pink",
-  "header": {
     "title": "Jack Lyons | Front End Developer",
-    "has_nav": true,
-    "nav_links": [
-      {
-        "label": "Home",
-        "url": "/",
-        "style": "link"
-      },
-      {
-        "label": "Portfolio",
-        "url": "/portfolio/",
-        "style": "link"
-      },
-      {
-        "label": "Blog",
-        "url": "/blog/",
-        "style": "link"
-      },
-      {
-        "label": "About",
-        "url": "/about/",
-        "style": "link"
-      },
-      {
-        "label": "Contact",
-        "url": "/contact/",
-        "style": "link"
-      }
-    ],
-    "logo_img": "images/jack.png",
-    "logo_img_alt": "JackLyons.me logo"
-  },
-  "footer": {
-    "content": "Built by Jack Lyons in 2021 with <a href=\"https://nextjs.org/\" target=\"_blank\" rel=\"noopener\">Next.js</a> & <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>.",
-    "has_social": true,
-    "social_links": [
-      {
-        "label": "Twitter",
-        "url": "https://twitter.com/",
-        "style": "icon",
-        "icon": "twitter",
-        "new_window": true
-      },
-      {
-        "label": "Instagram",
-        "url": "https://www.instagram.com/",
-        "style": "icon",
-        "icon": "instagram",
-        "new_window": true
-      },
-      {
-        "label": "LinkedIn",
-        "url": "https://www.linkedin.com/",
-        "style": "icon",
-        "icon": "linkedin",
-        "new_window": true
-      }
-    ]
-  },
-  "domain": "https://jacks-website-8f246.netlify.app",
-  "favicon": "images/jack.png"
+    "path_prefix": "/",
+    "color_scheme": "light",
+    "accent_color": "pink",
+    "header": {
+        "title": "Jack Lyons | Front End Developer",
+        "has_nav": true,
+        "nav_links": [
+            {
+                "label": "Home",
+                "url": "/",
+                "style": "link"
+            },
+            {
+                "label": "Portfolio",
+                "url": "/portfolio/",
+                "style": "link"
+            },
+            {
+                "label": "Blog",
+                "url": "/blog/",
+                "style": "link"
+            },
+            {
+                "label": "About",
+                "url": "/about/",
+                "style": "link"
+            },
+            {
+                "label": "Contact",
+                "url": "/contact/",
+                "style": "link"
+            }
+        ],
+        "logo_img": "images/jack.png",
+        "logo_img_alt": "JackLyons.me logo"
+    },
+    "footer": {
+        "content": "Built by Jack Lyons in 2021 with <a href=\"https://nextjs.org/\" target=\"_blank\" rel=\"noopener\">Next.js</a> & <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>.",
+        "has_social": true,
+        "social_links": [
+            {
+                "label": "Twitter",
+                "url": "https://twitter.com/",
+                "style": "icon",
+                "icon": "twitter",
+                "new_window": true
+            },
+            {
+                "label": "Instagram",
+                "url": "https://www.instagram.com/",
+                "style": "icon",
+                "icon": "instagram",
+                "new_window": true
+            },
+            {
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/in/jacklyons89/",
+                "style": "icon",
+                "icon": "linkedin",
+                "new_window": true
+            }
+        ]
+    },
+    "domain": "https://jacks-website-8f246.netlify.app",
+    "favicon": "images/jack.png"
 }
