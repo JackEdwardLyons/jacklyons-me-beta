@@ -74,7 +74,7 @@ sections:
           proficient front-end developer and has a great handle on the Vue JS 
           framework.
       - author: 'Phil Lascala, Founder of Evac Guide'
-        avatar: images/Screen Shot 2021-04-22 at 7.17.20 pm.png
+        avatar: images/evac-guide-logo.png
         avatar_alt: Aubrey Hoover's photo
         content: >-
           Jack was an incredible asset to our team.      He continued to provide
