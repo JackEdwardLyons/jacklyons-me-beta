@@ -186,9 +186,7 @@ I found out that the code was breaking after requiring another package: `lru-cac
 
 I hope these tips helped. If you have any other helpful suggestions, please leave me a comment below and I'll be sure to update this post!
 
-\---
-
-[Learn Vue *fast* with The Complete Guide (inc. Vue Router, Vuex, & Vue 3 Composition API)](https://bit.ly/39CwzPZ)
+#### [Learn Vue *fast* with The Complete Guide (inc. Vue Router, Vuex, & Vue 3 Composition API)](https://bit.ly/39CwzPZ)
 
 Learn and master one of the hottest JS frameworks out there! You will learn everything there is to know about VueJS with **real examples and demo projects.** This course is full of exercises, challenges and bigger web app projects that allow you to directly practice what you learned. This a serious portfolio booster if you're looking to learn a *modern JavaScript framework similar to React and Angular.*
 
