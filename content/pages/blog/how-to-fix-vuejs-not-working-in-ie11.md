@@ -37,8 +37,8 @@ seo:
         This is a post borne out of frustration to help all those poor souls out
         there trying to find a solution to the dreaded IE white screen of death.
     - name: 'twitter:image'
-      value: 'https://jacklyons.me/wp-content/uploads/2020/04/ie-11-1043x700.png'
-      relativeUrl: false
+      value: /images/ie-11.png
+      relativeUrl: true
 layout: post
 ---
 
