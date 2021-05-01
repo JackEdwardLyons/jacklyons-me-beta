@@ -9,10 +9,6 @@ const DisqusComments = ({ post }) => {
     title: post.title,
   };
 
-  if (window && window.location.href.includes("app.stackbit.com/studio")) {
-    return null;
-  }
-
   return (
     <div>
       <DiscussionEmbed shortname={disqusShortname} config={disqusConfig} />
