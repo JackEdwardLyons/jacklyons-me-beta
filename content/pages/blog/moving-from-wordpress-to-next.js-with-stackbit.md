@@ -16,6 +16,13 @@ seo:
       value: Moving from WordPress to Next.js with Stackbit
       keyName: property
       relativeUrl: false
+    - name: 'og:description'
+      value: >-
+        There are no excuses for slow websites in 2021. WordPress is bulky and
+        slow, and Next.js is blazing fast when it's set up as a Static Site
+        Generator.
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: post
 thumb_image: images/next-js-logo.jpg
