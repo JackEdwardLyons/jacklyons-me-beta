@@ -1,21 +1,51 @@
 ---
 title: "My 2020 Annual Review"
+excerpt: >-
+  Interdum posuere lorem ipsum dolor sit amet consectetur. Odio morbi quis
+  commodo odio aenean sed adipiscing diam donec. Vitae congue mauris rhoncus
+  aenean vel elit.
 date: "2021-01-04"
-categories: 
-  - "life"
-coverImage: "black-coffee-coffee-cup-desk-drink-2847957.jpg"
+thumb_image: images/9_thumb.jpg
+image: images/9.jpg
+seo:
+  title: The Advantages and Disadvantages of Working from Home
+  description: Interdum posuere lorem ipsum dolor sit amet consectetur
+  extra:
+    - name: "og:type"
+      value: website
+      keyName: property
+    - name: "og:title"
+      value: The Advantages and Disadvantages of Working from Home
+      keyName: property
+    - name: "og:description"
+      value: Interdum posuere lorem ipsum dolor sit amet consectetur
+      keyName: property
+    - name: "og:image"
+      value: images/9.jpg
+      keyName: property
+      relativeUrl: true
+    - name: "twitter:card"
+      value: summary_large_image
+    - name: "twitter:title"
+      value: The Advantages and Disadvantages of Working from Home
+    - name: "twitter:description"
+      value: Interdum posuere lorem ipsum dolor sit amet consectetur
+    - name: "twitter:image"
+      value: images/9.jpg
+      relativeUrl: true
+layout: post
 ---
 
 > _"If you don't have a plan, you become part of somebody else's plan."_
-> 
-> __Timothy Leary  
-> __
+>
+> **Timothy Leary  
+> **
 
 In my 2020 Annual Review I will answer three key questions:
 
 1. **What went well this year?**
 2. **What didn’t go so well this year?**
-3. ****What am I working towards?****
+3. \***\*What am I working towards?\*\***
 
 I can't believe 2020 is over already (_I'm sure literally everyone feels the same way)._ On the on hand I feel relieved because I can finally allow myself to take stock and look back on what the heck really happened. But on the other, I know that the world will _never_ go back to how it was.
 
@@ -23,7 +53,7 @@ But, you know what? That's life. All we can do is suck it up and move on with wh
 
 Let's begin!
 
-* * *
+---
 
 ### **What went well this year?**
 
@@ -43,7 +73,7 @@ Overall, it was a fantastic year full of new and exciting work. I spent a lot mo
 
 **Doggo**
 
-\[caption id="attachment\_1855" align="alignright" width="375"\]![Freyja the Frenchie](images/freyja1-240x300.jpg) _Freyja in her happy place!_\[/caption\]
+\[caption id="attachment*1855" align="alignright" width="375"\]![Freyja the Frenchie](images/freyja1-240x300.jpg) \_Freyja in her happy place!*\[/caption\]
 
 Freyja the Frenchie came into our lives in early March, just around the time when the coronavirus outbreak took flight. Lucky for us, we had this cute little pupper to keep us smitten. Freyja is nothing but pure love - she has a heart of gold and is always happy when she gets to meet new pups and people (more so than doggos).
 
@@ -65,7 +95,7 @@ In 2020 I divided my "health" time between yoga at home, fitness classes and wor
 
 Aside from climbing, my regular gym routine would generally consist of HIIT classes and kettlebell workouts. I like keeping things simple and I've found that the kettlebell is really the only piece of equipment I need to have a good workout. The kettlebell swing alone has been proven to build muscle, boost endurance, as well as improve posture by strengthening the posterior chain - perfect if you're like me and suffer from lower back pain.
 
-One thing that has stayed relatively consistent over the past few years is my morning yoga practice. Usually I spent about 15 - 20 minutes going through some stretches for my back, side and hips, as that's where I tend to hold the most tension from day-to-day. I have a few yogi's on YouTube that I like to follow, notably [**Travis Eliot**](https://www.youtube.com/channel/UCHTisXO8TeozyYOxEZGC8XQ) and **[Yoga with Kassandra.](https://www.youtube.com/channel/UCX32D3gKXENrhOXdZjWWtMA)** 
+One thing that has stayed relatively consistent over the past few years is my morning yoga practice. Usually I spent about 15 - 20 minutes going through some stretches for my back, side and hips, as that's where I tend to hold the most tension from day-to-day. I have a few yogi's on YouTube that I like to follow, notably [**Travis Eliot**](https://www.youtube.com/channel/UCHTisXO8TeozyYOxEZGC8XQ) and **[Yoga with Kassandra.](https://www.youtube.com/channel/UCX32D3gKXENrhOXdZjWWtMA)**
 
 **Personal Development**
 
@@ -89,11 +119,11 @@ Anyway, without getting too woo-woo, all I can say is that there's a lot I'd lik
 
 **Travel**
 
-\[caption id="attachment\_1865" align="alignleft" width="400"\]![Jack and Zoe on top of Australia](images/jacknzoe-768x1024.jpg) _Standing on the top of Australia!_\[/caption\]
+\[caption id="attachment*1865" align="alignleft" width="400"\]![Jack and Zoe on top of Australia](images/jacknzoe-768x1024.jpg) \_Standing on the top of Australia!*\[/caption\]
 
 While it wasn't the best year for travel, Zoe and I still managed to go on a couple of climbing trips as well as a few weekends away at Byron Bay. We also went on an incredible road trip down to the Snowy Mountains where we hiked Australia's highest peak, Mt. Kosciuszko. Unfortunately that trip got cut short because of COVID and we had to frantically race home to Queensland, driving 13 hours straight to make it back right before the borders closed.![](images/IMG_2818.jpg)So yeah... Not the best year for travel.
 
-* * *
+---
 
 ### **What didn't go so well this year?**
 
@@ -115,9 +145,9 @@ Because things were so demanding at work I simply had no energy to work on perso
 
 So yeah, that was 2020... I'm grateful that I at least had a job and some solid recurring income for the entire year. I've got to work on taking better care of myself so I can sustain the rapid pace of the tech industry. And hopefully in 2021 we are allowed to travel again!
 
-* * *
+---
 
-### ****What am I working towards?****
+### \***\*What am I working towards?\*\***
 
 **Still looking to buy our first home**
 
@@ -133,13 +163,13 @@ For me a good day consists of yoga, healthy eating, spending time outdoors with 
 
 **Figuring out where I want to take my career**
 
-This year I want to start thinking about how I can use my skills to contribute towards projects and causes that I am passionate about. I'm really interested in nature conservation and climate change, as well as urban planning and the development of "smart cities".  I don't have the answer for what sort of change I can help to make, but I am planting the seed in my mind right now. I realise that in order to see a change in the world you have to become that change. 
+This year I want to start thinking about how I can use my skills to contribute towards projects and causes that I am passionate about. I'm really interested in nature conservation and climate change, as well as urban planning and the development of "smart cities".  I don't have the answer for what sort of change I can help to make, but I am planting the seed in my mind right now. I realise that in order to see a change in the world you have to become that change.
 
 **Settling in here on the Gold Coast**
 
 It's a great feeling to finally have found a place to call home. This year I would like to get into surfing and also get out a bit more with Zoe to enjoy everything that is on offer in the region. It'd be great to make some more close friends in and around the activities we love to do (hiking, climbing, surfing, etc). I'm sure things will fall into place, as long as we don't get a horror COVID outbreak 😬.
 
-* * *
+---
 
 Whew, that was 2020. I'm glad it's over. Here's to 2021!
 

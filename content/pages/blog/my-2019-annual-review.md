@@ -1,9 +1,39 @@
 ---
 title: "My 2019 Annual Review"
+excerpt: >-
+  Interdum posuere lorem ipsum dolor sit amet consectetur. Odio morbi quis
+  commodo odio aenean sed adipiscing diam donec. Vitae congue mauris rhoncus
+  aenean vel elit.
 date: "2020-01-07"
-categories: 
-  - "life"
-coverImage: "efoh8yajqua.jpg"
+thumb_image: images/9_thumb.jpg
+image: images/9.jpg
+seo:
+  title: The Advantages and Disadvantages of Working from Home
+  description: Interdum posuere lorem ipsum dolor sit amet consectetur
+  extra:
+    - name: "og:type"
+      value: website
+      keyName: property
+    - name: "og:title"
+      value: The Advantages and Disadvantages of Working from Home
+      keyName: property
+    - name: "og:description"
+      value: Interdum posuere lorem ipsum dolor sit amet consectetur
+      keyName: property
+    - name: "og:image"
+      value: images/9.jpg
+      keyName: property
+      relativeUrl: true
+    - name: "twitter:card"
+      value: summary_large_image
+    - name: "twitter:title"
+      value: The Advantages and Disadvantages of Working from Home
+    - name: "twitter:description"
+      value: Interdum posuere lorem ipsum dolor sit amet consectetur
+    - name: "twitter:image"
+      value: images/9.jpg
+      relativeUrl: true
+layout: post
 ---
 
 Now that we are well and truly in the swing of the 20's, it’s time to take a second and reflect back on the last year of the decade! Each December I do my best to take stock and journal my Annual Review — adapted from James Clear, the master of **[Atomic Habits](https://jamesclear.com/atomic-habits).**
@@ -12,7 +42,7 @@ As per usual, this Annual Review will answer three questions:
 
 1. **What went well this year?**
 2. **What didn’t go so well this year?**
-3. ****What am I working towards?****
+3. \***\*What am I working towards?\*\***
 
 For those who know me but don’t regularly see me: you’re probably thinking I’m off on some tropical island writing this from a jungle hut. While I do wish that were the case, I can say with certainty that I’m currently back in Australia and plan to hang around for a while longer (than usual).
 
@@ -22,29 +52,29 @@ But let’s not spoil everything, how about I jump right to it.
 
 2019 was the year of travel, travel, travel. It was a big year of first-times in new countries. In 2019 Zoe and I travelled to
 
- - Bali 🇮🇩,
+- Bali 🇮🇩,
 
- - Sri Lanka 🇱🇰 (new),
+- Sri Lanka 🇱🇰 (new),
 
- -  Morocco 🇲🇦 (new),
+-  Morocco 🇲🇦 (new),
 
- - Austria 🇦🇹,
+- Austria 🇦🇹,
 
- - Hungary 🇭🇺 (new),
+- Hungary 🇭🇺 (new),
 
- - Slovakia 🇸🇰 (new),
+- Slovakia 🇸🇰 (new),
 
- - USA 🇺🇸 (including lots of new places),
+- USA 🇺🇸 (including lots of new places),
 
- - Mexico 🇲🇽 (new),
+- Mexico 🇲🇽 (new),
 
- - Alaska 🐻 (new),
+- Alaska 🐻 (new),
 
- - Hawaii 🌺 (new),
+- Hawaii 🌺 (new),
 
- - Hong Kong 🇭🇰 and China 🇨🇳.
+- Hong Kong 🇭🇰 and China 🇨🇳.
 
-\[caption id="attachment\_1684" align="alignright" width="350"\]![A photo of Zoe and I at Antelope Canyon, AZ](images/61757836_10218952636904902_413340114899435520_n-e1578432564590-266x300.jpg) _Antelope Canyon, AZ_\[/caption\]
+\[caption id="attachment*1684" align="alignright" width="350"\]![A photo of Zoe and I at Antelope Canyon, AZ](images/61757836_10218952636904902_413340114899435520_n-e1578432564590-266x300.jpg) \_Antelope Canyon, AZ*\[/caption\]
 
 It all seems a bit of a blur, but in total we spent 10 months of 2019 abroad. Not everything went smoothly and not every new place was amazing — however that didn’t matter. What mattered most (and always will) is that I got out of my comfort zone, explored new terrain, experienced new food and made new memories with wonderful people.
 
@@ -64,13 +94,13 @@ The best part about working and travelling is that you don’t have to sacrifice
 
 The ultimate freedom would be to earn money passively through an online business so you can truly spend more time outdoors, trekking the globe! I’m not there yet, but hope that’s possible one day.
 
-\[caption id="attachment\_1686" align="aligncenter" width="712"\]![A photo of me at the top of Angels Landing, Zion, UT](images/61729958_10218914445910151_522507265756889088_n-e1578432819714.jpg) _At the top of Angels Landing, Zion, UT_\[/caption\]
+\[caption id="attachment*1686" align="aligncenter" width="712"\]![A photo of me at the top of Angels Landing, Zion, UT](images/61729958_10218914445910151_522507265756889088_n-e1578432819714.jpg) \_At the top of Angels Landing, Zion, UT*\[/caption\]
 
 Fast forward to October and finally Zoe and I landed back in Aus, where we immediately moved down to Currumbin Valley, on the Gold Coast. We found a dream house to rent, with enough space to run around in the yard and have a veggie garden, all just 10 minutes from the beach. I cannot believe it - things just happened so quickly — we found the place privately on Gumtree and sealed the deal before even getting back to Australia!
 
 Zoe has been instrumental in making the house feel like a home, and I can see she has a talent for decorating and interior design. I was able to dust off the old record player and spin some vinyls, which I love! Zoe’s quickly becoming a plant-mum, too, and the kookaburra’s are getting us up everyday before the sun rises. I do NOT think we will ever be moving back to the city!
 
-\[caption id="attachment\_1687" align="alignleft" width="300"\]![A photo of me climbing to the top of Twin Gates](images/PB160127-300x225.jpg) _Climbing to the top of the Western Tower, Twin Gates, Yangshuo_\[/caption\]
+\[caption id="attachment*1687" align="alignleft" width="300"\]![A photo of me climbing to the top of Twin Gates](images/PB160127-300x225.jpg) \_Climbing to the top of the Western Tower, Twin Gates, Yangshuo*\[/caption\]
 
 And to cap this year off — I’d be remiss if I didn’t mention the incredible climbing trip I went on to China in November with my buddy Matt, from Colorado. This past year has been riddled with injury which left me off the rock for months and months. Matt helped me overcome some serious physical and mental blocks and we had an incredible week of stellar climbing in Yangshuo! That trip has given me a new wave of confidence that I sorely needed.
 
@@ -84,7 +114,7 @@ It wasn’t just the pain and weaknesses in my legs and lower back, it was also 
 
 I know this sounds dramatic, but because I rarely got outdoors to go climbing, I began to feel a piece of my identity slip away. It wasn't until later in the year when I went on my trip to China that I realised just how important climbing really is to me. If I didn’t go on that trip I probably would have let it just fade away and out of my life. I’m glad that didn’t happen.
 
-\[caption id="attachment\_1693" align="alignnone" width="750"\]![A photo of the mountains in Yangshuo, China](images/PB140031-e1578434591584-1024x591.jpg) _Yangshuo, China_\[/caption\]
+\[caption id="attachment*1693" align="alignnone" width="750"\]![A photo of the mountains in Yangshuo, China](images/PB140031-e1578434591584-1024x591.jpg) \_Yangshuo, China*\[/caption\]
 
 Work-wise I did have one hiccup that didn't go as planned (and likely burned a bridge or two). While still overseas I was contacted about a job opportunity back in Australia and after some back and forth, I decided it would be nice to come home and get settled with a job. However, after a few months there I quickly realised it just wasn't a good fit and incredibly bad timing.
 
@@ -104,6 +134,6 @@ A few things immediately come to mind:
 - **Having a great relationship with Zoe:** I can’t forget to let Zoe know that she’s the most important person in my life. She does so much in this relationship and I need to pull my weight a little more, and contribute to improving our lives together everyday.
 - **Learn to cook well, play more guitar, and make time for hobbies:** Life should be fun and active. I want to remove myself from the computer more often and make more time to practice new skills and hobbies.
 
-* * *
+---
 
 So, in a nutshell, that was my 2019! Here’s to the new decade! To read my previous Annual Reviews, simply check out my [**blog archives.**](https://jacklyons.me/blogroll/)

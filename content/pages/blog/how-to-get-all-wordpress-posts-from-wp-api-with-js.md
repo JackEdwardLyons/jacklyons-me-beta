@@ -1,10 +1,40 @@
 ---
 title: "How to get all Wordpress posts from the WP API with JavaScript"
+excerpt: >-
+  Interdum posuere lorem ipsum dolor sit amet consectetur. Odio morbi quis
+  commodo odio aenean sed adipiscing diam donec. Vitae congue mauris rhoncus
+  aenean vel elit.
 date: "2019-03-17"
-categories:
-  - "apis"
-  - "javascript"
-coverImage: "hpjsku2uysu.jpg"
+date: "2021-01-04"
+thumb_image: images/9_thumb.jpg
+image: images/9.jpg
+seo:
+  title: The Advantages and Disadvantages of Working from Home
+  description: Interdum posuere lorem ipsum dolor sit amet consectetur
+  extra:
+    - name: "og:type"
+      value: website
+      keyName: property
+    - name: "og:title"
+      value: The Advantages and Disadvantages of Working from Home
+      keyName: property
+    - name: "og:description"
+      value: Interdum posuere lorem ipsum dolor sit amet consectetur
+      keyName: property
+    - name: "og:image"
+      value: images/9.jpg
+      keyName: property
+      relativeUrl: true
+    - name: "twitter:card"
+      value: summary_large_image
+    - name: "twitter:title"
+      value: The Advantages and Disadvantages of Working from Home
+    - name: "twitter:description"
+      value: Interdum posuere lorem ipsum dolor sit amet consectetur
+    - name: "twitter:image"
+      value: images/9.jpg
+      relativeUrl: true
+layout: post
 ---
 
 Just recently I was asked to scrape a Wordpress blog for a client to audit of all their posts.  Naturally, the first thought was to just export all the posts, however, after a quick  google I stumbled upon the **[Wordpress REST API](https://developer.wordpress.org/rest-api/reference/)**. Using the API allows you to make direct requests to any wordpress site and retreive a list of blog posts as a JSON object.
