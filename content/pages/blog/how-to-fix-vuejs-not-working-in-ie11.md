@@ -5,7 +5,7 @@ excerpt: >-
   need supporting. Lots of government and legacy systems still require it's
   support. I'll show you how to fix your white-screen-of-death in IE 11.
 date: "2021-01-04"
-thumb_image: images/about.jpg
+thumb_image: images/ie-11.png
 image: images/ie-11.png
 seo:
   title: Is your Vue app not working in IE 11? Here's how to fix it.
@@ -85,9 +85,7 @@ SCRIPT1002: Syntax Error at line 7567 .... 😱
 
 Clicking on **chunk-vendors.js** in the console brings up the code file in the debugger. Your error and the broken code will vary, but here's an example of what you might see:
 
-![Identifying the SCRIPT1002 Syntax Error in the IE 11 debugger.](https://jacklyons.me/wp-content/uploads/2020/05/Screen-Shot-2020-05-20-at-7.25.00-pm.png)
-
-Debugging the chunk-vendors.js file
+![Identifying the SCRIPT1002 Syntax Error in the IE 11 debugger.](images/ie-11-script-error-in-debugger.png)
 
 So, we get here but there isn't any obvious line of code that is broken. Webpack minifies everything and uses the **eval( )** function to parse our Vue code. There is absolutely no way that we can go through this code line by line.
 
