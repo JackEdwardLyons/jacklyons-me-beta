@@ -46,6 +46,10 @@ seo:
       value: Moving from WordPress to Next.js with Stackbit
       keyName: name
       relativeUrl: false
+    - name: 'twitter:card'
+      value: website
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: post
 thumb_image: images/next-js-logo.jpg
