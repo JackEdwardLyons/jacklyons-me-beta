@@ -14,9 +14,7 @@ seo:
 layout: post
 thumb_image: images/next-js-logo.jpg
 ---
-## In 2021 it's never been easier to move away from WordPress.
-
-Moving from WordPress to Next.js with StackBit
+Moving from WordPress to a static site generator like Next.js has been a huge goal of mine for over two years.
 
 *   Lorem ipsum
 *   dolor sit amet
