@@ -47,7 +47,7 @@ seo:
       keyName: name
       relativeUrl: false
     - name: 'twitter:card'
-      value: website
+      value: summary
       keyName: name
       relativeUrl: false
   type: stackbit_page_meta
