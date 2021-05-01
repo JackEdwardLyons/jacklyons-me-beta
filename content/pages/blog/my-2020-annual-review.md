@@ -35,25 +35,23 @@ seo:
       relativeUrl: true
 layout: post
 ---
-
-> _"If you don't have a plan, you become part of somebody else's plan."_
+> *"If you don't have a plan, you become part of somebody else's plan."*
 >
-> **Timothy Leary  
-> **
+> \*\*Timothy Leary\*\*
 
 In my 2020 Annual Review I will answer three key questions:
 
-1. **What went well this year?**
-2. **What didn’t go so well this year?**
-3. \***\*What am I working towards?\*\***
+1.  **What went well this year?**
+2.  **What didn’t go so well this year?**
+3.  \***\*What am I working towards?\*\***
 
-I can't believe 2020 is over already (_I'm sure literally everyone feels the same way)._ On the on hand I feel relieved because I can finally allow myself to take stock and look back on what the heck really happened. But on the other, I know that the world will _never_ go back to how it was.
+I can't believe 2020 is over already (*I'm sure literally everyone feels the same way).* On the on hand I feel relieved because I can finally allow myself to take stock and look back on what the heck really happened. But on the other, I know that the world will *never* go back to how it was.
 
 But, you know what? That's life. All we can do is suck it up and move on with what we've got.
 
 Let's begin!
 
----
+***
 
 ### **What went well this year?**
 
@@ -73,7 +71,7 @@ Overall, it was a fantastic year full of new and exciting work. I spent a lot mo
 
 **Doggo**
 
-\[caption id="attachment*1855" align="alignright" width="375"\]![Freyja the Frenchie](images/freyja1-240x300.jpg) \_Freyja in her happy place!*\[/caption\]
+\[caption id="attachment*1855" align="alignright" width="375"]*![Freyja the Frenchie](images/freyja1-240x300.jpg)* \_Freyja in her happy place!*\[/caption]
 
 Freyja the Frenchie came into our lives in early March, just around the time when the coronavirus outbreak took flight. Lucky for us, we had this cute little pupper to keep us smitten. Freyja is nothing but pure love - she has a heart of gold and is always happy when she gets to meet new pups and people (more so than doggos).
 
@@ -95,7 +93,7 @@ In 2020 I divided my "health" time between yoga at home, fitness classes and wor
 
 Aside from climbing, my regular gym routine would generally consist of HIIT classes and kettlebell workouts. I like keeping things simple and I've found that the kettlebell is really the only piece of equipment I need to have a good workout. The kettlebell swing alone has been proven to build muscle, boost endurance, as well as improve posture by strengthening the posterior chain - perfect if you're like me and suffer from lower back pain.
 
-One thing that has stayed relatively consistent over the past few years is my morning yoga practice. Usually I spent about 15 - 20 minutes going through some stretches for my back, side and hips, as that's where I tend to hold the most tension from day-to-day. I have a few yogi's on YouTube that I like to follow, notably [**Travis Eliot**](https://www.youtube.com/channel/UCHTisXO8TeozyYOxEZGC8XQ) and **[Yoga with Kassandra.](https://www.youtube.com/channel/UCX32D3gKXENrhOXdZjWWtMA)**
+One thing that has stayed relatively consistent over the past few years is my morning yoga practice. Usually I spent about 15 - 20 minutes going through some stretches for my back, side and hips, as that's where I tend to hold the most tension from day-to-day. I have a few yogi's on YouTube that I like to follow, notably [**Travis Eliot**](https://www.youtube.com/channel/UCHTisXO8TeozyYOxEZGC8XQ) and [**Yoga with Kassandra.**](https://www.youtube.com/channel/UCX32D3gKXENrhOXdZjWWtMA)
 
 **Personal Development**
 
@@ -107,23 +105,23 @@ Since my experiences I have become engrossed in areas of inquiry that, if you we
 
 Things like:
 
-- the intelligence of plants,
-- theories on the origins of DNA,
-- how (and why) a large percentage of our genetic code is shared with other life on earth,
-- the history of religion dating back to paleolithic ages,
-- the history of ancient Mayan, Aztec, and Egyptian cultures,
-- the Schrödinger theory of the zero point field
-- the evolution of consciousness
+*   the intelligence of plants,
+*   theories on the origins of DNA,
+*   how (and why) a large percentage of our genetic code is shared with other life on earth,
+*   the history of religion dating back to paleolithic ages,
+*   the history of ancient Mayan, Aztec, and Egyptian cultures,
+*   the Schrödinger theory of the zero point field
+*   the evolution of consciousness
 
 Anyway, without getting too woo-woo, all I can say is that there's a lot I'd like to unpack and integrate throughout 2021!
 
 **Travel**
 
-\[caption id="attachment*1865" align="alignleft" width="400"\]![Jack and Zoe on top of Australia](images/jacknzoe-768x1024.jpg) \_Standing on the top of Australia!*\[/caption\]
+\[caption id="attachment*1865" align="alignleft" width="400"]*![Jack and Zoe on top of Australia](images/jacknzoe-768x1024.jpg)* \_Standing on the top of Australia!*\[/caption]
 
-While it wasn't the best year for travel, Zoe and I still managed to go on a couple of climbing trips as well as a few weekends away at Byron Bay. We also went on an incredible road trip down to the Snowy Mountains where we hiked Australia's highest peak, Mt. Kosciuszko. Unfortunately that trip got cut short because of COVID and we had to frantically race home to Queensland, driving 13 hours straight to make it back right before the borders closed.![](images/IMG_2818.jpg)So yeah... Not the best year for travel.
+While it wasn't the best year for travel, Zoe and I still managed to go on a couple of climbing trips as well as a few weekends away at Byron Bay. We also went on an incredible road trip down to the Snowy Mountains where we hiked Australia's highest peak, Mt. Kosciuszko. Unfortunately that trip got cut short because of COVID and we had to frantically race home to Queensland, driving 13 hours straight to make it back right before the borders closed.![](images/IMG\_2818.jpg)So yeah... Not the best year for travel.
 
----
+***
 
 ### **What didn't go so well this year?**
 
@@ -145,7 +143,7 @@ Because things were so demanding at work I simply had no energy to work on perso
 
 So yeah, that was 2020... I'm grateful that I at least had a job and some solid recurring income for the entire year. I've got to work on taking better care of myself so I can sustain the rapid pace of the tech industry. And hopefully in 2021 we are allowed to travel again!
 
----
+***
 
 ### \***\*What am I working towards?\*\***
 
@@ -153,13 +151,13 @@ So yeah, that was 2020... I'm grateful that I at least had a job and some solid 
 
 2021 will be the year Zoe and I buy a house (hopefully). We've been saving our pennies and have got everything ready to go, now we just need the right house to come along. We came close a couple of times last year but things just didn't quite feel right on either occasion, so we pulled out.
 
-It's a stupid system when you think about: how can you _really_ know if a house is right for you in a single inspection? There are SO many variables at play and you will NEVER have the chance to fully determine whether a property is right for you in that very brief (and stressful) moment. The property market is ballistic at the moment and it's tough to get a good opportunity at a reasonable price. Fingers crossed the property comes our way!
+It's a stupid system when you think about: how can you *really* know if a house is right for you in a single inspection? There are SO many variables at play and you will NEVER have the chance to fully determine whether a property is right for you in that very brief (and stressful) moment. The property market is ballistic at the moment and it's tough to get a good opportunity at a reasonable price. Fingers crossed the property comes our way!
 
 **Creating a solid daily routine by developing simple & effective systems**
 
 Aside from house goals, I don't really have any major material goals. Instead I'd like to spend my time and energy setting up a solid, and reliable daily routine.
 
-For me a good day consists of yoga, healthy eating, spending time outdoors with Zoe and the dog, working _and_ keeping stress levels low, reading a good book, and if it's the weekend, surfing or climbing outdoors and catching up with friends. At the moment I am reading [**Atomic Habits**](https://jamesclear.com/atomic-habits) by James Clear to help figure out how I can integrate all of this into a regular daily routine.
+For me a good day consists of yoga, healthy eating, spending time outdoors with Zoe and the dog, working *and* keeping stress levels low, reading a good book, and if it's the weekend, surfing or climbing outdoors and catching up with friends. At the moment I am reading [**Atomic Habits**](https://jamesclear.com/atomic-habits) by James Clear to help figure out how I can integrate all of this into a regular daily routine.
 
 **Figuring out where I want to take my career**
 
@@ -169,7 +167,7 @@ This year I want to start thinking about how I can use my skills to contribute t
 
 It's a great feeling to finally have found a place to call home. This year I would like to get into surfing and also get out a bit more with Zoe to enjoy everything that is on offer in the region. It'd be great to make some more close friends in and around the activities we love to do (hiking, climbing, surfing, etc). I'm sure things will fall into place, as long as we don't get a horror COVID outbreak 😬.
 
----
+***
 
 Whew, that was 2020. I'm glad it's over. Here's to 2021!
 
