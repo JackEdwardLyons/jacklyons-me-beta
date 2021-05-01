@@ -35,6 +35,13 @@ seo:
       value: website
       keyName: property
       relativeUrl: false
+    - name: 'twitter:description'
+      value: >-
+        There are no excuses for slow websites in 2021. WordPress is bulky and
+        slow, and Next.js is blazing fast. In this post I show you how to make
+        the change.
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: post
 thumb_image: images/next-js-logo.jpg
