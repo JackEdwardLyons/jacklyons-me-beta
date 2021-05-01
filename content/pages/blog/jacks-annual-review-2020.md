@@ -3,33 +3,33 @@ title: My 2020 Annual Review
 excerpt: >-
   A look back on 2020 - what went well, what didn't go well, and what's ahead
   for the future!
-date: '2021-01-04'
+date: "2021-01-04"
 thumb_image: images/about.jpg
 image: images/about.jpg
 seo:
   title: The Advantages and Disadvantages of Working from Home
   description: Interdum posuere lorem ipsum dolor sit amet consectetur
   extra:
-    - name: 'og:type'
+    - name: "og:type"
       value: website
       keyName: property
-    - name: 'og:title'
+    - name: "og:title"
       value: The Advantages and Disadvantages of Working from Home
       keyName: property
-    - name: 'og:description'
+    - name: "og:description"
       value: Interdum posuere lorem ipsum dolor sit amet consectetur
       keyName: property
-    - name: 'og:image'
+    - name: "og:image"
       value: images/9.jpg
       keyName: property
       relativeUrl: true
-    - name: 'twitter:card'
+    - name: "twitter:card"
       value: summary_large_image
-    - name: 'twitter:title'
+    - name: "twitter:title"
       value: The Advantages and Disadvantages of Working from Home
-    - name: 'twitter:description'
+    - name: "twitter:description"
       value: Interdum posuere lorem ipsum dolor sit amet consectetur
-    - name: 'twitter:image'
+    - name: "twitter:image"
       value: images/9.jpg
       relativeUrl: true
 layout: post
@@ -41,7 +41,7 @@ In my 2020 Annual Review I will answer three key questions:
 
 1.  **What went well this year?**
 2.  **What didn’t go so well this year?**
-3.  \***\*What am I working towards?\*\***
+3.  **What am I working towards?**
 
 I can't believe 2020 is over already (_I'm sure literally everyone feels the same way)._ On the on hand I feel relieved because I can finally allow myself to take stock and look back on what the heck really happened. But on the other, I know that the world will _never_ go back to how it was.
 
