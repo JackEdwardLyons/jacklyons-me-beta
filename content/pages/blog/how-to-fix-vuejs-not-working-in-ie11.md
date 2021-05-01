@@ -98,6 +98,9 @@ Did you know you can break down your node modules into separate JS files? This a
 
 Add this to your **vue.config.js** file.
 
+```
+```
+
 configureWebpack: {
 optimization: {
 runtimeChunk: 'single',
@@ -107,11 +110,11 @@ maxInitialRequests: Infinity,
 minSize: 0,
 cacheGroups: {
 vendor: {
-test: /\[\\\/]node_modules\[\\\/]/,
+test: /\[\\/]node_modules\[\\/]/,
 name(module) {
 // get the name. E.g. node_modules/packageName/not/this/part.js
 // or node_modules/packageName
-const packageName = module.context.match(/\[\\\/]node_modules\[\\\/]\(.\*?)(\[\\\/]|$)/)\[1];
+const packageName = module.context.match(/\[\\/]node_modules\[\\/]\(.\*?)(\[\\/]|$)/)\[1];
 
             // npm package names are URL-safe, but some servers don't like @ symbols
             return \`npm.${packageName.replace('@', '')}\`;
@@ -122,6 +125,9 @@ const packageName = module.context.match(/\[\\\/]node_modules\[\\\/]\(.\*?)(\[\\
 
 }
 }
+
+```
+```
 
 Basically we are splitting our node modules into chunks so that we can identify exactly which package contains the code that is breaking our application. This is really helpful because you can now do your research and check out the package's GitHub / npm page and see if there are any issues relating to IE11.
 
