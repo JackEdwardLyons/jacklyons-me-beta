@@ -1,34 +1,42 @@
 ---
-title: "Is your Vue app not working in IE 11? Here's how to fix it."
+title: Is your Vue app not working in IE 11? Here's how to fix it.
 excerpt: >-
-  While IE 11 is officially going die in 2021, that doesn't meant it won't still need supporting. Lots of government and legacy systems still require it's support. I'll show you how to fix your white-screen-of-death in IE 11.
-date: "2021-01-04"
+  While IE 11 is officially going die in 2021, that doesn't meant it won't still
+  need supporting. Lots of government and legacy systems still require it's
+  support. I'll show you how to fix your white-screen-of-death in IE 11.
+date: '2021-01-04'
 thumb_image: images/about.jpg
 image: images/about.jpg
 seo:
   title: Is your Vue app not working in IE 11? Here's how to fix it.
-  description: Is your Vue app not working in IE 11? Here's how to fix it.
+  description: >-
+    This is a post borne out of frustration to help all those poor souls out
+    there trying to find a solution to the dreaded IE white screen of death.
   extra:
-    - name: "og:type"
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: "og:title"
+    - name: 'og:title'
       value: Is your Vue app not working in IE 11? Here's how to fix it.
       keyName: property
-    - name: "og:description"
-      value: In this post I'll show how to fix your white screen of death when using Vue.js and IE11.
+    - name: 'og:description'
+      value: >-
+        In this post I'll show how to fix your white screen of death when using
+        Vue.js and IE11.
       keyName: property
-    - name: "og:image"
+    - name: 'og:image'
       value: images/9.jpg
       keyName: property
       relativeUrl: true
-    - name: "twitter:card"
+    - name: 'twitter:card'
       value: summary_large_image
-    - name: "twitter:title"
+    - name: 'twitter:title'
       value: Is your Vue app not working in IE 11? Here's how to fix it.
-    - name: "twitter:description"
-      value: In this post I'll show how to fix your white screen of death when using Vue.js and IE11.
-    - name: "twitter:image"
+    - name: 'twitter:description'
+      value: >-
+        In this post I'll show how to fix your white screen of death when using
+        Vue.js and IE11.
+    - name: 'twitter:image'
       value: images/9.jpg
       relativeUrl: true
 layout: post
