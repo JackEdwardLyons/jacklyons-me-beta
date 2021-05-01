@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 thumb_image: images/next-js-logo.jpg
+image: images/important-tiger.jpg
 ---
 Moving from WordPress to a static site generator like Next.js has been a huge goal of mine for over two years. After realising my site was taking up to 10 seconds to load, I knew something finally had to be done. I wish I got to this sooner, but I thought this would be incredibly time consuming and I was scared of losing valuable SEO rankings. While my SEO will likely suffer short-term, I think this is a better long-term decision for numerous reasons, many of which I will outline below.
 
