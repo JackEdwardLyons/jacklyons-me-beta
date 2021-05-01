@@ -57,9 +57,9 @@ The error in your console might vary, but if you're getting a white screen of de
 
 **TL;DR:** [**click here** **to stuff this code in your app and see if it works.**](#how-to-transpile-your-vue-code)
 
-> **Note:** If you're on a Mac and don't have Internet Explorer installed on your computer, check out the [Microsoft Virtual Machines page](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/) to download a complete VM setup with IE 11 installed.
+**Note:** If you're on a Mac and don't have Internet Explorer installed on your computer, check out the [Microsoft Virtual Machines page](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/) to download a complete VM setup with IE 11 installed.
 
-> **Note 2:** This post assumes you are using **[Vue Cli 3](https://cli.vuejs.org/)** or later. This means, you have a dedicated `**vue.config.js**` file. If you don't, then you can still follow along and update your `**webpack**` configurations accordingly (no guarantees though).
+**Note 2:** This post assumes you are using **[Vue Cli 3](https://cli.vuejs.org/)** or later. This means, you have a dedicated `**vue.config.js**` file. If you don't, then you can still follow along and update your `**webpack**` configurations accordingly (no guarantees though).
 
 OK, now the housekeeping is done. Lets begin:
 
