@@ -1,6 +1,6 @@
 ---
 title: Moving from WordPress to Next.js with StackBit
-subtitle: lorem-ipsum
+subtitle: There are no excuses for having a slow website in 2021
 date: '2021-05-01'
 thumb_image_alt: Next.js logo
 image_alt: Next.js logo
