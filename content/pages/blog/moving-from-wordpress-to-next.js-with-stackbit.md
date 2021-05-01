@@ -14,10 +14,11 @@ seo:
 layout: post
 thumb_image: images/next-js-logo.jpg
 ---
-## After realising your site takes up to 10 seconds to load, you know somethings finally got to be done.
+## In 2021 it's never been easier to move away from WordPress.
 
 Moving from WordPress to Next.js with StackBit
 
-
 *   Lorem ipsum
 *   dolor sit amet
+
+After realising my site was taking up to 10 seconds to load, I knew something finally had to be done.
