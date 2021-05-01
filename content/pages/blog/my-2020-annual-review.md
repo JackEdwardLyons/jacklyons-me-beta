@@ -6,7 +6,7 @@ excerpt: >-
   aenean vel elit.
 date: '2021-01-04'
 thumb_image: images/about.jpg
-image: images/9.jpg
+image: images/about.jpg
 seo:
   title: The Advantages and Disadvantages of Working from Home
   description: Interdum posuere lorem ipsum dolor sit amet consectetur
