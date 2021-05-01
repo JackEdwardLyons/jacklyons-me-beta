@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Moving from WordPress to Next.js with StackBit
 subtitle: lorem-ipsum
 date: '2021-05-01'
 thumb_image_alt: lorem-ipsum
