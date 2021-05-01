@@ -25,9 +25,9 @@ seo:
         there trying to find a solution to the dreaded IE white screen of death.
       keyName: property
     - name: 'og:image'
-      value: images/9.jpg
+      value: 'https://jacklyons.me/wp-content/uploads/2020/04/ie-11-1043x700.png'
       keyName: property
-      relativeUrl: true
+      relativeUrl: false
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
