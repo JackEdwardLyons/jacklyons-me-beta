@@ -14,32 +14,32 @@ seo:
     sites and applications with Vue, React, ES2015+, GraphQL, TailwindCSS and
     Sass.
   extra:
-    - name: 'og:type'
+    - name: "og:type"
       value: website
       keyName: property
-    - name: 'og:title'
+    - name: "og:title"
       value: Jack Lyons | About Me
       keyName: property
-    - name: 'og:description'
+    - name: "og:description"
       value: >-
         I'm a front end web developer from Australia. I enjoy building modern
         web sites and applications with Vue, React, ES2015+, GraphQL,
         TailwindCSS and Sass.
       keyName: property
-    - name: 'og:image'
+    - name: "og:image"
       value: images/9.jpg
       keyName: property
       relativeUrl: true
-    - name: 'twitter:card'
+    - name: "twitter:card"
       value: summary_large_image
-    - name: 'twitter:title'
+    - name: "twitter:title"
       value: Jack Lyons | About Me
-    - name: 'twitter:description'
+    - name: "twitter:description"
       value: >-
         I'm a front end web developer from Australia. I enjoy building modern
         web sites and applications with Vue, React, ES2015+, GraphQL,
         TailwindCSS and Sass.
-    - name: 'twitter:image'
+    - name: "twitter:image"
       value: images/9.jpg
       relativeUrl: true
 layout: page
