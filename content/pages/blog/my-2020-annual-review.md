@@ -37,7 +37,7 @@ layout: post
 ---
 > *"If you don't have a plan, you become part of somebody else's plan."*
 >
-> \*\*Timothy Leary\*\*
+> Timothy Leary
 
 In my 2020 Annual Review I will answer three key questions:
 
@@ -71,7 +71,7 @@ Overall, it was a fantastic year full of new and exciting work. I spent a lot mo
 
 **Doggo**
 
-\[caption id="attachment*1855" align="alignright" width="375"]*![Freyja the Frenchie](images/freyja1-240x300.jpg)* \_Freyja in her happy place!*\[/caption]
+\[caption id="attachment*1855" align="alignright" width="375"]*![Freyja the Frenchie](images/freyja1-240x300.jpg)\* \_Freyja in her happy place!\*\[/caption]
 
 Freyja the Frenchie came into our lives in early March, just around the time when the coronavirus outbreak took flight. Lucky for us, we had this cute little pupper to keep us smitten. Freyja is nothing but pure love - she has a heart of gold and is always happy when she gets to meet new pups and people (more so than doggos).
 
@@ -117,7 +117,7 @@ Anyway, without getting too woo-woo, all I can say is that there's a lot I'd lik
 
 **Travel**
 
-\[caption id="attachment*1865" align="alignleft" width="400"]*![Jack and Zoe on top of Australia](images/jacknzoe-768x1024.jpg)* \_Standing on the top of Australia!*\[/caption]
+\[caption id="attachment*1865" align="alignleft" width="400"]*![Jack and Zoe on top of Australia](images/jacknzoe-768x1024.jpg)\* \_Standing on the top of Australia!\*\[/caption]
 
 While it wasn't the best year for travel, Zoe and I still managed to go on a couple of climbing trips as well as a few weekends away at Byron Bay. We also went on an incredible road trip down to the Snowy Mountains where we hiked Australia's highest peak, Mt. Kosciuszko. Unfortunately that trip got cut short because of COVID and we had to frantically race home to Queensland, driving 13 hours straight to make it back right before the borders closed.![](images/IMG\_2818.jpg)So yeah... Not the best year for travel.
 
