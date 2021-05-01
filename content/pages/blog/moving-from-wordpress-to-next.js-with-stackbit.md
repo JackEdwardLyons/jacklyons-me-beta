@@ -6,7 +6,7 @@ thumb_image_alt: Next.js logo
 image_alt: Next.js logo
 excerpt: lorem-ipsum
 seo:
-  title: ''
+  title: Moving from WordPress to Next.js with Stackbit
   description: ''
   robots: []
   extra: []
