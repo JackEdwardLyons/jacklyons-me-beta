@@ -14,9 +14,10 @@ seo:
 layout: post
 thumb_image: images/next-js-logo.jpg
 ---
-## Lorem ipsum
+## After realising your site takes up to 10 seconds to load, you know somethings finally got to be done.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Moving from WordPress to Next.js with StackBit
 
-- Lorem ipsum
-- dolor sit amet
+
+*   Lorem ipsum
+*   dolor sit amet
