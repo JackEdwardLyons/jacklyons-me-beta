@@ -2,7 +2,7 @@
 title: Moving from WordPress to Next.js with StackBit
 subtitle: lorem-ipsum
 date: '2021-05-01'
-thumb_image_alt: lorem-ipsum
+thumb_image_alt: Next.js logo
 image_alt: Next.js logo
 excerpt: lorem-ipsum
 seo:
