@@ -35,7 +35,7 @@ seo:
       relativeUrl: true
 layout: post
 ---
-> "If you don't have a plan, you become part of somebody else's plan." 
+> "If you don't have a plan, you become part of somebody else's plan."
 
 In my 2020 Annual Review I will answer three key questions:
 
@@ -68,8 +68,6 @@ My role as the Principal Developer involved hiring new a couple of new dev's, an
 Overall, it was a fantastic year full of new and exciting work. I spent a lot more time working with React.js than ever before and I absolutely loved writing code in TypeScript. I really enjoyed working with my team despite everyone being remote for the best part of the year. This was probably one my most interesting and intense years of work to date.
 
 **Doggo**
-
-\[caption id="attachment*1855" align="alignright" width="375"]*![Freyja the Frenchie](images/freyja1-240x300.jpg)\* \_Freyja in her happy place!\*\[/caption]
 
 Freyja the Frenchie came into our lives in early March, just around the time when the coronavirus outbreak took flight. Lucky for us, we had this cute little pupper to keep us smitten. Freyja is nothing but pure love - she has a heart of gold and is always happy when she gets to meet new pups and people (more so than doggos).
 
@@ -115,9 +113,7 @@ Anyway, without getting too woo-woo, all I can say is that there's a lot I'd lik
 
 **Travel**
 
-\[caption id="attachment*1865" align="alignleft" width="400"]*![Jack and Zoe on top of Australia](images/jacknzoe-768x1024.jpg)\* \_Standing on the top of Australia!\*\[/caption]
-
-While it wasn't the best year for travel, Zoe and I still managed to go on a couple of climbing trips as well as a few weekends away at Byron Bay. We also went on an incredible road trip down to the Snowy Mountains where we hiked Australia's highest peak, Mt. Kosciuszko. Unfortunately that trip got cut short because of COVID and we had to frantically race home to Queensland, driving 13 hours straight to make it back right before the borders closed.![](images/IMG\_2818.jpg)So yeah... Not the best year for travel.
+While it wasn't the best year for travel, Zoe and I still managed to go on a couple of climbing trips as well as a few weekends away at Byron Bay. We also went on an incredible road trip down to the Snowy Mountains where we hiked Australia's highest peak, Mt. Kosciuszko. Unfortunately that trip got cut short because of COVID and we had to frantically race home to Queensland, driving 13 hours straight to make it back right before the borders closed. So yeah... Not the best year for travel.
 
 ***
 
@@ -143,7 +139,7 @@ So yeah, that was 2020... I'm grateful that I at least had a job and some solid 
 
 ***
 
-### \***\*What am I working towards?\*\***
+### **What am I working towards?**
 
 **Still looking to buy our first home**
 
@@ -169,4 +165,3 @@ It's a great feeling to finally have found a place to call home. This year I wou
 
 Whew, that was 2020. I'm glad it's over. Here's to 2021!
 
-![Fireworks Stars Background  - AnnaliseArt / Pixabay](images/fireworks-stars-background-5889777-300x300.jpg)
