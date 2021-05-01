@@ -7,7 +7,9 @@ image_alt: Next.js logo
 excerpt: lorem-ipsum
 seo:
   title: Moving from WordPress to Next.js with Stackbit
-  description: ''
+  description: >-
+    There are no excuses for slow websites in 2021. WordPress is bulky and slow,
+    and Next.js is blazing fast when it's set up as a Static Site Generator.
   robots: []
   extra: []
   type: stackbit_page_meta
