@@ -35,9 +35,11 @@ seo:
       relativeUrl: true
 layout: post
 ---
-> *"If you don't have a plan, you become part of somebody else's plan."*
+> *"If you don't have a plan, you become part of somebody else's plan." - *
 >
 > Timothy Leary
+
+
 
 In my 2020 Annual Review I will answer three key questions:
 
