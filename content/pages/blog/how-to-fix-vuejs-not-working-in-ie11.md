@@ -21,8 +21,8 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        In this post I'll show how to fix your white screen of death when using
-        Vue.js and IE11.
+        This is a post borne out of frustration to help all those poor souls out
+        there trying to find a solution to the dreaded IE white screen of death.
       keyName: property
     - name: 'og:image'
       value: images/9.jpg
