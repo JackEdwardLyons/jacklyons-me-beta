@@ -27,6 +27,10 @@ seo:
       value: /images/next-js-logo.jpg
       keyName: property
       relativeUrl: true
+    - name: 'twitter:image'
+      value: /images/next-js-logo.jpg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: post
 thumb_image: images/next-js-logo.jpg
