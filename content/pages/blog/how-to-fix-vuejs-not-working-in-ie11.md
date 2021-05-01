@@ -6,7 +6,7 @@ excerpt: >-
   support. I'll show you how to fix your white-screen-of-death in IE 11.
 date: '2021-01-04'
 thumb_image: images/about.jpg
-image: images/about.jpg
+image: images/ie-11.png
 seo:
   title: Is your Vue app not working in IE 11? Here's how to fix it.
   description: >-
