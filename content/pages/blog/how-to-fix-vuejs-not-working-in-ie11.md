@@ -93,7 +93,7 @@ So, we get here but there isn't any obvious line of code that is broken. Webpack
 
 So what then? Well, if you look up on line **7562** you'll see that we get a little hint of what code is being compiled. In this case it is a **debug** module found in the app's node modules.
 
-### How to break up your node modules for easier debugging
+### <a name="how-to-transpile-your-vue-code"></a>How to break up your node modules for easier debugging
 
 Did you know you can break down your node modules into separate JS files? This allows you to load each individually instead of a massive 7000+ line webpack blob!
 
