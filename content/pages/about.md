@@ -5,7 +5,7 @@ subtitle: |-
    a front end web developer from Gold Coast, Australia. I enjoy building 
   modern web sites and applications with Vue, React, ES2015+, GraphQL, 
   TailwindCSS and Sass.
-image: images/jack-headshot.jpeg
+image: images/jack-angels-landing.jpg
 image_alt: A man taking a picture
 seo:
   title: Jack Lyons | About Me
