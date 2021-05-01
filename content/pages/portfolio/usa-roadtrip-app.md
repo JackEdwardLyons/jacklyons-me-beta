@@ -5,7 +5,7 @@ date: '2018-12-18'
 thumb_image: images/welcome-to-colorado.jpg
 thumb_image_alt: An image of a "Welcome to Colorado" sign
 image: images/successful-robin.png
-image_alt: An image of a "Welcome to Colorado" sign
+image_alt: An image of the USA Roadtrip app
 seo:
   title: Jack Lyons | USA Roadtrip App
   description: "In 2017 my wife and I spent six months living and road tripping across the United States. I decided to learn about\_Vue.js and build a USA Roadtrip App."
