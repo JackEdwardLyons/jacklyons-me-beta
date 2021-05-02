@@ -1,6 +1,6 @@
 ---
 title: Blog
-subtitle: 'I write about Web Development,'
+subtitle: 'I write about code & creativity, travel & adventure, investing & business'
 hide_title: false
 col_number: three
 seo:
