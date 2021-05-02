@@ -5,6 +5,7 @@ import moment from "moment-strftime";
 import { Layout } from "../components/index";
 import { htmlToReact, withPrefix, markdownify } from "../utils";
 import DisqusComments from "../components/DisqusComments";
+import Subscribe from "../components/Subscribe";
 
 export default class Post extends React.Component {
   render() {
@@ -26,7 +27,12 @@ export default class Post extends React.Component {
                 <img src={withPrefix(_.get(this.props, "page.frontmatter.image", null))} alt={_.get(this.props, "page.frontmatter.image_alt", null)} />
               </div>
             )}
-            <div className="post-content inner-sm">{markdownify(_.get(this.props, "page.markdown", null))}</div>
+            <div className="post-content inner-sm">
+              {markdownify(_.get(this.props, "page.markdown", null))}
+
+              <Subscribe />
+            </div>
+
             <footer className="post-meta inner-sm">
               <time className="published" dateTime={moment(_.get(this.props, "page.frontmatter.date", null)).strftime("%Y-%m-%d %H:%M")}>
                 {moment(_.get(this.props, "page.frontmatter.date", null)).strftime("%B %d, %Y")}
