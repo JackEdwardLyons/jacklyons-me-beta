@@ -66,13 +66,12 @@ Here's what I was looking to achieve with my site migration:
 
 *   My website has to be fast and score above 90 when running a [Google Lighthouse](https://developers.google.com/web/tools/lighthouse) test.
 
-*   I want to use modern tech such as React.js or Vue.js, coupled with static site generation.
+*   I want to use modern tech such as [React.js ](https://reactjs.org/)or [Vue.js](https://vuejs.org/), coupled with static site generation.
 
 *   I want to host my site on GitHub and write my posts in markdown.
 
-*   I don't want to use a server to load my content
+*   I don't want to use a server to load my content and I don't want to pay for a server too!
 
-*   I want a tool to help with content management, SEO and basic page and asset updates
+*   I want a tool to help with content management, SEO and basic page and asset updates.
 
-*   I want my site to be hosted on Netlify so I can control deployments, form submissions and asset optimisations
-
+*   I want my site to be hosted on [Netlify](https://www.netlify.com/) so I can control deployments, form submissions and asset optimisations
