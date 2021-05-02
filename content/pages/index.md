@@ -94,6 +94,46 @@ sections:
           obvious passion for his work.. Hire 
 
           him.
+
+  - section_id: home-contact-form
+    title: Let’s kickstart your next project!
+    subtitle: Contact me using the form below.
+    type: section_form
+    content: >
+      Have any questions about your next website or web application project?
+      Feel free to get in touch with me! I’ll do my best to get back to you 
+
+      ASAP.
+    form_id: contactForm
+    form_action: /thank-you
+    form_fields:
+      - input_type: text
+        name: name
+        label: Name
+        default_value: Your name
+        is_required: true
+      - input_type: email
+        name: email
+        label: Email
+        default_value: Your email address
+        is_required: true
+      - input_type: select
+        name: subject
+        label: Subject
+        default_value: Please select
+        options:
+          - Project work
+          - Full-time job
+          - Consulting / Advice
+          - Other
+        is_required: true
+      - input_type: textarea
+        name: message
+        label: Message
+        default_value: Your message
+        is_required: true
+    submit_label: Send Message
+
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
