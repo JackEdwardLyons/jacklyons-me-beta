@@ -1,6 +1,6 @@
 ---
 title: Blog
-subtitle: 'News, tips and highlights'
+subtitle: 'I write about Web Development,'
 hide_title: false
 col_number: three
 seo:
