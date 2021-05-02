@@ -4,7 +4,7 @@ subtitle: A shortcut to seamless freight forwarding & logistics.
 date: '2019-04-08'
 thumb_image: images/cargo-ship.jpg
 thumb_image_alt: An image of a cargo ship
-image: images/cargo-ship.jpg
+image: https://res.cloudinary.com/jacklyons123/image/upload/v1619951871/jacklyons.me/cargo-ship.jpg
 image_alt: An image of a cargo ship
 seo:
   title: Explorate
