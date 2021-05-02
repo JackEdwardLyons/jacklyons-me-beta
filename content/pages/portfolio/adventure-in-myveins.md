@@ -2,7 +2,7 @@
 title: Adventure In My Veins
 subtitle: A rock climbing blog for digital dirtbags
 date: '2019-05-10'
-thumb_image: images/aimv-screenshot.png
+thumb_image: https://res.cloudinary.com/jacklyons123/image/upload/v1619951683/jacklyons.me/aimv-screenshot.png
 thumb_image_alt: Adventure in my veins website
 image: https://res.cloudinary.com/jacklyons123/image/upload/v1619951683/jacklyons.me/aimv-screenshot.png
 image_alt: Adventure in my veins website
