@@ -4,7 +4,10 @@ subtitle: There are no excuses for having a slow website in 2021
 date: '2021-05-01'
 thumb_image_alt: Next.js logo
 image_alt: Next.js logo
-excerpt: lorem-ipsum
+excerpt: >-
+  I was horrified when I recently tried to lookup my WordPress site on my
+  mobile. It took close to ten seconds to load! That was enough for me to say
+  goodbye to WordPress once and for all. Hello Next.js!
 seo:
   title: Moving from WordPress to Next.js with Stackbit
   description: >-
