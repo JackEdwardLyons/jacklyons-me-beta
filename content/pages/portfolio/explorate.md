@@ -1,47 +1,48 @@
 ---
 title: Explorate
 subtitle: A shortcut to seamless freight forwarding & logistics.
-date: '2019-04-08'
-thumb_image: https://res.cloudinary.com/jacklyons123/image/upload/v1619951871/jacklyons.me/cargo-ship.jpg
+date: "2019-04-08"
+thumb_image: https://res.cloudinary.com/jacklyons123/image/upload/f_auto,q_auto/v1619951871/jacklyons.me/cargo-ship.jpg
 thumb_image_alt: An image of a cargo ship
-image: https://res.cloudinary.com/jacklyons123/image/upload/v1619951871/jacklyons.me/cargo-ship.jpg
+image: https://res.cloudinary.com/jacklyons123/image/upload/f_auto,q_auto/v1619951871/jacklyons.me/cargo-ship.jpg
 image_alt: An image of a cargo ship
 seo:
   title: Explorate
   description: >-
     Explorate is a really promising startup out of Brisbane, Australia. The
-    company has a massive vision to update the shipping and logistics industry. 
+    company has a massive vision to update the shipping and logistics industry.
   extra:
-    - name: 'og:type'
+    - name: "og:type"
       value: website
       keyName: property
-    - name: 'og:title'
+    - name: "og:title"
       value: Explorate
       keyName: property
-    - name: 'og:description'
+    - name: "og:description"
       value: >-
         Explorate is a really promising startup out of Brisbane, Australia. The
         company has a massive vision to update the shipping and logistics
-        industry. 
+        industry.
       keyName: property
-    - name: 'og:image'
+    - name: "og:image"
       value: /images/cargo-ship.jpg
       keyName: property
       relativeUrl: true
-    - name: 'twitter:card'
+    - name: "twitter:card"
       value: summary_large_image
-    - name: 'twitter:title'
+    - name: "twitter:title"
       value: Explorate
-    - name: 'twitter:description'
+    - name: "twitter:description"
       value: >-
         Explorate is a really promising startup out of Brisbane, Australia. The
         company has a massive vision to update the shipping and logistics
-        industry. 
-    - name: 'twitter:image'
+        industry.
+    - name: "twitter:image"
       value: /images/cargo-ship.jpg
       relativeUrl: true
 layout: project
 ---
+
 [**Explorate**](https://www.explorate.co/) is a really promising startup out of Brisbane, Australia. The company has a massive vision to update the shipping and logistics industry. The team are passionate about changing the worlds interaction with freight. They plan make it easy to simply book and track a shipping container from start to finish.
 
 I took on a short-term role at Explorate to help the co-founders build out their application front end using Vue.js. As the sole front end developer at the time, my role was to develop the admin panel, booking system and user profiles from scratch.
