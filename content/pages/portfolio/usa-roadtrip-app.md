@@ -2,7 +2,7 @@
 title: USA Roadtrip App
 subtitle: A simple app to explore America's cities.
 date: '2018-12-18'
-thumb_image: images/welcome-to-colorado.jpg
+thumb_image: https://res.cloudinary.com/jacklyons123/image/upload/v1619951687/jacklyons.me/welcome-to-colorado.jpg
 thumb_image_alt: An image of a "Welcome to Colorado" sign
 image: images/successful-robin.png
 image_alt: An image of the USA Roadtrip app
