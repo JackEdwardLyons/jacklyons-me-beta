@@ -75,3 +75,36 @@ Here's what I was looking to achieve with my site migration:
 *   I want a tool to help with content management, SEO and basic page and asset updates.
 
 *   I want my site to be hosted on [Netlify](https://www.netlify.com/) so I can control deployments, form submissions and asset optimisations
+
+*   I want full control over my site styles, components, configuration and dependencies.
+
+Was it all achievable? Yes, yes and yes. Here's how I did it:
+
+#### Choosing the tech stack
+
+*   Next.js with static site generation
+
+#### Finding the right tool to manage my content
+
+*   stackbit
+
+*   SEO
+
+*   Markdown editor
+
+*   Content and asset management
+
+#### Linking to GitHub and Netlify
+
+*   Instant previews
+
+*   Form submissions with Netlify
+
+#### Google Lighthouse 
+
+*   Yes, my site scores above 90
+
+#### Full Control Over My Code
+
+*   Yes, with GitHub and StackBit internal code editor
+
