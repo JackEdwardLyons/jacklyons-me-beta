@@ -1,6 +1,7 @@
 /**
  * Buttons
  */
+button,
 .button {
   -webkit-box-align: center;
   -ms-flex-align: center;
@@ -23,8 +24,8 @@
   position: relative;
   text-align: center;
   text-decoration: none;
-  -webkit-transition: .3s ease;
-  transition: .3s ease;
+  -webkit-transition: 0.3s ease;
+  transition: 0.3s ease;
 
   .accent-green & {
     color: _palette(accent-green);
@@ -51,8 +52,8 @@
     height: 32%;
     left: 0;
     position: absolute;
-    transition: .3s ease;
-    -webkit-transition: .3s ease;
+    transition: 0.3s ease;
+    -webkit-transition: 0.3s ease;
     width: 100%;
   }
 
@@ -75,15 +76,15 @@
     .accent-green & {
       color: _palette(accent-green);
     }
-  
+
     .accent-blue & {
       color: _palette(accent-blue);
     }
-  
+
     .accent-violet & {
       color: _palette(accent-violet);
     }
-  
+
     .accent-yellow & {
       color: _palette(accent-yellow);
     }
