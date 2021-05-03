@@ -38,13 +38,13 @@ export default class Post extends React.Component {
                 {moment(_.get(this.props, "page.frontmatter.date", null)).strftime("%B %d, %Y")}
               </time>
 
-              <DisqusComments
+              {/* <DisqusComments
                 post={{
                   title: postTitle,
                   id: postTitle.toLowerCase().replace(/\s+/gi, "_"),
                   url: postPath,
                 }}
-              />
+              /> */}
             </footer>
           </article>
         </div>

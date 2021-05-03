@@ -101,14 +101,12 @@ It's just nice to have total flexibility. If I am honest, StackBit still has a l
 
 #### Linking to GitHub and Netlify
 
-- Instant previews
+What I love about StackBit is that it automtically version controls any updates I make directly to my [GitHub repo](https://github.com/JackEdwardLyons/jacklyons-me-beta). There are two branches in my repo: `preview` and `master`. The `preview` branch is connected to StackBit Studio in real-time. Any change that happens there is instantly reflected in my repo. Code is committed to the `master` branch whenever I wish to deploy the changes to my site.
 
-- Form submissions with Netlify
+I've always had difficulty in the past when trying to version control WordPress websites. Most WP sites are fully customized with plugins and custom code snippets. Each plugin has it's own interfaces with options panels and configuration fields. Controlling all the changes across each screen in the dashboard is just hard. Again, it's just nice to keep things simple with Git.
+
+All of this coupled with Netlify makes for an absolute dream developer experience. I love Netlify. It's easy to use, simple and "just works". I can check my build and deployment logs in real-time, trigger webhooks and integrate forms with ease. My contact form uses (Netlify Forms)[https://www.netlify.com/products/forms/] and all it took was one line of code. All of that, and so much more!
 
 #### Google Lighthouse
 
-- Yes, my site scores above 90
-
-#### Full Control Over My Code
-
-- Yes, with GitHub and StackBit internal code editor
+Yes, my site consistenly scores above 90 when I run it through [https://developers.google.com/web/tools/lighthouse](Google Lighthouse). That's the power of static site generators like Next.js coupled with dead-simple hosting and deployment on Netlify. Geez, I sound like a real fanboy here, but it makes me genuinely happy when things are this simple and effective!
