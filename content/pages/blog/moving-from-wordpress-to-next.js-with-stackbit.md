@@ -83,17 +83,21 @@ Was it all achievable? Yes, yes and yes. Here's how I did it:
 
 #### Choosing the tech stack
 
-- Next.js with static site generation
+- Next.js
+
+As a Front End Developer, the two main libraries I regularly work with are React.js and Vue.js. What I love about both of these libraries is that you can generate a static website that is blazing fast with server-side rendering tools such as Next.js (using React) and Nuxt.js (using Vue.js). Gone are the days of clunky webpack configurations to bundle assets - Next and Nuxt makes server-side rendering a breeze.
+
+I chose Next.js in the end because it was the easiest option to get set up with StackBit. I was able to leverage a starter template called [Exto](https://github.com/stackbit/stackbit-theme-exto) and hit the ground running. I can build out new templates and components with ease and intergrate them into the StackBit Studio to create new pages in no time at all.
+
+Because I am familiar with the React ecosystem, I can leverage whatever npm packages I want in my application. Furthermore, Next.js is improving rapidly and I can easily update to the latest major version whenever I like.
 
 #### Finding the right tool to manage my content
 
-- stackbit
+What I love about StackBit is that I can update content and application code side-by-side in the StackBit Studio. If I don't like the styles of a component, then I can dig into the Sass files and make the necessary changes. If I then want to update the content, I can open the WYSIWYG editor and type away, click Save, and it's automagically published to GitHub.
 
-- SEO
+StackBit also has a simple SEO interface which makes it easy to optimise my posts and pages. I can add new images by simply uploading them into the image gallery which directly links to my GitHub repo. If I want to write a post in Markdown, I can create a new `.md` file and get to work. If I want to update metadata without using the StackBit Studio, I can open my code editor and edit the relevant `.yaml` file.
 
-- Markdown editor
-
-- Content and asset management
+It's just nice to have total flexibility. If I am honest, StackBit still has a long way to go to meet the needs of the mass market. But it's perfect for developers and Indie Hackers who are fed up with bulky content management systems. I know StackBit will improve greatly over time and I am really impressed with it so far. Best of all, StackBit is free to use and their customer support is fantastic!
 
 #### Linking to GitHub and Netlify
 
