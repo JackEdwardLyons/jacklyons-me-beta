@@ -105,8 +105,16 @@ What I love about StackBit is that it automtically version controls any updates 
 
 I've always had difficulty in the past when trying to version control WordPress websites. Most WP sites are fully customized with plugins and custom code snippets. Each plugin has it's own interfaces with options panels and configuration fields. Controlling all the changes across each screen in the dashboard is just hard. Again, it's just nice to keep things simple with Git.
 
-All of this coupled with Netlify makes for an absolute dream developer experience. I love Netlify. It's easy to use, simple and "just works". I can check my build and deployment logs in real-time, trigger webhooks and integrate forms with ease. My contact form uses (Netlify Forms)[https://www.netlify.com/products/forms/] and all it took was one line of code. All of that, and so much more!
+All of this coupled with Netlify makes for an absolute dream developer experience. I love Netlify. It's easy to use, simple and "just works". I can check my build and deployment logs in real-time, trigger webhooks and integrate forms with ease. My contact form uses [Netlify Forms ](https://www.netlify.com/products/forms/) and all it took was one line of code. All of that, and so much more!
 
 #### Google Lighthouse
 
-Yes, my site consistenly scores above 90 when I run it through [https://developers.google.com/web/tools/lighthouse](Google Lighthouse). That's the power of static site generators like Next.js coupled with dead-simple hosting and deployment on Netlify. Geez, I sound like a real fanboy here, but it makes me genuinely happy when things are this simple and effective!
+Yes, my site consistenly scores above 90 when I run it through [Google Lighthouse](https://developers.google.com/web/tools/lighthouse). That's the power of static site generators like Next.js coupled with dead-simple hosting and deployment on Netlify. Geez, I sound like a real fanboy here, but it makes me genuinely happy when things are this simple and effective!
+
+At the time of writing, there are a few more things I can do to further optimise the site. I'm thinking about storing my assets on [Cloudinary](https://www.cloudinary.com/) and leveraging the `next/image` component for a better experience across all devices. I can also look into cache policies and see if Netlify can be optimised further. All in all, it's much better than my old site!
+
+---
+
+In conclusion, I am absolutely amazed at how quickly I was able to pull this off. In total, it took a couple of nights here and there over the weekend and after work. That's all. It's going to be a pain to move across all of my old WordPress posts, but for now, I will simply leave that for a rainy day and focus on future posts!
+
+If you have any questions, comments, feedback or tips, please get in touch via my Contact form! Thanks for reading.

@@ -6,18 +6,19 @@ excerpt: >-
 date: "2021-01-04"
 thumb_image: images/about.jpg
 image: images/about.jpg
+image_alt: An image of a man with a camera
 seo:
-  title: The Advantages and Disadvantages of Working from Home
-  description: Interdum posuere lorem ipsum dolor sit amet consectetur
+  title: My 2020 Annual Review
+  description: A look back on 2020 - what went well, what didn't go well, and what's ahead for the future!
   extra:
     - name: "og:type"
       value: website
       keyName: property
     - name: "og:title"
-      value: The Advantages and Disadvantages of Working from Home
+      value: My 2020 Annual Review
       keyName: property
     - name: "og:description"
-      value: Interdum posuere lorem ipsum dolor sit amet consectetur
+      value: A look back on 2020 - what went well, what didn't go well, and what's ahead for the future!
       keyName: property
     - name: "og:image"
       value: images/9.jpg
@@ -26,16 +27,16 @@ seo:
     - name: "twitter:card"
       value: summary_large_image
     - name: "twitter:title"
-      value: The Advantages and Disadvantages of Working from Home
+      value: My 2020 Annual Review
     - name: "twitter:description"
-      value: Interdum posuere lorem ipsum dolor sit amet consectetur
+      value: A look back on 2020 - what went well, what didn't go well, and what's ahead for the future!
     - name: "twitter:image"
       value: images/9.jpg
       relativeUrl: true
 layout: post
 ---
 
-> "If you don't have a plan, you become part of somebody else's plan."
+> If you don't have a plan, you become part of somebody else's plan.
 
 In my 2020 Annual Review I will answer three key questions:
 
