@@ -1,7 +1,7 @@
 ---
 title: Moving from WordPress to Next.js with StackBit
 subtitle: There are no excuses for having a slow website in 2021
-date: "2021-05-01"
+date: '2021-05-01'
 thumb_image_alt: Next.js logo
 image_alt: Next.js logo
 excerpt: >-
@@ -15,79 +15,78 @@ seo:
     and Next.js is blazing fast. In this post I show you how to make the change.
   robots: []
   extra:
-    - name: "og:title"
+    - name: 'og:title'
       value: Moving from WordPress to Next.js with Stackbit
       keyName: property
       relativeUrl: false
-    - name: "og:description"
+    - name: 'og:description'
       value: >-
         There are no excuses for slow websites in 2021. WordPress is bulky and
         slow, and Next.js is blazing fast. In this post I show you how to make
         the change.
       keyName: property
       relativeUrl: false
-    - name: "og:image"
+    - name: 'og:image'
       value: /images/next-js-logo.jpg
       keyName: property
       relativeUrl: true
-    - name: "twitter:image"
+    - name: 'twitter:image'
       value: /images/next-js-logo.jpg
       keyName: property
       relativeUrl: true
-    - name: "og:type"
+    - name: 'og:type'
       value: website
       keyName: property
       relativeUrl: false
-    - name: "twitter:description"
+    - name: 'twitter:description'
       value: >-
         There are no excuses for slow websites in 2021. WordPress is bulky and
         slow, and Next.js is blazing fast. In this post I show you how to make
         the change.
       keyName: name
       relativeUrl: false
-    - name: "twitter:title"
+    - name: 'twitter:title'
       value: Moving from WordPress to Next.js with Stackbit
       keyName: name
       relativeUrl: false
-    - name: "twitter:card"
+    - name: 'twitter:card'
       value: summary
       keyName: name
       relativeUrl: false
   type: stackbit_page_meta
 layout: post
-thumb_image: https://res.cloudinary.com/jacklyons123/image/upload/f_auto,q_auto/v1619950951/jacklyons.me/next-js-logo.jpg
-image: https://res.cloudinary.com/jacklyons123/image/upload/f_auto,q_auto/v1619950951/jacklyons.me/next-js-logo.jpg
+thumb_image: >-
+  https://res.cloudinary.com/jacklyons123/image/upload/f_auto,q_auto/v1619950951/jacklyons.me/next-js-logo.jpg
+image: >-
+  https://res.cloudinary.com/jacklyons123/image/upload/f_auto,q_auto/v1619950951/jacklyons.me/next-js-logo.jpg
 ---
+Moving from WordPress to a static site generator like Next.js has been a huge goal of mine for over two years! I wish I got to it sooner, but moving content from one platform to another can be incredibly time consuming. Plus, I was scared of losing valuable SEO rankings for my popular posts. But when I ran my site through a Google Lighthouse test, I was horrified to see that it was taking up to 10 seconds to load on mobile devices! 
 
-Moving from WordPress to a static site generator like Next.js has been a huge goal of mine for over two years. My site was taking up to 10 seconds to load on mobile devices which was unacceptable. I wish I got to this sooner, but you know how it is: moving content from one platform to another can be incredibly time consuming. Plus, I was scared of losing valuable SEO rankings. While my SEO will likely suffer short-term, I think this is a better long-term decision for numerous reasons, many of which I will outline below.
+This was simply unacceptable, and thus provided the motivation to simply make the change! While my SEO will likely suffer short-term, I think this is a better long-term decision for numerous reasons, many of which I will outline below.
 
-In this post I will describe what exactly went into making the change, from initial research and planning to execution and optimisation. Not everything has been figured out just yet, but as a developer I love knowing that I can figure it all out with code. What I like about Next.js and StackBit is that I can dive deep into the code at any time while still maintaing a high level of content customisation through the StackBit studio.
+In this post I will describe what went into making the change from a bulky and slow WordPress site over to a blazing fast server-side generated web app. Here's what I was looking to achieve with my site migration:
 
-Here's what I was looking to achieve with my site migration:
+*   My website has to be fast and score above 90 when running a [Google Lighthouse](https://developers.google.com/web/tools/lighthouse) test.
 
-- My website has to be fast and score above 90 when running a [Google Lighthouse](https://developers.google.com/web/tools/lighthouse) test.
+*   I want to use modern tech such as [React.js ](https://reactjs.org/)or [Vue.js](https://vuejs.org/), coupled with static site generation.
 
-- I want to use modern tech such as [React.js ](https://reactjs.org/)or [Vue.js](https://vuejs.org/), coupled with static site generation.
+*   I want to host my site on GitHub and write my posts in markdown.
 
-- I want to host my site on GitHub and write my posts in markdown.
+*   I don't want to use a server to load my content and I don't want to pay for a server too!
 
-- I don't want to use a server to load my content and I don't want to pay for a server too!
+*   I want a tool to help with content management, SEO and basic page and asset updates.
 
-- I want a tool to help with content management, SEO and basic page and asset updates.
+*   I want my site to be hosted on [Netlify](https://www.netlify.com/) so I can control deployments, form submissions and asset optimisations
 
-- I want my site to be hosted on [Netlify](https://www.netlify.com/) so I can control deployments, form submissions and asset optimisations
+*   I want full control over my site styles, components, configuration and dependencies.
 
-- I want full control over my site styles, components, configuration and dependencies.
-
-Was it all achievable? Yes, yes and yes. Here's how I did it:
+Was it all achievable? Yes, yes and yes.  Here's how I did it:
 
 #### Choosing the tech stack
 
-- Next.js
-
 As a Front End Developer, the two main libraries I regularly work with are React.js and Vue.js. What I love about both of these libraries is that you can generate a static website that is blazing fast with server-side rendering tools such as Next.js (using React) and Nuxt.js (using Vue.js). Gone are the days of clunky webpack configurations to bundle assets - Next and Nuxt makes server-side rendering a breeze.
 
-I chose Next.js in the end because it was the easiest option to get set up with StackBit. I was able to leverage a starter template called [Exto](https://github.com/stackbit/stackbit-theme-exto) and hit the ground running. I can build out new templates and components with ease and intergrate them into the StackBit Studio to create new pages in no time at all.
+I chose [**Next.js **](https://nextjs.org/)in the end because it was the easiest option to get set up with [**StackBit**](https://www.stackbit.com/). I was able to leverage a starter template called [Exto](https://github.com/stackbit/stackbit-theme-exto) and hit the ground running. I can build out new templates and components with ease and intergrate them into the StackBit Studio to create new pages in no time at all.
 
 Because I am familiar with the React ecosystem, I can leverage whatever npm packages I want in my application. Furthermore, Next.js is improving rapidly and I can easily update to the latest major version whenever I like.
 
@@ -105,15 +104,13 @@ What I love about StackBit is that it automtically version controls any updates 
 
 I've always had difficulty in the past when trying to version control WordPress websites. Most WP sites are fully customized with plugins and custom code snippets. Each plugin has it's own interfaces with options panels and configuration fields. Controlling all the changes across each screen in the dashboard is just hard. Again, it's just nice to keep things simple with Git.
 
-All of this coupled with Netlify makes for an absolute dream developer experience. I love Netlify. It's easy to use, simple and "just works". I can check my build and deployment logs in real-time, trigger webhooks and integrate forms with ease. My contact form uses [Netlify Forms ](https://www.netlify.com/products/forms/) and all it took was one line of code. All of that, and so much more!
+All of this coupled with [**Netlify**](https://www.netlify.com/) makes for an absolute dream developer experience. I love Netlify. It's easy to use, simple and "just works". I can check my build and deployment logs in real-time, trigger webhooks and integrate forms with ease. My contact form uses [Netlify Forms ](https://www.netlify.com/products/forms/) and all it took was one line of code. All of that, and so much more!
 
 #### Google Lighthouse
 
-Yes, my site consistenly scores above 90 when I run it through [Google Lighthouse](https://developers.google.com/web/tools/lighthouse). That's the power of static site generators like Next.js coupled with dead-simple hosting and deployment on Netlify. Geez, I sound like a real fanboy here, but it makes me genuinely happy when things are this simple and effective!
+Yes, my site consistently scores above 90 when I run it through [**Google Lighthouse**](https://developers.google.com/web/tools/lighthouse)**.** That's the power of static site generators like Next.js coupled with dead-simple hosting and deployment on Netlify. Geez, I sound like a real fanboy here, but it makes me genuinely happy when things are this simple and effective!
 
 At the time of writing, there are a few more things I can do to further optimise the site. I'm thinking about storing my assets on [Cloudinary](https://www.cloudinary.com/) and leveraging the `next/image` component for a better experience across all devices. I can also look into cache policies and see if Netlify can be optimised further. All in all, it's much better than my old site!
-
----
 
 In conclusion, I am absolutely amazed at how quickly I was able to pull this off. In total, it took a couple of nights here and there over the weekend and after work. That's all. It's going to be a pain to move across all of my old WordPress posts, but for now, I will simply leave that for a rainy day and focus on future posts!
 
