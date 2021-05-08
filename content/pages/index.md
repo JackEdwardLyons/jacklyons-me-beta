@@ -168,7 +168,7 @@ seo:
         TypeScript, GraphQL, TailwindCSS and Sass. Contact me today for help on
         your next project!
     - name: 'twitter:image'
-      value: /images/9.jpg
+      value: /images/about.jpg
       relativeUrl: true
     - name: 'og:image'
       value: /images/about.jpg
