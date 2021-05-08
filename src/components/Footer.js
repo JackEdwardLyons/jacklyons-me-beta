@@ -12,7 +12,6 @@ export default class Footer extends React.Component {
         <div className="inner">
           <div className="site-footer-inside">
             <div className="site-info">
-            <h1>Hack</h1>
               {_.get(this.props, "data.config.footer.content", null) && (
                 <span className="copyright">{htmlToReact(_.get(this.props, "data.config.footer.content", null))}</span>
               )}
