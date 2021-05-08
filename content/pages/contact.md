@@ -73,5 +73,9 @@ seo:
       value: /images/thumb__work-anywhere-laptop.jpg
       keyName: property
       relativeUrl: true
+    - name: 'twitter:image'
+      value: /images/thumb__work-anywhere-laptop.jpg
+      keyName: property
+      relativeUrl: true
 layout: advanced
 ---
