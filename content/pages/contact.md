@@ -46,28 +46,32 @@ seo:
 
     ASAP.
   extra:
-    - name: "og:type"
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: "og:title"
+    - name: 'og:title'
       value: Jack Lyons | Contact
       keyName: property
-    - name: "og:description"
+    - name: 'og:description'
       value: >-
         Have any questions about your next website or web application project?
         Feel free to get in touch with me! I’ll do my best to get back to you
 
         ASAP.
       keyName: property
-    - name: "twitter:card"
+    - name: 'twitter:card'
       value: summary
-    - name: "twitter:title"
+    - name: 'twitter:title'
       value: Jack Lyons | Contact
-    - name: "twitter:description"
+    - name: 'twitter:description'
       value: >-
         Have any questions about your next website or web application project?
         Feel free to get in touch with me! I’ll do my best to get back to you
 
         ASAP.
+    - name: 'og:image'
+      value: /images/thumb__work-anywhere-laptop.jpg
+      keyName: property
+      relativeUrl: true
 layout: advanced
 ---
