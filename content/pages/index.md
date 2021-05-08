@@ -171,7 +171,7 @@ seo:
       value: /images/about.jpg
       relativeUrl: true
     - name: 'og:image'
-      value: /images/about.jpg
+      value: /images/thumb__work-anywhere-laptop.jpg
       keyName: property
       relativeUrl: true
 layout: advanced
