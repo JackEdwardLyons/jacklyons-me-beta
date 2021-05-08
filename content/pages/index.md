@@ -158,10 +158,6 @@ seo:
         TypeScript, GraphQL, TailwindCSS and Sass. Contact me today for help on
         your next project!
       keyName: property
-    - name: 'og:image'
-      value: /images/9.jpg
-      keyName: property
-      relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
