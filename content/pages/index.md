@@ -24,7 +24,7 @@ sections:
   - section_id: services
     type: section_grid
     title: 'Here''s the tech I love to work with:'
-    subtitle: I love working with JavaScript & TypeScript
+    subtitle: I'm a Front End Developer who loves working with JavaScript & TypeScript
     col_number: two
     is_numbered: true
     grid_items:
