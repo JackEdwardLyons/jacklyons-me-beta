@@ -10,7 +10,7 @@ sections:
       ES2020+, TypeScript, GraphQL, TailwindCSS and Sass. Contact me today for
       help on your next project!
     actions:
-      - label: Let's talk
+      - label: Contact me today.
         url: /contact
         style: button
   - section_id: latest-projects
