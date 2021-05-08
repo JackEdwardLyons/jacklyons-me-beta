@@ -170,5 +170,9 @@ seo:
     - name: 'twitter:image'
       value: /images/9.jpg
       relativeUrl: true
+    - name: 'og:image'
+      value: /images/about.jpg
+      keyName: property
+      relativeUrl: true
 layout: advanced
 ---
