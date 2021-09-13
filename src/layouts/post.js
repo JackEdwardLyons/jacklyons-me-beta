@@ -1,16 +1,12 @@
 import React from "react";
 import _ from "lodash";
 import moment from "moment-strftime";
-import reactStringReplace from "react-string-replace";
 import { Layout } from "../components/index";
 import { htmlToReact, withPrefix, markdownify } from "../utils";
 // import DisqusComments from "../components/DisqusComments";
 import Subscribe from "../components/Subscribe";
 import Markdown from "markdown-to-jsx";
 
-const md = `
-# Hello world
-`;
 export default class Post extends React.Component {
   render() {
     const postTitle = _.get(this.props, "page.frontmatter.title", null);
