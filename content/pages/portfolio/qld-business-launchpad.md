@@ -3,7 +3,7 @@ title: QLD Business Launchpad
 subtitle: >-
   The Business Launchpad makes it easier to discover licences, permits and
   regulatory information tailored to your business needs.
-date: '2021-09-14'
+date: '2021-02-02'
 thumb_image_alt: QLD Business Launchpad
 image_alt: QLD Business Launchpad
 seo:
@@ -12,7 +12,7 @@ seo:
   robots: []
   extra: []
 layout: project
-thumb_image: images/business-launchpad-social-tile-option-3.png
+thumb_image: images/business-launchpad-social-tile-option-3-27d61ee7.png
 image: images/business-launchpad-social-tile-option-3-27d61ee7.png
 ---
 Throughout 2020 and midway into 2021 I contracted as a Principal Developer for the Queensland Government. There I worked to develop a tool called the Business Launchpad.
