@@ -1,10 +1,12 @@
 ---
 title: Adventure In My Veins
 subtitle: A rock climbing blog for digital dirtbags
-date: "2019-05-10"
-thumb_image: https://res.cloudinary.com/jacklyons123/image/upload/f_auto,q_auto/v1619951683/jacklyons.me/aimv-screenshot.png
+date: '2021-09-10'
+thumb_image: >-
+  https://res.cloudinary.com/jacklyons123/image/upload/f_auto,q_auto/v1619951683/jacklyons.me/aimv-screenshot.png
 thumb_image_alt: Adventure in my veins website
-image: https://res.cloudinary.com/jacklyons123/image/upload/f_auto,q_auto/v1619951683/jacklyons.me/aimv-screenshot.png
+image: >-
+  https://res.cloudinary.com/jacklyons123/image/upload/f_auto,q_auto/v1619951683/jacklyons.me/aimv-screenshot.png
 image_alt: Adventure in my veins website
 seo:
   title: Adventure In My Veins
@@ -13,32 +15,32 @@ seo:
     thrill seeking, mountain lovers who want to build a location independent
     lifestyle.
   extra:
-    - name: "og:type"
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: "og:title"
+    - name: 'og:title'
       value: Adventure In My Veins
       keyName: property
-    - name: "og:description"
+    - name: 'og:description'
       value: >-
         Adventure In My Veins is an adventure publication crafted for
         wanderlusting, thrill seeking, mountain lovers who want to build a
         location independent lifestyle.
       keyName: property
-    - name: "og:image"
+    - name: 'og:image'
       value: /images/aimv-screenshot.png
       keyName: property
       relativeUrl: true
-    - name: "twitter:card"
+    - name: 'twitter:card'
       value: summary_large_image
-    - name: "twitter:title"
+    - name: 'twitter:title'
       value: Adventure In My Veins
-    - name: "twitter:description"
+    - name: 'twitter:description'
       value: >-
         Adventure In My Veins is an adventure publication crafted for
         wanderlusting, thrill seeking, mountain lovers who want to build a
         location independent lifestyle.
-    - name: "twitter:image"
+    - name: 'twitter:image'
       value: /images/aimv-screenshot.png
       relativeUrl: true
 layout: project
