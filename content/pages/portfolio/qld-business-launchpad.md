@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: QLD Business Launchpad
 subtitle: lorem-ipsum
 date: '2021-09-14'
 thumb_image_alt: lorem-ipsum
