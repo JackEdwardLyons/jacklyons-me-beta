@@ -12,7 +12,7 @@ seo:
   robots: []
   extra: []
 layout: project
-thumb_image: images/business-launchpad-social-tile-option-2.png
+thumb_image: images/business-launchpad-social-tile-option-4.png
 image: images/business-launchpad-social-tile-option-3-27d61ee7.png
 ---
 Throughout 2020 and midway into 2021 I contracted as a Principal Developer for the Queensland Government. There I worked to develop a tool called the Business Launchpad.
