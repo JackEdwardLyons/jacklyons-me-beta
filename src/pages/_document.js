@@ -38,6 +38,8 @@ class MyDocument extends Document {
           <ScriptTag src={withPrefix("js/page-load.js")} />
           <ScriptTag src={withPrefix("js/page-unload.js")} />
           <NextScript />
+          <script defer data-domain="jacklyonsme-beta.netlify.app" src="https://plausible.io/js/plausible.js"></script>
+
         </body>
       </Html>
     );
