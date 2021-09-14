@@ -39,7 +39,7 @@ class MyDocument extends Document {
           <ScriptTag src={withPrefix("js/page-unload.js")} />
           <NextScript />
           <script defer data-domain="jacklyonsme-beta.netlify.app" src="https://plausible.io/js/plausible.js"></script>
-<script defer data-domain="jacklyons.me" src="https://plausible.io/js/plausible.js"></script>
+          <script defer data-domain="jacklyons.me" src="https://plausible.io/js/plausible.js"></script>
 
         </body>
       </Html>
