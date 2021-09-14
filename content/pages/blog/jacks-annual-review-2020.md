@@ -3,37 +3,44 @@ title: My 2020 Annual Review
 excerpt: >-
   A look back on 2020 - what went well, what didn't go well, and what's ahead
   for the future!
-date: "2021-01-04"
+date: '2021-01-04'
 thumb_image: images/about.jpg
 image: images/about.jpg
 image_alt: An image of a man with a camera
 seo:
   title: My 2020 Annual Review
-  description: A look back on 2020 - what went well, what didn't go well, and what's ahead for the future!
+  description: >-
+    A look back on 2020 - what went well, what didn't go well, and what's ahead
+    for the future!
   extra:
-    - name: "og:type"
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: "og:title"
+    - name: 'og:title'
       value: My 2020 Annual Review
       keyName: property
-    - name: "og:description"
-      value: A look back on 2020 - what went well, what didn't go well, and what's ahead for the future!
+    - name: 'og:description'
+      value: >-
+        A look back on 2020 - what went well, what didn't go well, and what's
+        ahead for the future!
       keyName: property
-    - name: "og:image"
+    - name: 'og:image'
       value: images/9.jpg
       keyName: property
       relativeUrl: true
-    - name: "twitter:card"
+    - name: 'twitter:card'
       value: summary_large_image
-    - name: "twitter:title"
+    - name: 'twitter:title'
       value: My 2020 Annual Review
-    - name: "twitter:description"
-      value: A look back on 2020 - what went well, what didn't go well, and what's ahead for the future!
-    - name: "twitter:image"
+    - name: 'twitter:description'
+      value: >-
+        A look back on 2020 - what went well, what didn't go well, and what's
+        ahead for the future!
+    - name: 'twitter:image'
       value: images/9.jpg
       relativeUrl: true
 layout: post
+thumb_image_alt: Image of a man with a camera
 ---
 
 > If you don't have a plan, you become part of somebody else's plan.
