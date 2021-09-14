@@ -4,7 +4,7 @@ subtitle: >-
   The Business Launchpad makes it easier to discover licences, permits and
   regulatory information tailored to your business needs.
 date: '2021-09-14'
-thumb_image_alt: lorem-ipsum
+thumb_image_alt: QLD Business Launchpad
 image_alt: lorem-ipsum
 seo:
   title: ''
