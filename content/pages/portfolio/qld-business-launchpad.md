@@ -5,7 +5,7 @@ subtitle: >-
   regulatory information tailored to your business needs.
 date: '2021-09-14'
 thumb_image_alt: QLD Business Launchpad
-image_alt: lorem-ipsum
+image_alt: QLD Business Launchpad
 seo:
   title: ''
   description: ''
