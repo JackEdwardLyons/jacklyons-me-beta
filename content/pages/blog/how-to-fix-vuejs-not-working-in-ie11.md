@@ -4,7 +4,7 @@ excerpt: >-
   While IE 11 is officially going die in 2021, that doesn't meant it won't still
   need supporting. Lots of government and legacy systems still require it's
   support. I'll show you how to fix your white-screen-of-death in IE 11.
-date: "2021-01-04"
+date: '2021-01-04'
 thumb_image: images/ie-11.png
 image: images/ie-11.png
 image_alt: Internet Explorer 11 logo
@@ -14,33 +14,34 @@ seo:
     This is a post borne out of frustration to help all those poor souls out
     there trying to find a solution to the dreaded IE white screen of death.
   extra:
-    - name: "og:type"
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: "og:title"
+    - name: 'og:title'
       value: Is your Vue app not working in IE 11? Here's how to fix it.
       keyName: property
-    - name: "og:description"
+    - name: 'og:description'
       value: >-
         This is a post borne out of frustration to help all those poor souls out
         there trying to find a solution to the dreaded IE white screen of death.
       keyName: property
-    - name: "og:image"
+    - name: 'og:image'
       value: /images/ie-11.png
       keyName: property
       relativeUrl: true
-    - name: "twitter:card"
+    - name: 'twitter:card'
       value: summary_large_image
-    - name: "twitter:title"
+    - name: 'twitter:title'
       value: Is your Vue app not working in IE 11? Here's how to fix it.
-    - name: "twitter:description"
+    - name: 'twitter:description'
       value: >-
         This is a post borne out of frustration to help all those poor souls out
         there trying to find a solution to the dreaded IE white screen of death.
-    - name: "twitter:image"
+    - name: 'twitter:image'
       value: /images/ie-11.png
       relativeUrl: true
 layout: post
+thumb_image_alt: Internet Explorer 11 logo
 ---
 
 This is a post borne out of frustration. It's a last-ditch effort to help all those poor souls out there scratching their eyeballs out trying to find a solution to the dreaded IE white screen of death. I don't want to over-promise and say this will fix every single IE edge case, but I will offer some helpful steps to debug your Vue app in IE 11. Hopefully, at a minimum, it takes you one step closer to fixing your app so you can (finally) go to bed and sleep like a rock.
