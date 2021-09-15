@@ -113,6 +113,12 @@ Yes, my site consistently scores above 90 when I run it through Google Lighthous
 
 At the time of writing, there are a few more things I can do to further optimise the site. I'm thinking about storing my assets on [Cloudinary](https://www.cloudinary.com/) and leveraging the `next/image` component for a better experience across all devices. I can also look into cache policies and see if Netlify can be optimised further. All in all, it's much better than my old site!
 
+#### Plausible Analytics
+
+[Plausible Analytics](https://plausible.io/) is an open-source project dedicated to making web analytics more privacy-friendly. Their mission is to reduce corporate surveillance by providing an alternative web analytics tool which doesn’t come from the AdTech world (ie) Google. I love how simple this tool is and how easy it is to integrate. It's not going to bloat your JavaScript bundle size nor is it going to slow down your page load times. Plausible is less than 1kb in size! **That’s 45 times smaller than the Google Analytics Global Site Tag**. I am a huge fanboy of Plausible and I plan to remove Google Analytics from all my sites in place of Plausible.
+
+---
+
 In conclusion, I am absolutely amazed at how quickly I was able to pull this off. In total, it took a couple of nights here and there over the weekend and after work. That's all. It's going to be a pain to move across all of my old WordPress posts, but for now, I will simply leave that for a rainy day and focus on future posts!
 
 If you have any questions, comments, feedback or tips, please get in touch via my Contact form! Thanks for reading.

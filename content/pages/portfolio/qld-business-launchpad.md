@@ -3,18 +3,19 @@ title: QLD Business Launchpad
 subtitle: >-
   The Business Launchpad makes it easier to discover licences, permits and
   regulatory information tailored to your business needs.
-date: '2021-02-02'
+date: "2021-02-02"
 thumb_image_alt: QLD Business Launchpad
 image_alt: QLD Business Launchpad
 seo:
-  title: ''
-  description: ''
+  title: ""
+  description: ""
   robots: []
   extra: []
 layout: project
 thumb_image: images/business-launchpad-social-tile-option-3-27d61ee7.png
 image: images/business-launchpad-social-tile-option-3-27d61ee7.png
 ---
+
 Throughout 2020 and midway into 2021 I contracted as a Principal Developer for the Queensland Government. There I worked to develop a tool called the Business Launchpad.
 
 The [**Business Launchpad**](https://launchpad.business.qld.gov.au/) is an interactive tool to help business owners find relevant legislative information relating to their business needs and requirements. Imagine you’re a cafe owner and you want to throw a live music event and serve liquor. By using the Business Launchpad you simply log in with your online myGov business account and step-through the interactive questionnaire. The user can navigate to a “dashboard”  where they will find a detailed list of all the legislative documents they will need.
@@ -25,18 +26,18 @@ I’m really proud of this project and cannot believe how much effort was requir
 
 The technology used on the Business Launchpad includes:
 
-*   Reat
+- React
 
-*   TypeScript
+- TypeScript
 
-*   GraphQL and Apollo
+- GraphQL and Apollo
 
-*   TypeORM
+- TypeORM
 
-*   Gatsby
+- Gatsby
 
-*   Azure
+- Azure
 
-*   Aus Gov Design System
+- Aus Gov Design System
 
-*   Tailwind CSS
+- Tailwind CSS

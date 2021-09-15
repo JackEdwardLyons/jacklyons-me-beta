@@ -6,3 +6,8 @@ command = "npm run build"
   from = "/how-to-fix-vuejs-not-working-in-ie11"
   to = "/blog/how-to-fix-vuejs-not-working-in-ie11"
   status = 301
+
+[[redirects]]
+  from = "/bonfire-caesars-cipher"
+  to = "/blog/bonfire-caesars-cipher"
+  status = 301
