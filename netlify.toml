@@ -14,5 +14,7 @@ command = "npm run build"
 
 [[redirects]]
   from = "/dna-pairing-challenge"
-  to = "blog/dna-pairing-challenge"
+  to = "/blog/dna-pairing-challenge"
   status = 301
+
+
