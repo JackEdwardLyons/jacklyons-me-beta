@@ -11,3 +11,8 @@ command = "npm run build"
   from = "/bonfire-caesars-cipher"
   to = "/blog/bonfire-caesars-cipher"
   status = 301
+
+[[redirects]]
+  from = "/dna-pairing-challenge"
+  to = "blog/dna-pairing-challenge"
+  status = 301
