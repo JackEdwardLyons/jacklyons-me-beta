@@ -75,23 +75,28 @@ So, seeing as we are only given a set number of DNA pairs, it's easy enough to j
 
 ```
 
-for (let i = 0; i < refArr.length; i++) {
- switch (refArr[i][0]) {
-   case 'A':
-     refArr[i][1] = 'T';
-     break;
-   case 'T':
-     refArr[i][1] = 'A';
-     break;
-   case 'C':
-     refArr[i][1] = 'G';
-     break;
-   case 'G':
-     refArr[i][1] = 'C';
-     break;
-   }
- }
- return refArr;
+function pairElement(str) {
+  let refArr = str.split("").map(item => new Array(2).fill(item));
+
+  for (let i = 0; i < refArr.length; i++) {
+    switch (refArr[i][0]) {
+      case 'A':
+        refArr[i][1] = 'T';
+        break;
+      case 'T':
+        refArr[i][1] = 'A';
+        break;
+      case 'C':
+        refArr[i][1] = 'G';
+        break;
+      case 'G':
+        refArr[i][1] = 'C';
+        break;
+    }
+  }
+
+  return refArr;
+}
 
 ```
 
@@ -109,7 +114,7 @@ function pairElement(str) {
   return str.split('').map(char => [char, pairs[char]]);
 }
 
-pairElement("GCG");
+pairElement("GCG"); // => [["G", "C"], ["C", "G"],["G", "C"]]
 ```
 
 ---
