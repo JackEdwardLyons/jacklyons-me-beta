@@ -39,7 +39,7 @@ layout: post
 thumb_image_alt: An image of DNA
 ---
 
-In this post I will describe the method I used to solve the [**Free Code Camp DNA Pairing Algorithm challenge**](https://www.freecodecamp.com/challenges/dna-pairing). It's a great exercise to build up your of Array strength! I'm going to show how I solved this challenge using two different methods.
+In this post I will describe the method I used to solve the [**Free Code Camp DNA Pairing Algorithm challenge**](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/dna-pairing). It's a great exercise to build up your of Array strength! I'm going to show how I solved this challenge using two different methods.
 
 To solve this challenge I used the following helpful hints:
 
