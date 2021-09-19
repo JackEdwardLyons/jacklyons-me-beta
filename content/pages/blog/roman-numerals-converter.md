@@ -1,17 +1,18 @@
 ---
-title: Free Code Camp Intermediate Scripting - Roman Numerals Converter
+title: Free Code Camp Intermediate Scripting - Roman Numerals Converter SOLUTION
 subtitle: Learn how to manipulate elements based on a particular number/value algorithm in JavaScript.
 date: "2019-08-23"
-thumb_image_alt: Next.js logo
-image_alt: Next.js logo
+thumb_image_alt: A clock with Roman numerals
+image_alt: A clock with Roman numerals
 excerpt: >-
   This Free Code Camp Roman Numerals Converter challenge is a great way to show you how to manipulate elements based on a 
-  particular number/value algorithm. In this post I show you how to solve this bonfire using the new ES6 map method.
+  particular number/value algorithm.
 seo:
   title: Free Code Camp Roman Numerals Converter solution
   description: >-
-    There are no excuses for slow websites in 2021. WordPress is bulky and slow,
-    and Next.js is blazing fast. In this post I show you how to make the change.
+    This Free Code Camp Roman Numerals Converter challenge is a great way 
+    to show you how to manipulate elements based on a particular number/value 
+    algorithm.
   robots: []
   extra:
     - name: "og:title"
@@ -55,9 +56,9 @@ seo:
   type: stackbit_page_meta
 layout: post
 thumb_image: >-
-  https://res.cloudinary.com/jacklyons123/image/upload/f_auto,q_auto/v1619950951/jacklyons.me/next-js-logo.jpg
+  /images/roman-numerals.jpeg
 image: >-
-  https://res.cloudinary.com/jacklyons123/image/upload/f_auto,q_auto/v1619950951/jacklyons.me/next-js-logo.jpg
+  /images/roman-numerals.jpeg
 ---
 
 This Roman Numerals Converter challenge is a great way to show you how to manipulate elements based on a particular number/value algorithm. In this post I show you how to solve this bonfire using the new ES6 map method.
@@ -171,7 +172,6 @@ Which is why I've started to substitute my education with an incredible online r
 
 This bootcamp will teach you how built beautiful sites with Bootstrap, add in functionality with JavaScript and write back end code with Node.js all in a series of short, sharp, no BS video modules. I seriously could not recommend it any higher. Check it out and let me know what you think :)
 
-\[caption id="" align="aligncenter" width="480"\][![The Web Developers Bootcamp](images/625204_436a_2.jpg "The Web Developers Bootcamp")](http://click.linksynergy.com/link?id=Vlcp1fzKAPM&offerid=323058.625204&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fthe-web-developer-bootcamp%2F) **The Web Developer Bootcamp.**  
-The only course you need to learn web development - HTML, CSS, JS, Node, and More!\[/caption\]
+** [The Web Developers Bootcamp](http://click.linksynergy.com/link?id=Vlcp1fzKAPM&offerid=323058.625204&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fthe-web-developer-bootcamp%2F)** is the only course you need to learn web development - HTML, CSS, JS, Node, and More!
 
 ![](http://ad.linksynergy.com/fs-bin/show?id=Vlcp1fzKAPM&bids=323058.625204&type=2&subid=0)
