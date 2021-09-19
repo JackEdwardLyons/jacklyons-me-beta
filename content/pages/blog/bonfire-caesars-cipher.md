@@ -59,7 +59,8 @@ rot13("SERR PBQR PNZC");
 
 In my head, this problem makes sense: all you need to do is subtract each letter by 13 places. For example "S" - 13 = "F". But then how do we translate my simple English explanation into JavaScript? Let's take a look:
 
-\[caption id="attachment_855" align="aligncenter" width="820"\]![Rot 13 code](/images/ROT13.png) The action of a Caesar cipher, also known as ROT 13,  is to replace each letter with a different one a fixed number of places down the alphabet.\[/caption\]
+[Rot 13 code](/images/ROT13.png)
+The action of a Caesar cipher, also known as ROT 13,  is to replace each letter with a different one a fixed number of places down the alphabet.
 
 **Step 1: Create an alphabet**
 
