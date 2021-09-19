@@ -17,4 +17,9 @@ command = "npm run build"
   to = "/blog/dna-pairing-challenge"
   status = 301
 
+[[redirects]]
+  from = "/roman-numerals-converter"
+  to = "/blog/roman-numerals-converter"
+  status = 301
+
 
