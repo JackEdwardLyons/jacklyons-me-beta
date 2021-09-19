@@ -99,11 +99,7 @@ I'm sure there are a million different ways to solve this problem, but nonethele
 4. Add the corresponding roman numeral to the iterating number array (ie). "V" === "5".
 5. If there are remaining characters to be found, find the larger ones first, then the smaller ones (use subtraction).
 
-You could easily use a for loop for this problem. However, the more I learn about ES6, the more I hear how awesome (and much more efficient) the new array helper methods like *map, forEach and filter* are. Therefore I decided to take this new approach and test my newly acquired ES6 knowledge. **[If you would like to learn more about ES6 then I highly recommend the course below on Udemy.](http://click.linksynergy.com/link?id=Vlcp1fzKAPM&offerid=323058.861624&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fjavascript-es6-tutorial%2F)**
-
-[![](images/861624_864d_2.jpg)](http://click.linksynergy.com/link?id=Vlcp1fzKAPM&offerid=323058.861624&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fjavascript-es6-tutorial%2F)![](http://ad.linksynergy.com/fs-bin/show?id=Vlcp1fzKAPM&bids=323058.861624&type=2&subid=0)
-
-### **ES6: The Complete Developers Guide.**
+You could easily use a for loop for this problem. However, the more I learn about ES6, the more I hear how awesome (and much more efficient) the new array helper methods like *map, forEach and filter* are. Therefore I decided to take this new approach and test my newly acquired ES6 knowledge. **[If you would like to learn more about ES6 then I highly recommend ES6 the course on Udemy.](http://click.linksynergy.com/link?id=Vlcp1fzKAPM&offerid=323058.861624&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fjavascript-es6-tutorial%2F)**
 
 ---
 
