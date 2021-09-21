@@ -25,11 +25,11 @@ seo:
       keyName: property
       relativeUrl: false
     - name: "og:image"
-      value: https://res.cloudinary.com/jacklyons123/image/upload/v1632188989/frustrated-man-on-phone-compressed.jpg
+      value: /images/frustrated-man-on-phone-compressed.jpeg
       keyName: property
       relativeUrl: true
     - name: "twitter:image"
-      value: https://res.cloudinary.com/jacklyons123/image/upload/v1632188989/frustrated-man-on-phone-compressed.jpg
+      value: /images/frustrated-man-on-phone-compressed.jpeg
       keyName: property
       relativeUrl: true
     - name: "og:type"
@@ -58,39 +58,48 @@ image: >-
   https://res.cloudinary.com/jacklyons123/image/upload/v1632188989/frustrated-man-on-phone-compressed.jpg
 ---
 
-Are you an IT recruiter who is constantly getting shut down when cold calling developers?
+Are you an IT recruiter who is constantly getting shut down when calling developers?
 
-Are you the "_the 5th person to call with a ‘really cool role’_" on any given day?
+If you do get through, are you the "_the 5th person to call with a ‘really cool role’_" on any given day?
 
 ---
 
-As a web developer, I hear from **_a lot_** of recruiters. Usually I'm OK with them pitching their shiny new job opportunity but **not over the phone.** Often, we're just time poor and don’t have a few minutes. But in all honestly, it goes deeper than that.
+As a web developer I hear from **_a lot_** of recruiters. Usually I'm OK with them pitching their shiny new job opportunity but **not over the phone.** Often, I'm just time poor and don’t have a few minutes to hear the pitch. Well, that's my default answer anyway. But to tell you the truth, there's actually more to it than that.
 
 If you're an IT recruiter in software or web development please read this post carefully as I'm going to explain why your cold call approach just won't work when trying to fill a new developer role.
 
-#### It's not you, it's me
+#### It's not you, it's me.
 
-Developers are logical creatures who are always looking to optimise any given outcome. While this usually only matters in day-to-day coding, it also translates over to personal life when both **time** and **money** enter the equation. Put simply, developers don't want to waste our time if it doesn't make logical sense.
+Developers are logical creatures who are always looking to optimise any given outcome. While this usually only matters in day-to-day coding, it also translates over to personal life from time to time. This is especially true when both **time** and **money** enter the equation. Put simply, developers don't want to waste their time on the phone if it doesn't make logical sense, especially if the salary or day rate isn't known upfront.
 
-The number one reason why developer's don't (or won't) pick up your phone calls is because there is too much uncertainty at stake. Developers need answers to the hard facts first before engaging in a potential time-wasting endeavour.
+The number one reason why developer's don't (or won't) pick up your phone calls is because there is too much uncertainty at stake. **We need answers to the hard facts first before engaging in a potential time-wasting endeavour.**
 
-Most importantly, developer's don't want to be cold called. They prefer hearing from you via email or online message (LinkedIn) with straight up answers to the obvious facts. That's because we want to optimise our lives away from uncertainty and more towards hard data where a solution can quickly (and logically) be determined.
+As a recruiter, I know you so eagerly want to explain how great Company X is with their ping pong table and open-plan office. But please, just stop. The reality is, we don't care - well not initially anyway.
 
-#### Before cold-calling a developer, make sure you can answer these 4 simple questions:
+Developer's don't want to be cold called to hear your pitch (aka be sold to). That's because they want to optimise our lives away from uncertainty towards **a data-driven solution that can quickly (and logically) be determined.**
+
+#### Before calling a developer, make sure you can answer these 4 simple questions:
 
 1. How much does it pay?
 2. What is the tech stack?
-3. Can I work from home, or on my own schedule or do I have to go into an office?
-4. Will I have creative flexibility to go outside of the box, or are there many layers of red tape to go through?
+3. Can you send me a clearly defined job description?
+4. Can I work from home or do I have to go into an office from 9 to 5?
 
 ---
 
-If you can follow these simple steps and be sure to contact developers via email or LinkedIn first then you'll have a much greater chance at getting them on the phone _if they are interested._
+If you don't follow these steps then your cold call will likely be rejected or shut down very quickly.
 
-#### In summary, state the facts, then wait...
+My best recommendation is to first contact developers via email or LinkedIn with answers to the above 4 questions. Keep your message short and sharp.
+If the developer chooses to engage with you by showing interest, then you'll have a much greater chance at progressing to the next step over the phone.
 
-It's not that we are against phone calls. it's just that **the phone call should always be the second step in the developer-recruiter relationship** once the developer has determined the opporunity to be of interest.
+And hey, maybe they will like the idea of that ping pong table after all 😄
 
-**If we like what we read then your odds of getting us on the phone will skyrocket.**
+#### In summary
+
+State the facts upfront & you'll have a better chance of getting a developer on the phone.
+
+It's not that we are against phone calls. it's just that **the phone call should always be the second step in the developer-recruiter relationship**. The developer must first determine if the opporunity is of interest and that can only happen if you provide the facts upfront.
+
+If the dev likes what they read then your odds of getting them on the phone will skyrocket.
 
 ---
