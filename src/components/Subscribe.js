@@ -60,14 +60,19 @@ const CustomForm = ({ status, message, onValidated }) => {
   );
 };
 
-export default function Subscribe() {
+export default function Subscribe({ message = "" }) {
   // 1. Create a reference to the input so we can fetch/clear it's value.
   const url =
     "https://jacklyons.us16.list-manage.com/subscribe/post?u=9f82d3f200391b066ef73f021&amp;id=cf45a34209";
 
   return (
     <StyledSubscribe>
-      <h3>Sign up for more tips like this in your inbox!</h3>
+      {message ? (
+        <h3>{message}</h3>
+      ) : (
+        <h3>Sign up for more tips like this in your inbox!</h3>
+      )}
+
       <div>I'll only send emails when new content is posted. No spam.</div>
       <MailchimpSubscribe
         url={url}
