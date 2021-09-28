@@ -2,7 +2,8 @@ import React from "react";
 import _ from "lodash";
 import moment from "moment-strftime";
 import { Layout } from "../components/index";
-import { htmlToReact, withPrefix, markdownify } from "../utils";
+import Image from "next/image";
+import { htmlToReact, withPrefix } from "../utils";
 // import DisqusComments from "../components/DisqusComments";
 import Subscribe from "../components/Subscribe";
 import Markdown from "markdown-to-jsx";
@@ -29,6 +30,8 @@ export default class Post extends React.Component {
             {_.get(this.props, "page.frontmatter.image", null) && (
               <div className="post-image">
                 <img
+                  // width={500}
+                  // height={400}
                   src={withPrefix(
                     _.get(this.props, "page.frontmatter.image", null)
                   )}
