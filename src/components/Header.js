@@ -23,6 +23,8 @@ export default class Header extends React.Component {
                         "data.config.header.logo_img_alt",
                         null
                       )}
+                      width={72}
+                      height={72}
                     />
                   </Link>
                 </p>

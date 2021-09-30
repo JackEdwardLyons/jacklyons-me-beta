@@ -53,9 +53,9 @@ seo:
   type: stackbit_page_meta
 layout: post
 thumb_image: >-
-  https://res.cloudinary.com/jacklyons123/image/upload/v1632188989/frustrated-man-on-phone-compressed.jpg
+  /images/frustrated-man-on-phone-compressed.jpeg
 image: >-
-  https://res.cloudinary.com/jacklyons123/image/upload/v1632188989/frustrated-man-on-phone-compressed.jpg
+  /images/frustrated-man-on-phone-compressed.jpeg
 ---
 
 Are you an IT recruiter who is constantly getting shut down when calling developers?
