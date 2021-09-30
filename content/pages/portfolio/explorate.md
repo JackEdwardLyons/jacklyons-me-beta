@@ -2,9 +2,9 @@
 title: Explorate
 subtitle: A shortcut to seamless freight forwarding & logistics.
 date: "2019-04-08"
-thumb_image: https://res.cloudinary.com/jacklyons123/image/upload/f_auto,q_auto/v1619951871/jacklyons.me/cargo-ship.jpg
+thumb_image: images/cargo-ship.jpeg
 thumb_image_alt: An image of a cargo ship
-image: https://res.cloudinary.com/jacklyons123/image/upload/f_auto,q_auto/v1619951871/jacklyons.me/cargo-ship.jpg
+image: images/cargo-ship.jpeg
 image_alt: An image of a cargo ship
 seo:
   title: Explorate
@@ -25,7 +25,7 @@ seo:
         industry.
       keyName: property
     - name: "og:image"
-      value: /images/cargo-ship.jpg
+      value: images/cargo-ship.jpeg
       keyName: property
       relativeUrl: true
     - name: "twitter:card"
@@ -38,7 +38,7 @@ seo:
         company has a massive vision to update the shipping and logistics
         industry.
     - name: "twitter:image"
-      value: /images/cargo-ship.jpg
+      value: images/cargo-ship.jpeg
       relativeUrl: true
 layout: project
 ---
