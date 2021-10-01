@@ -4,7 +4,7 @@ excerpt: >-
   While IE 11 is officially going die in 2021, that doesn't meant it won't still
   need supporting. Lots of government and legacy systems still require it's
   support. I'll show you how to fix your white-screen-of-death in IE 11.
-date: '2021-01-04'
+date: "2021-01-04"
 thumb_image: images/ie-11.png
 image: images/ie-11.png
 image_alt: Internet Explorer 11 logo
@@ -14,30 +14,30 @@ seo:
     This is a post borne out of frustration to help all those poor souls out
     there trying to find a solution to the dreaded IE white screen of death.
   extra:
-    - name: 'og:type'
+    - name: "og:type"
       value: website
       keyName: property
-    - name: 'og:title'
+    - name: "og:title"
       value: Is your Vue app not working in IE 11? Here's how to fix it.
       keyName: property
-    - name: 'og:description'
+    - name: "og:description"
       value: >-
         This is a post borne out of frustration to help all those poor souls out
         there trying to find a solution to the dreaded IE white screen of death.
       keyName: property
-    - name: 'og:image'
+    - name: "og:image"
       value: /images/ie-11.png
       keyName: property
       relativeUrl: true
-    - name: 'twitter:card'
+    - name: "twitter:card"
       value: summary_large_image
-    - name: 'twitter:title'
+    - name: "twitter:title"
       value: Is your Vue app not working in IE 11? Here's how to fix it.
-    - name: 'twitter:description'
+    - name: "twitter:description"
       value: >-
         This is a post borne out of frustration to help all those poor souls out
         there trying to find a solution to the dreaded IE white screen of death.
-    - name: 'twitter:image'
+    - name: "twitter:image"
       value: /images/ie-11.png
       relativeUrl: true
 layout: post
@@ -134,7 +134,6 @@ If you've used Vue Cli 3 to generate your app, then core-js comes built in. Core
 The easiest way to include it in your app is to add it at the top of the _main.js_ file:
 
 ```
-
 // main.js
 
 // Transpiler for older browsers
@@ -166,12 +165,16 @@ You can also extract this out into a ._browserlistrc_ file instead of putting it
 
 Inside the **vue.config.js** file you can include an option called **_transpileDependencies_**. You can [**read more on the Vue docs here**](https://cli.vuejs.org/config/#transpiledependencies). By default `babel-loader` ignores all files inside `node_modules`. If you want to explicitly transpile a dependency with Babel, you can list it in this option.
 
-        module.exports = {
-          ... vue config stuff ...
-          transpileDependencies: ['packageX', 'packageY']
-        }
+```
+module.exports = {
+  ... vue config stuff ...
+  transpileDependencies: ['packageX', 'packageY']
+}
+```
 
 If you followed the tip above and broke up your dependencies then it will be much easier to know which package is causing the issues. In the example case above, it was the _debug_ package. When I added that to the _transpileDependencies_ list, my app worked again.
+
+<FeedbackForm />
 
 #### Watch Out: Your dependencies might rely on other dependencies!
 

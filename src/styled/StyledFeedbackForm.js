@@ -1,5 +1,3 @@
-import React from "react";
-
 import styled from "styled-components";
 
 export default styled.div`
@@ -135,46 +133,6 @@ export default styled.div`
     white-space: nowrap;
   }
 
-  .btn-primary {
-    color: var(--white);
-    background: var(--primary);
-    border: 1px solid var(--primary);
-    box-shadow: 0px 21px 21px -6px transparent;
-  }
-
-  .btn-primary:hover {
-    border: 1px solid var(--primary);
-    background: var(--primary-dark);
-    color: var(--white);
-    box-shadow: 0px 21px 21px -6px var(--primary-light);
-  }
-
-  .btn-outline {
-    background: var(--white);
-    border: 2px solid #dcdee9;
-    /* border-radius: 50px; */
-  }
-
-  .btn-outline:hover {
-    background: var(--grey);
-    color: var(--dark);
-    box-shadow: 0px 21px 21px -6px var(--grey);
-  }
-
-  .btn-dark {
-    border-radius: 50px;
-    padding: 24px;
-    background: var(--dark);
-    color: var(--white);
-    border: 1px solid transparent;
-  }
-
-  .btn-dark:hover {
-    color: var(--dark);
-    background: var(--white);
-    border: 1px solid var(--dark);
-  }
-
   input:not([type="radio"]) {
     background: var(--white);
     border: 1px solid var(--grey);
@@ -192,7 +150,8 @@ export default styled.div`
   .card-layout {
     position: relative;
     background: var(--white);
-    box-shadow: 0px 22px 20px -17px rgba(41, 50, 100, 0.146715);
+    box-shadow: 1rem 2rem 1rem -1rem rgba(41, 50, 100, 0.146715);
+    border: 1px solid rgba(0, 0, 0, 0.5);
     border-radius: 15px;
     width: 100%;
     text-align: center;
@@ -295,8 +254,9 @@ export default styled.div`
   }
 
   .layout-medium {
-    width: 550px;
+    width: 600px;
     height: auto;
+    margin: auto;
   }
 
   .layout-medium .content {
@@ -315,7 +275,6 @@ export default styled.div`
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 0 0 32px;
   }
 
   .eachEmoji {
@@ -363,7 +322,7 @@ export default styled.div`
     padding: 16px;
     margin-bottom: 32px;
     font-size: 18px;
-    border: 2px solid var(--dark, black);
+    border: 1px solid rgba(0, 0, 0, 0.5);
     border-radius: 5px;
   }
 
@@ -410,10 +369,6 @@ export default styled.div`
     border-radius: 50%;
 
     background: var(--primary);
-  }
-
-  .user-actions {
-    margin: 32px 0 0;
   }
 
   @media screen and (max-width: 640px) {

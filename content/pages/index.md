@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Jack Lyons. I''m a Front End Developer from Gold Coast, Australia.'
+    title: "Hi, I'm Jack Lyons. I'm a Front End Developer from Gold Coast, Australia."
     content: >
       I enjoy building modern web sites and applications with Vue, React,
       ES2020+, TypeScript, GraphQL, TailwindCSS and Sass. Contact me today for
@@ -23,7 +23,7 @@ sections:
     view_all_url: portfolio
   - section_id: services
     type: section_grid
-    title: 'Here''s the tech I love to work with:'
+    title: "Here's the tech I love to work with:"
     subtitle: I'm a Front End Developer who loves working with JavaScript & TypeScript
     col_number: two
     is_numbered: true
@@ -55,7 +55,7 @@ sections:
           websites. I also use it to build eCommerce websites too. However, it's
           bulky and slow, and easily hackable. A headless CMS is a back-end only
           content management system built as a content repository that makes
-          content accessible via an API for display on any device. 
+          content accessible via an API for display on any device.
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
@@ -70,7 +70,7 @@ sections:
           fast and absolutely embodies the startup mentality. Jack is a highly 
           proficient front-end developer and has a great handle on the Vue JS 
           framework.
-      - author: 'Phil Lascala, Founder of Evac Guide'
+      - author: "Phil Lascala, Founder of Evac Guide"
         avatar: images/evac-guide-logo.png
         avatar_alt: Aubrey Hoover's photo
         content: >-
@@ -132,7 +132,7 @@ sections:
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
-    subtitle: 'I write about code & creativity, travel & adventure, investing & business'
+    subtitle: "I write about code & creativity, travel & adventure, investing & business"
     posts_number: 3
     col_number: three
     actions:
@@ -146,31 +146,31 @@ seo:
     TypeScript, GraphQL, TailwindCSS and Sass. Contact me today for help on your
     next project!
   extra:
-    - name: 'og:type'
+    - name: "og:type"
       value: website
       keyName: property
-    - name: 'og:title'
+    - name: "og:title"
       value: Jack Lyons | Front End Web Developer
       keyName: property
-    - name: 'og:description'
+    - name: "og:description"
       value: >-
         I enjoy building modern web sites and applications with Vue, React,
         TypeScript, GraphQL, TailwindCSS and Sass. Contact me today for help on
         your next project!
       keyName: property
-    - name: 'twitter:card'
+    - name: "twitter:card"
       value: summary_large_image
-    - name: 'twitter:title'
+    - name: "twitter:title"
       value: Jack Lyons | Front End Web Developer
-    - name: 'twitter:description'
+    - name: "twitter:description"
       value: >-
         I enjoy building modern web sites and applications with Vue, React,
         TypeScript, GraphQL, TailwindCSS and Sass. Contact me today for help on
         your next project!
-    - name: 'twitter:image'
+    - name: "twitter:image"
       value: /images/thumb__work-anywhere-laptop.jpg
       relativeUrl: true
-    - name: 'og:image'
+    - name: "og:image"
       value: /images/thumb__work-anywhere-laptop.jpg
       keyName: property
       relativeUrl: true

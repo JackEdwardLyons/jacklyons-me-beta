@@ -47,6 +47,9 @@ export default class Post extends React.Component {
                     Subscribe: {
                       component: Subscribe,
                     },
+                    FeedbackForm: {
+                      component: FeedbackForm,
+                    },
                   },
                 }}
               >
