@@ -2,11 +2,12 @@ import React from "react";
 import _ from "lodash";
 import moment from "moment-strftime";
 import { Layout } from "../components/index";
-import Image from "next/image";
+
 import { htmlToReact, withPrefix } from "../utils";
 // import DisqusComments from "../components/DisqusComments";
 import Subscribe from "../components/Subscribe";
 import Markdown from "markdown-to-jsx";
+import FeedbackForm from "../components/FeedbackForm";
 
 export default class Post extends React.Component {
   render() {
@@ -66,6 +67,8 @@ export default class Post extends React.Component {
                   _.get(this.props, "page.frontmatter.date", null)
                 ).strftime("%B %d, %Y")}
               </time>
+
+              {/* <FeedbackForm /> */}
 
               {/* <DisqusComments
                 post={{
