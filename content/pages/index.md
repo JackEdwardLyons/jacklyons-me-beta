@@ -6,9 +6,8 @@ sections:
     type: section_hero
     title: "Hi, I'm Jack Lyons. I'm a Front End Developer from Gold Coast, Australia."
     content: >
-      I enjoy building modern web sites and applications with Vue, React,
-      ES2020+, TypeScript, GraphQL, TailwindCSS and Sass. Contact me today for
-      help on your next project!
+      I build sleek, modern and responsive website solutions using React, Vue, TypeScript and GraphQL.
+      My experience spans across Government, eCommerce, SaaS, Logistics, Real Estate and Enterprise Software. Contact me today for a free, no fuss consultation.
     actions:
       - label: Contact me today.
         url: /contact
@@ -83,14 +82,8 @@ sections:
         avatar: images/accrm-logo.png
         avatar_alt: Deegan Wallace's photo
         content: >-
-          Jack coded a large 
-
-          eLearning project with us at ACRRM. He was always enthusiastic,
-          knowledgable and has an 
-
-          obvious passion for his work.. Hire 
-
-          him.
+          Jack coded a large eLearning project with us at ACRRM. He was always enthusiastic,
+          knowledgable and has an obvious passion for his work.. Hire him.
   - section_id: home-contact-form
     title: Let’s kickstart your next project!
     subtitle: Contact me using the form below.
@@ -142,9 +135,8 @@ sections:
 seo:
   title: Jack Lyons | Front End Web Developer
   description: >-
-    I enjoy building modern web sites and applications with Vue, React,
-    TypeScript, GraphQL, TailwindCSS and Sass. Contact me today for help on your
-    next project!
+    I build sleek, modern and responsive website solutions using React, Vue, TypeScript and GraphQL.
+    My experience spans across Government, eCommerce, SaaS, Logistics, Real Estate and Enterprise Software. Contact me today for a free, no fuss consultation.
   extra:
     - name: "og:type"
       value: website
@@ -154,9 +146,8 @@ seo:
       keyName: property
     - name: "og:description"
       value: >-
-        I enjoy building modern web sites and applications with Vue, React,
-        TypeScript, GraphQL, TailwindCSS and Sass. Contact me today for help on
-        your next project!
+        I build sleek, modern and responsive website solutions using React, Vue, TypeScript and GraphQL.
+        My experience spans across Government, eCommerce, SaaS, Logistics, Real Estate and Enterprise Software. Contact me today for a free, no fuss consultation.
       keyName: property
     - name: "twitter:card"
       value: summary_large_image
@@ -164,9 +155,8 @@ seo:
       value: Jack Lyons | Front End Web Developer
     - name: "twitter:description"
       value: >-
-        I enjoy building modern web sites and applications with Vue, React,
-        TypeScript, GraphQL, TailwindCSS and Sass. Contact me today for help on
-        your next project!
+        I build sleek, modern and responsive website solutions using React, Vue, TypeScript and GraphQL.
+        My experience spans across Government, eCommerce, SaaS, Logistics, Real Estate and Enterprise Software. Contact me today for a free, no fuss consultation.
     - name: "twitter:image"
       value: /images/thumb__work-anywhere-laptop.jpg
       relativeUrl: true
