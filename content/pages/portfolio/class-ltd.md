@@ -37,6 +37,7 @@ seo:
       relativeUrl: true
 layout: project
 ---
+
 Class Ltd is Australia’s pioneer in cloud-based wealth accounting technology. They are an ASX listed company serving over 3,600 accounting and administration firms nationally and internationally.
 
 My role as a lead front end developer included building out Class's new and improved [Trust Tax Return](https://www.class.com.au/our-solutions/class-trust/) form experience. The solution was written in TypeScript amd Vuejs using Nuxt. Some notable milestones and key pieces of UI included:
