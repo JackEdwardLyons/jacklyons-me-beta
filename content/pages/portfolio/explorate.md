@@ -2,9 +2,9 @@
 title: Explorate
 subtitle: A shortcut to seamless freight forwarding & logistics.
 date: "2019-04-08"
-thumb_image: images/cargo-ship.jpeg
+thumb_image: images/explorate-logo-lg.png
 thumb_image_alt: An image of a cargo ship
-image: images/cargo-ship.jpeg
+image: images/logo-explorate.jpeg
 image_alt: An image of a cargo ship
 seo:
   title: Explorate

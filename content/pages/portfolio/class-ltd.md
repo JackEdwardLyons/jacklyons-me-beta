@@ -2,7 +2,7 @@
 title: Class Ltd
 subtitle: Australia’s pioneer in cloud-based wealth accounting technology.
 date: '2022-01-20'
-thumb_image: images/class-ltd.png
+thumb_image: images/class-ltd-sml.jpeg
 thumb_image_alt: Class Ltd logo
 image: images/class-ltd.png
 image_alt: Class Ltd logo
@@ -28,7 +28,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Jack Lyons | Adore Beauty
+      value: Jack Lyons | Class Ltd
     - name: 'twitter:description'
       value: >-
         Class Ltd is Australia’s pioneer in cloud-based wealth accounting technology.
@@ -38,9 +38,9 @@ seo:
 layout: project
 ---
 
-Class Ltd is Australia’s pioneer in cloud-based wealth accounting technology. They are an ASX listed company serving over 3,600 accounting and administration firms nationally and internationally.
+[Class Ltd](https://www.class.com.au/) is Australia’s pioneer in cloud-based wealth accounting technology. They are an ASX listed company serving over 3,600 accounting and administration firms nationally and internationally.
 
-My role as a lead front end developer included building out Class's new and improved [Trust Tax Return](https://www.class.com.au/our-solutions/class-trust/) form experience. The solution was written in TypeScript amd Vuejs using Nuxt. Some notable milestones and key pieces of UI included:
+My role as a lead front end developer included building out Class's new [Trust Tax Return](https://www.class.com.au/our-solutions/class-trust/) form experience. The solution was written in TypeScript amd Vuejs using Nuxt. Some notable milestones and key pieces of UI included:
 
 - The complete development of the Trust Tax Return form solution from scratch.
 
