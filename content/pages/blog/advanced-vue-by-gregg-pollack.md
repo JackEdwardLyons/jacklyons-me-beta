@@ -1,15 +1,15 @@
 ---
 title: "Advanced Vue Course Review by Vue Mastery"
 excerpt: >-
-  In-depth review of the Advanced Vue Course by Vue Mastery.
+  In this post I provide an in-depth review of the Advanced Vue Course by Vue Mastery.
 date: "2018-08-30"
-thumb_image: https://www.vuemastery.com/images/vuemastery-white.svg
-image: https://www.vuemastery.com/images/vuemastery-white.svg
+thumb_image: images/vue-mastery-screenshot.png
+image: images/vue-mastery-screenshot.png
 image_alt: The Vue Mastery logo.
 seo:
-  title: In-depth review of the Advanced Vue Course by Vue Mastery
+  title: In this post I provide an in-depth review of the Advanced Vue Course by Vue Mastery.
   description: >-
-    In-depth review of the Advanced Vue Course by Vue Mastery.
+    In this post I provide an in-depth review of the Advanced Vue Course by Vue Mastery.
   extra:
     - name: "og:type"
       value: website
@@ -19,10 +19,10 @@ seo:
       keyName: property
     - name: "og:description"
       value: >-
-        In-depth review of the Advanced Vue Course by Vue Mastery.
+        In this post I provide an in-depth review of the Advanced Vue Course by Vue Mastery.
       keyName: property
     - name: "og:image"
-      value: https://www.vuemastery.com/images/vuemastery-white.svg
+      value: images/vue-mastery-screenshot.png
       keyName: property
       relativeUrl: true
     - name: "twitter:card"
@@ -31,9 +31,9 @@ seo:
       value: In-depth review of the Advanced Vue Course by Vue Mastery
     - name: "twitter:description"
       value: >-
-        In-depth review of the Advanced Vue Course by Vue Mastery.
+        In this post I provide an in-depth review of the Advanced Vue Course by Vue Mastery.
     - name: "twitter:image"
-      value: https://www.vuemastery.com/images/vuemastery-white.svg
+      value: images/vue-mastery-screenshot.png
       relativeUrl: true
 layout: post
 thumb_image_alt: The Vue Mastery logo.
