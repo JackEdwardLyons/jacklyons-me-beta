@@ -49,7 +49,7 @@ In this post I'm going to take a look at some of the advantages and limitations 
 
 [**View the Source Code here**](https://github.com/JackEdwardLyons/best-of-fcc)
 
-\[caption id="attachment_1532" align="aligncenter" width="1280"\]![Best of free code camp website screenshot](images/best-of-fcc-app.png) Here's what the app looks like on the homepage.\[/caption\]
+[Best of free code camp website screenshot](https://jacklyons.me/images/best-of-fcc-app.png) Here's what the app looks like on the homepage.\[/caption\]
 
 ---
 
@@ -59,7 +59,7 @@ While I did say Firebase was used in this app, what I actually meant was the nex
 
 ### **Advantages**
 
-**Real time data updates**
+#### Real time data updates
 
 This is an awesome feature of Firebase! With real time data updates you can now build a dynamic web application in only a few lines of code. For example, you could [**build a chat application by following this tutorial**](https://vueschool.io/courses/vuejs-firebase-realtime-database). Once your app is connected to Firestore, your data syncs automatically through a single [**WebSocket**](https://www.youtube.com/watch?v=ZbrEztkwcw8). When your client saves a change to the data, all clients who are connected, receive the updated data almost instantly. There's a lot of server-side magic going on behind the scenes, but fortunately you won't have to touch a single line of code on the back end.
 
@@ -67,13 +67,9 @@ This is an awesome feature of Firebase! With real time data updates you can now 
 
 To store data in Firestore you simply need to create a new _[**collection**](https://firebase.google.com/docs/firestore/data-model#collections)._ A collection is like a store for a unique piece of data: you can think of it just like a plain old JavaScript object. For example, in my demo application there are collections for "_likes", "posts"_ and _"users"_ (see screen shot below).
 
-Inside the collection you store [_**documents**_](https://firebase.google.com/docs/firestore/data-model#documents), which are (again) just like objects. Each document within the collection has it's own unique key to make it easy to identify and to query when desired. You can have as many documents as you like within the collection. For example, if a new user signs up, a new document will be created under the "_users"_ collection.
+Inside the collection you store [_**documents**_](https://firebase.google.com/docs/firestore/data-model#documents), which are (again) just like objects. Each document within the collection has it's own unique key to make it easy to identify and to query when desired. You can have as many documents as you like within the collection. For example, if a new user signs up, a new document will be created under the "_users"_ collection. Finally, inside the document is where the schema for your data is created. Firestore is a NoSQL database, which means that your data is built from key / value pairs. Again, just like an object in JavaScript.
 
-Finally, inside the document is where the schema for your data is created. Firestore is a NoSQL database, which means that your data is built from key / value pairs. Again, just like an object in JavaScript. In the screenshot below you can see the basic document schema for a post.
-
-\[caption id="attachment_1518" align="aligncenter" width="1992"\]![Firestore document example](images/Screen-Shot-2018-10-24-at-5.35.25-pm.png) An example of a Firestore collection and document schema.\[/caption\]
-
-**Authentication with Google, GitHub, Facebook, Phone Email, and more!**
+#### Authentication with Google, GitHub, Facebook, Phone Email, and more!
 
 Firebase authentication provides an end-to-end identity solution, supporting email and password accounts, phone auth, and Google, Twitter, Facebook, and GitHub login, plus more. If you're strapped for time, or simply want to get a proof of concept up and running then you can also use the [**FirebaseUI Auth component**](https://github.com/firebase/firebaseui-web#demo). This pre-built authentication UI implements best practices for authentication on mobile devices and websites.
 
@@ -112,7 +108,7 @@ loginWithGithub ({ dispatch, commit }) {
 }
 ```
 
-**Free Hosting**
+#### Free Hosting
 
 Firebase Hosting provides fast and secure hosting for your web app and your static and dynamic content. Hosting gives your project a subdomain on the `firebaseapp.com` domain. Using the **[Firebase CLI](https://firebase.google.com/docs/cli)**, you can deploy files from local directories on your computer to your Hosting server. To setup hosting you really only need to enter a few commands:
 
@@ -126,7 +122,7 @@ firebase init
 firebase deploy
 ```
 
-**Tons of cool features like Machine Learning, Analytics and Cloud Functions**
+#### Tons of cool features like Machine Learning, Analytics and Cloud Functions
 
 While I didn't actually use these features on my project, I still think they deserve a mention. There are so many amazing things you can do with Firebase. I think the best part is you don't have to write that much configuration code at all. [**Click here to read more about the Machine Learning Kit**](https://firebase.google.com/products/ml-kit/).
 
