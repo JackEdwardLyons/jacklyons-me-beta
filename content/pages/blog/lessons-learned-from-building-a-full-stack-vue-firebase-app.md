@@ -2,7 +2,7 @@
 title: Lessons learned from building a Full Stack Vue + Firebase app!
 excerpt: >-
   Here I focus on using Firebase coupled with Vue.js to build a Full Stack application.
-date: 2022-10-15
+date: 2022-09-15
 thumb_image: images/firebase-vue-image.png
 image: images/firebase-vue-image.png
 image_alt: Firebase and Vue.js logo
