@@ -3,7 +3,7 @@ title: My 2022 Annual Review
 excerpt: >-
   A look back on 2022 - what went well, what didn't go well, and what's ahead
   for the future!
-date: "2021-01-04"
+date: "2023-01-07"
 thumb_image: images/man-on-mountain-compressed.jpeg
 image: images/man-on-mountain-compressed.jpeg
 image_alt: An image of a man with a camera
