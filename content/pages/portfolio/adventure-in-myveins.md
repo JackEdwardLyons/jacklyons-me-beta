@@ -3,10 +3,10 @@ title: Adventure In My Veins
 subtitle: A rock climbing blog for digital dirtbags
 date: '2021-09-10'
 thumb_image: >-
-  https://res.cloudinary.com/jacklyons123/image/upload/f_auto,q_auto/v1619951683/jacklyons.me/aimv-screenshot.png
+  images/aimv-screenshot.png
 thumb_image_alt: Adventure in my veins website
 image: >-
-  https://res.cloudinary.com/jacklyons123/image/upload/f_auto,q_auto/v1619951683/jacklyons.me/aimv-screenshot.png
+  images/aimv-screenshot.png
 image_alt: Adventure in my veins website
 seo:
   title: Adventure In My Veins
