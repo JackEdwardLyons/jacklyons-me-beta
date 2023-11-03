@@ -50,7 +50,7 @@ My role as a lead front end developer included building out Class's new [Trust T
 
 - Mentoring the entire Class Avante Garde team on best practices with Vue.js and TypeScript as well as front end fundamentals
 
-- Liasing with key stakeholders to understand the core project requirements and drive out critica decisions for the successful delivery of the project
+- Liaising with key stakeholders to understand the core project requirements and drive out critica decisions for the successful delivery of the project
 
 - Ensuring the delivery of the core solution well within the time frame allocated
 

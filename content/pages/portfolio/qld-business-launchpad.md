@@ -16,7 +16,7 @@ thumb_image: images/qld-gov-logo.png
 image: images/business-launchpad-social-tile-option-3-27d61ee7.png
 ---
 
-Throughout 2020 and midway into 2021 I contracted as a Principal Developer for the Queensland Government. There I worked to develop a tool called the Business Launchpad.
+Throughout 2020 and midway into 2021 I contracted as a Principal Developer for Pipefish on behalf of the Queensland Government. There I worked with the team to develop a tool called the Business Launchpad.
 
 The [**Business Launchpad**](https://launchpad.business.qld.gov.au/) is an interactive tool to help business owners find relevant legislative information relating to their business needs and requirements. Imagine you’re a cafe owner and you want to throw a live music event and serve liquor. By using the Business Launchpad you simply log in with your online myGov business account and step-through the interactive questionnaire. The user can navigate to a “dashboard”  where they will find a detailed list of all the legislative documents they will need.
 
