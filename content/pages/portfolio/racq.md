@@ -2,9 +2,9 @@
 title: RACQ
 subtitle: RACQ offers insurance, assistance, banking, car and solar products across Queensland and Australia.
 date: "2022-07-11"
-thumb_image: images/RACQ.jpeg
+thumb_image: images/RACQ.jpg
 thumb_image_alt: An image of the RACQ logo
-image: images/RACQ.jpeg
+image: images/RACQ.jpg
 image_alt: An image of the RACQ logo
 seo:
   title: RACQ
@@ -22,7 +22,7 @@ seo:
         The Royal Automobile Club of Queensland offers insurance, assistance, banking, car and solar products across Queensland and Australia. RACQ is owned by over 1.7 million members and have been a force for good in Queensland communities for over 117 years.
       keyName: property
     - name: "og:image"
-      value: images/RACQ.jpeg
+      value: images/RACQ.jpg
       keyName: property
       relativeUrl: true
     - name: "twitter:card"
@@ -33,7 +33,7 @@ seo:
       value: >-
         RACQ a renewable energy company owned by the Queensland Government.
     - name: "twitter:image"
-      value: images/RACQ.jpeg
+      value: images/RACQ.jpg
       relativeUrl: true
 layout: project
 ---
