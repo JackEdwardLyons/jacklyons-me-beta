@@ -1,8 +1,7 @@
 ---
 title: My 2023 Annual Review
 excerpt: >-
-  A look back on 2023 - what went well, what didn't go well, and what's ahead
-  for the future!
+  Reflecting on 2023 - the highs, the lows, and what lies ahead for the future!
 date: "2024-01-03"
 thumb_image: images/windy-road.jpg
 image: images/windy-road.jpg
@@ -10,8 +9,7 @@ image_alt: An image of a man with a camera
 seo:
   title: My 2023 Annual Review
   description: >-
-    A look back on 2023 - what went well, what didn't go well, and what's ahead
-    for the future!
+    Reflecting on 2023 - the highs, the lows, and what lies ahead for the future!
   extra:
     - name: "og:type"
       value: website
@@ -21,8 +19,7 @@ seo:
       keyName: property
     - name: "og:description"
       value: >-
-        A look back on 2023 - what went well, what didn't go well, and what's
-        ahead for the future!
+        Reflecting on 2023 - the highs, the lows, and what lies ahead for the future!
       keyName: property
     - name: "og:image"
       value: images/9.jpg
@@ -34,13 +31,12 @@ seo:
       value: My 2023 Annual Review
     - name: "twitter:description"
       value: >-
-        A look back on 2023 - what went well, what didn't go well, and what's
-        ahead for the future!
+        Reflecting on 2023 - the highs, the lows, and what lies ahead for the future!
     - name: "twitter:image"
       value: images/9.jpg
       relativeUrl: true
 layout: post
-thumb_image_alt: Image of a man with a camera
+thumb_image_alt: Image of a windy road disappearing into fog.
 ---
 
 In my 2023 Annual Review I will answer three key questions:
