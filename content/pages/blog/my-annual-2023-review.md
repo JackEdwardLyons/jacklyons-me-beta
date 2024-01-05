@@ -3,7 +3,7 @@ title: My 2023 Annual Review
 excerpt: >-
   A look back on 2023 - what went well, what didn't go well, and what's ahead
   for the future!
-date: "2023-01-07"
+date: "2024-01-03"
 thumb_image: images/windy-road.jpg
 image: images/windy-road.jpg
 image_alt: An image of a man with a camera
