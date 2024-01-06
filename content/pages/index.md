@@ -96,7 +96,7 @@ sections:
     content: >-
       Head on over to the [contact page](/contact) to get in touch. I'll be sure to get back to you as soon as possible.
     actions:
-      - label: Let's start
+      - label: Contact me today
         url: /contact
         style: button
     image: images/cta.svg
