@@ -36,6 +36,16 @@ export default class MyDocument extends Document {
           <Main />
           <script src="/js/plugins.js" />
           <NextScript />
+          <script
+            defer
+            data-domain="jacklyonsme-beta.netlify.app"
+            src="https://plausible.io/js/plausible.js"
+          ></script>
+          <script
+            defer
+            data-domain="jacklyons.me"
+            src="https://plausible.io/js/plausible.js"
+          ></script>
         </body>
       </Html>
     );
