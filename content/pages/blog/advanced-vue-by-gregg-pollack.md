@@ -2,7 +2,7 @@
 title: "Advanced Vue Course Review by Vue Mastery"
 excerpt: >-
   In this post I provide an in-depth review of the Advanced Vue Course by Vue Mastery.
-date: "2018-08-30"
+date: "2023-08-30"
 thumb_image: images/vue-mastery-screenshot.png
 image: images/vue-mastery-screenshot.png
 image_alt: The Vue Mastery logo.
