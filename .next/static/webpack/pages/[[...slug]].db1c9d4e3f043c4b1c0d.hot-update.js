@@ -1,0 +1,14 @@
+webpackHotUpdate_N_E("pages/[[...slug]]",{
+
+/***/ "./content/data/config.json":
+/*!**********************************!*\
+  !*** ./content/data/config.json ***!
+  \**********************************/
+/*! exports provided: title, path_prefix, color_scheme, accent_color, base_font, header, footer, domain, favicon, default */
+/***/ (function(module) {
+
+eval("module.exports = JSON.parse(\"{\\\"title\\\":\\\"Jack Lyons FE Dev\\\",\\\"path_prefix\\\":\\\"/\\\",\\\"color_scheme\\\":\\\"light\\\",\\\"accent_color\\\":\\\"darkblue\\\",\\\"base_font\\\":\\\"fraunces\\\",\\\"header\\\":{\\\"title\\\":\\\"Jack Lyons\\\",\\\"logo\\\":\\\"images/jack.png\\\",\\\"logo_alt\\\":\\\"Jack Lyons logo\\\",\\\"has_nav\\\":true,\\\"nav_links\\\":[{\\\"label\\\":\\\"Home\\\",\\\"url\\\":\\\"/\\\",\\\"style\\\":\\\"link\\\"},{\\\"label\\\":\\\"Work\\\",\\\"url\\\":\\\"/portfolio/\\\",\\\"style\\\":\\\"link\\\"},{\\\"label\\\":\\\"Journal\\\",\\\"url\\\":\\\"/blog/\\\",\\\"style\\\":\\\"link\\\"},{\\\"label\\\":\\\"About\\\",\\\"url\\\":\\\"/about/\\\",\\\"style\\\":\\\"link\\\"},{\\\"label\\\":\\\"Contact\\\",\\\"url\\\":\\\"/contact/\\\",\\\"style\\\":\\\"button\\\"}]},\\\"footer\\\":{\\\"content\\\":\\\"&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\\\\\\\"https://www.stackbit.com/?utm_source=deployed-footer\\\\\\\" target=\\\\\\\"_blank\\\\\\\" rel=\\\\\\\"noopener\\\\\\\">Stackbit</a>. Create yours <a href=\\\\\\\"https://app.stackbit.com/create?theme=agency&utm_source=deployed-footer\\\\\\\" target=\\\\\\\"_blank\\\\\\\" rel=\\\\\\\"noopener\\\\\\\">now</a>\\\",\\\"has_social\\\":true,\\\"social_links\\\":[{\\\"label\\\":\\\"Twitter\\\",\\\"url\\\":\\\"https://twitter.com/\\\",\\\"style\\\":\\\"icon\\\",\\\"icon\\\":\\\"twitter\\\",\\\"new_window\\\":true},{\\\"label\\\":\\\"Instagram\\\",\\\"url\\\":\\\"https://www.instagram.com/\\\",\\\"style\\\":\\\"icon\\\",\\\"icon\\\":\\\"instagram\\\",\\\"new_window\\\":true},{\\\"label\\\":\\\"Dribbble\\\",\\\"url\\\":\\\"https://dribbble.com/\\\",\\\"style\\\":\\\"icon\\\",\\\"icon\\\":\\\"dribbble\\\",\\\"new_window\\\":true},{\\\"label\\\":\\\"LinkedIn\\\",\\\"url\\\":\\\"https://www.linkedin.com/\\\",\\\"style\\\":\\\"icon\\\",\\\"icon\\\":\\\"linkedin\\\",\\\"new_window\\\":true}]},\\\"domain\\\":\\\"https://koa-collective-c398f.netlify.app\\\",\\\"favicon\\\":\\\"images/jack.png\\\"}\");//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiIuL2NvbnRlbnQvZGF0YS9jb25maWcuanNvbi5qcyIsInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./content/data/config.json\n");
+
+/***/ })
+
+})

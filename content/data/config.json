@@ -1,12 +1,12 @@
 {
-    "title": "Stackbit Agency Theme",
+    "title": "Jack Lyons FE Dev",
     "path_prefix": "/",
     "color_scheme": "light",
     "accent_color": "darkblue",
     "base_font": "fraunces",
     "header": {
         "title": "Jack Lyons",
-        "logo": "images/logo.svg",
+        "logo": "images/jack.png",
         "logo_alt": "Jack Lyons logo",
         "has_nav": true,
         "nav_links": [
@@ -71,5 +71,6 @@
             }
         ]
     },
-    "domain": "https://koa-collective-c398f.netlify.app"
+    "domain": "https://jacklyons.me",
+    "favicon": "images/jack.png"
 }

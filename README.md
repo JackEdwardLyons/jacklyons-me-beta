@@ -11,7 +11,7 @@ Click the button below to create a new website from this theme using Stackbit:
 
 [Live Site Demo](https://themes.stackbit.com/demos/agency/)
 
-<img src="https://themes.stackbit.com/images/agency-demo-1024x768.png" width="600">
+<img src="https://themes.stackbit.com/images/agency-demo-1024x768.png" width="600" alt="Agency demo image" />
 
 The theme can be used to create a static website that is hosted by a serverless
 deployment platform such as [Netlify](https://www.netlify.com). The contents of
