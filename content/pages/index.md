@@ -94,8 +94,7 @@ sections:
     section_id: cta
     title: Let’s Work Together!
     content: >-
-      Say hello at [email@example.com](mailto:email@example.com) or tell us more
-      about your project by getting started below.
+      Head on over to the [contact page](/contact) to get in touch. I'll be sure to get back to you as soon as possible.
     actions:
       - label: Let's start
         url: /contact
