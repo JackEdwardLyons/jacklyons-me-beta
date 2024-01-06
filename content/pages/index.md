@@ -20,7 +20,7 @@ sections:
   - type: grid_section
     section_id: services
     title: Services
-    subtitle: What we do
+    subtitle: What I can do for you
     col_number: three
     grid_items:
       - title: Front End Development
@@ -32,28 +32,25 @@ sections:
           - HTML5 & CSS / SCSS
           - TailwindCSS / MaterialUI / Bootstrap
           - GraphQL / REST APIs
-          - WordPress
-      - title: Brand design
+          - WCAG Accessibility 
+      - title: CMS and eCommerce
         image: images/service-2.svg
         content: |-
-          - Brand development
-          - Naming
-          - Brand identity
-          - Design systems
-          - Concept development
-          - Brand implementation and management
-          - Typography
-      - title: Experience design
+          - WordPress
+          - WooCommerce
+          - Squiz Matrix CMS
+          - Sitecore
+          - Dato CMS
+          - Contentful
+      - title: Leadership & Mentorship
         image: images/service-3.svg
         content: |-
-          - Digital product design
-          - Service design
-          - Environmental and retail design
-          - Packaging design
-          - Art direction
-          - Communication design
-          - Social media
-          - Product design
+          - Cross-team collaboration 
+          - Stakeholder engagement
+          - Code reviews and quality assurance
+          - Project planning and estimation
+          - Complex problem solving
+          - Technical team leadership
   - type: testimonials_section
     section_id: testimonials
     title: Testimonials
