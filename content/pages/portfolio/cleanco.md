@@ -2,9 +2,9 @@
 title: CleanCo
 subtitle: CleanCo Queensland is a government-owned electricity generation and trading company - fuelled by a mix of renewable energy and innovative energy solutions.
 date: "2022-07-11"
-thumb_image: https://i.ytimg.com/vi/ZCZ3kKOIl7M/maxresdefault.jpg
+thumb_image: https://res.cloudinary.com/jacklyons123/image/upload/v1704533474/maxresdefault.jpg
 thumb_image_alt: An image of a field of solar panels
-image: https://i.ytimg.com/vi/ZCZ3kKOIl7M/maxresdefault.jpg
+image: https://res.cloudinary.com/jacklyons123/image/upload/v1704533474/maxresdefault.jpg
 image_alt: An image of a field of solar panels
 seo:
   title: CleanCo
@@ -22,7 +22,7 @@ seo:
         CleanCo is a renewable energy company owned by the Queensland Government.
       keyName: property
     - name: "og:image"
-      value: https://i.ytimg.com/vi/ZCZ3kKOIl7M/maxresdefault.jpg
+      value: https://res.cloudinary.com/jacklyons123/image/upload/v1704533474/maxresdefault.jpg
       keyName: property
       relativeUrl: true
     - name: "twitter:card"
@@ -33,11 +33,11 @@ seo:
       value: >-
         CleanCo a renewable energy company owned by the Queensland Government.
     - name: "twitter:image"
-      value: https://i.ytimg.com/vi/ZCZ3kKOIl7M/maxresdefault.jpg
+      value: https://res.cloudinary.com/jacklyons123/image/upload/v1704533474/maxresdefault.jpg
       relativeUrl: true
 sections:
   - type: image_section
-    image: https://i.ytimg.com/vi/ZCZ3kKOIl7M/maxresdefault.jpg
+    image: https://res.cloudinary.com/jacklyons123/image/upload/v1704533474/maxresdefault.jpg
     image_alt: The CleanCo logo.
     caption: The CleanCo logo.
     width: wide

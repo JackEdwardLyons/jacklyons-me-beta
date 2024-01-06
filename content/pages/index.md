@@ -16,38 +16,23 @@ sections:
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
-  - type: grid_section
-    section_id: clients
-    title: Clients
-    subtitle: A few of the companies we're proud to work with
-    col_number: three
-    grid_items:
-      - image: images/logo-1.svg
-        image_alt: Logo 1
-      - image: images/logo-2.svg
-        image_alt: Logo 2
-      - image: images/logo-3.svg
-        image_alt: Logo 3
-      - image: images/logo-4.svg
-        image_alt: Logo 4
-      - image: images/logo-5.svg
-        image_alt: Logo 5
+
   - type: grid_section
     section_id: services
     title: Services
     subtitle: What we do
     col_number: three
     grid_items:
-      - title: Business design
+      - title: Front End Development
         image: images/service-1.svg
         content: |-
-          - Research and insight
-          - Business innovation and transformation
-          - Brand and strategy
-          - Brand portfolio strategy
-          - Design strategy
-          - Digital and experience strategy
-          - Communication strategy
+          - Vue.js and Nuxt.js
+          - React.js and Next.js
+          - JavaScript & TypeScript
+          - HTML5 & CSS / SCSS
+          - TailwindCSS / MaterialUI / Bootstrap
+          - GraphQL / REST APIs
+          - WordPress
       - title: Brand design
         image: images/service-2.svg
         content: |-
@@ -75,21 +60,31 @@ sections:
     subtitle: What our Clients say
     col_number: three
     testimonials:
-      - author: Desmond Eagle
-        avatar: images/desmond-eagle.jpg
-        avatar_alt: Desmond Eagle's photo
-        position: 'CEO and founder, A Company'
+      - author: Alex Ewart, Co-founder of Explorate
+        avatar: images/explorate.jpg
+        avatar_alt: Explorate logo
+        content: |-
+          Jack is a fantastic talent and an absolute legend of a guy. He works 
+          fast and absolutely embodies the startup mentality. Jack is a highly 
+          proficient front-end developer and has a great handle on the Vue JS 
+          framework.
+      - author: "Phil Lascala, Founder of Evac Guide"
+        avatar: images/evac-guide-logo.png
+        avatar_alt: EvacGuide logo
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla.
-      - author: Dianne Ameter
-        avatar: images/dianne-ameter.jpg
-        avatar_alt: Dianne Ameter's photo
-        position: 'CTO, Another Company'
+          Jack was an incredible asset to our team. He continued to provide quality suggestions to improve our project and supported these suggestions with high quality work. I always felt comfortable with Jacks capabilities and his level of communication was beneficial.    
+          I highly recommend Jack!
+      - author: Steven Lynagh, Australian College of Rural and Remote Medicine
+        avatar: images/accrm-logo.png
+        avatar_alt: ACRRM logo
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          Jack coded a large eLearning project with us at ACRRM. He was always enthusiastic,
+          knowledgable and has an obvious passion for his work.. Hire him.
+      - author: Sofia Ruiz, Senior Product Designer at Atlassian
+        avatar: https://res.cloudinary.com/jacklyons123/image/upload/v1704534663/1668013427026.jpg
+        avatar_alt: Sofia headshot
+        content: >-
+          Jack has been one of the best developers I’ve had the pleasure to work with. He’s not only competent in what he does, but he also has outstanding communication and leadership skills. 
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
