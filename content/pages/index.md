@@ -54,7 +54,7 @@ sections:
   - type: testimonials_section
     section_id: testimonials
     title: Testimonials
-    subtitle: What our Clients say
+    subtitle: What others have to say
     col_number: three
     testimonials:
       - author: Alex Ewart, Co-founder of Explorate
