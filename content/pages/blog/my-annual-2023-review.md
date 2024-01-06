@@ -49,46 +49,72 @@ Drafting a yearly review has become a ritual for me to take stock over the passi
 
 ### 1. What went well this year?
 
+#### Zoe's family coming to visit
+
+The highlight of the year was undoubtedly Zoe's family visiting for three weeks. Their presence brought joy and a sense of connection, creating lasting memories for everyone. Sharing precious moments with Koa and witnessing her interactions with her extended family was heartwarming. The bond forged during their visit became a source of strength and support throughout the year.
+
 #### Koa growing up
 
 More to come
 
-
-#### Vedic Meditation
-
-More content to come.
-
 #### Work
 
-Launched the Car comparison tool at RACQ. Working with great people.
+This year of work was BIG. It was exhausting and extremely challenging. My contract at RACQ saw myself leading the front end development of a car comparison tool, which focused on providing consumers with up-to-date information on the latest electric and low emission vehicles. You can view the site at [https://www.racq.com.au/car/compare](https://www.racq.com.au/car/compare). We worked closely with the Australian Motoring Service (AMS) in order to align our UI/UX goals with their gargantuan data set of vehicles and vehicle related data. There were also many unique challenges when it came to managing the content on the site, and I worked closely with some very smart people to merge the front end with the backend services and content management system.
+
+For me this project was incredibly demanding but also really quite rewarding. I was lucky enough to work and collaborate with an amazing team, which made the challenging work schedule worthwhile. This tool has been a much anticipated release from RACQ and the feedback across the company has been extremely positive.
+
+#### Overseas travel
+
+This years overseas trip comes in two parts (the good and the bad). Despite the challenges of this year's Europe trip, there were some really memorable experiences. I was able to catch up with a good mate of mine in Belgium for a long weekend. We stayed in Ghent, and visited Bruges, and Brussels as well. We had a blast. Belgium is awesome! Ghent was a great place to stay; it's a beautiful city, full of charming medieval buildings, cobblestone streets, and canals that look like they're straight out of a fairytale. It's got that old-world vibe with the Gravensteen Castle and the Belfry of Ghent towering over the city.
+
+What's more, Ghent knows how to party! We were there at the right time, with a lively art and music festival pumping through the entire city. Plus, the city's all about being eco-friendly and sustainable; we got around town on bikes and it's such an easy city to walk, there's really no need for a car at all. And lastly, the beer! Oh man, the beer is amazing. There's so much to choose from, and it's all so so so SO good. I truly had a fantastic time in Belgium, in great company with my mate who I always love to catch up with when I'm in Europe.
+
+Ontop of that, we had some really special times with Zoe's family, just hanging out at her family home and taking it easy. We shared some really simple, but special moments just hanging out at her family home. Watching Koa play with her cousins was adorable. They had a blast together, and it was just one of those feel-good moments seeing them interact with each other. One of the highlights was going to see the horses with Zoe's sister and kids. Koa loved pottering around the stables, picking flowers and brushing the horses. It was adorable.
+
+We also had a beautiful weekend away at an amazing family hotel overlooking the mountains of Carinthia. It was such a special treat. The food was amazing, the kids play room was huge and there was a beautiful little lake to swim and sunbake during the day.
+
+And lastly, on our final weekend I went to Paris to visit some old school mates and to go watch Australia play in the Rugby World Cup. Needless to say this was a massive weekend. So. Much. Beer. It was a wild weekend; clasic boys weekend. I'm not a big drinker these days, so the hangovers for me were brutal. But it really was a great time full of hilarious moments and wild adventures. 
+
+So yeah, looking back it was a good trip in many aspects. I'm glad we went, despite the fact that it wasn't quite the holiday we were looking for (more on that below).
+
+#### Yoga and Vedic Meditation
+
+Diving into the realms of yoga and Vedic Meditation has been a game-changer for me. In the midst of life's chaos – juggling work, parenthood, and the constant demands – these practices became my sanctuary. For me, it's not just about the physical postures in Yoga; it's the little nuggets of wisdom from the teacher while you're moving through the practice, followed by the deep inner calm that I feel once I've finished.
+
+Vedic Meditation, in particular, has become a vital anchor in my daily routine. It's like a reset button for my mind and soul. The regular moments of tranquility that it offers are like a lifeline, allowing me to step back from the hustle and recalibrate my energy. The profound sense of inner peace that follows these sessions permeates into my daily life, fostering a more grounded and centered approach to challenges. It's not about escaping reality but about finding a steady ground within myself to navigate the ups and downs.
+
+As I look ahead to the coming year, the commitment to these practices is a non-negotiable part of my well-being journey. Further exploration into the depths of yoga philosophy and a continued dedication to Vedic Meditation hold the promise of enhancing my overall mental, emotional, and physical well-being. It's not just a routine; it's a conscious investment in self-discovery, resilience, and a pathway to a more balanced and fulfilling life. So, in the quiet moments of meditation and the flow of yoga postures, I am learning to discover not just how to pause but a profound connection to my inner self and mind that shapes how I engage with the world around me.
 
 ### 2. What didn’t go so well this year?
 
 #### Office pod construction 
 
-Still underway ...
+Building an office pod in the backyard has been a project I've had in mind for quite a while now. It's hard working from home because there's just no divide between work and homelife. I don't often get full privacy to work in peace because I can hear everything going on outside, plus I continually get bombarded with knocks on the door from my wife and from Koa, and even Freyja scratching on the door wanting in. It's annoying for Zoe too because I am taking up a whole room that could be used for other things. So at the start of the year I started doing my research and looking around for a office pod builder.
+
+I wanted to do things the right way so that the pod would be approved by city council and everything would check out. However, this has caught me in a never ending saga of delays, information requests and difficulties simply getting a straight answer. What's more, the builder hasn't been completely transparent with me either. At first the builder seemed really trustworthy, reliable and honest. Now I'm not so sure. I'm starting to get pretty frustrated to be honest. I'm really hoping it will be done by March, but even that I feel will be wishful thinking. I can't believe it - this is just a simple rectangluar office pod and it's causing so many headaches and hiccups. Imagine building an entire home! So yes, this is a good learning experience, making me realise that I would NOT ever want to build my own home.
 
 #### Austria trip
 
-Not so well this year
+The Austria trip, while filled with beautiful moments, presented unexpected hardships. Traveling long distances with a toddler proved exhausting, impacting the overall holiday experience. The realization that certain locations may not align with family priorities prompted a reevaluation of future travel plans. Embracing the lessons learned, both positive and negative, became crucial for personal growth.
 
 #### Stress and burnout (again)
 
-More info to come.
+Work-related stress and burnout reared their heads, emphasizing the need for a healthier work-life balance. The complexities of work demands, coupled with insufficient time for recuperation, prompted a self-awareness about the toll on mental and physical health. Recognizing the importance of implementing changes for a sustainable lifestyle became a pressing concern.
 
 #### Lots of up's and down's
 
-Relationship up's and down's
+Navigating relationship challenges and the stressors brought by parenthood underscored the importance of self-care. Acknowledging the toll on health and well-being prompted a realization that adjustments are necessary for a more sustainable and fulfilling future. Prioritizing rest and recovery became imperative for overall happiness.
 
 ### 3. What am I working towards?
 
-#### More side project and learning new tech!
+#### More side project and learning new tech in 2024
 
-Next.js, AI, TypeScript, Full stack development !!
+The commitment to personal growth through side projects and learning new technologies, such as Next.js, AI, TypeScript, and full-stack development, signifies a proactive approach to professional development. Embracing these challenges opens doors to new opportunities and keeps the spirit of innovation alive.
 
 #### Yoga teacher training
 
-200 Hour YTT for personal growth and development.
+In 2024 I have enrolled in a 200 hour Yoga Teacher Training! This adventure into teaching yoga is a conscious move, a real effort to make my mental and physical health a priority. The pursuit of personal growth through yoga not only offers physical benefits but also promises a transformative journey to help me build resilience and maintain stability and calmness throughout life's up's and down's. This endeavor signifies a conscious effort to prioritize mental and physical health in the pursuit of a more balanced and fulfilling life. Enrolling in a 200-hour Yoga Teacher Training program reflects a deeper commitment to personal well-being.
+
 
 ---
 
