@@ -3,6 +3,10 @@
   "description": "A Stackbit Agency theme built with Next.js",
   "version": "0.1.0",
   "license": "MIT",
+  "engines" : { 
+    "npm" : ">=8.0.0 <9.0.0",
+    "node" : ">=16.0.0 <17.0.0"
+  },
   "scripts": {
     "dev": "next dev",
     "develop": "next dev",
