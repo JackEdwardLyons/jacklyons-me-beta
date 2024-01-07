@@ -26,10 +26,10 @@ sections:
       - title: Front End Development
         image: images/service-1.svg
         content: |-
-          - Vue.js and Nuxt.js
-          - React.js and Next.js
-          - JavaScript & TypeScript
-          - HTML5 & CSS / SCSS
+          - Vue.js / Nuxt.js
+          - React.js / Next.js
+          - TypeScript / JavaScript / jQuery
+          - HTML5 / CSS / SCSS
           - TailwindCSS / MaterialUI / Bootstrap
           - GraphQL / REST APIs
           - WCAG Accessibility 
