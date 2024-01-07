@@ -39,7 +39,6 @@ sections:
           - WordPress / WooCommerce
           - Shopify
           - PHP / Laravel
-          - Shopify
           - Dato CMS
           - Gridsome
           - MongoDB / Firebase
@@ -53,6 +52,7 @@ sections:
           - Project planning and estimation
           - Complex problem solving
           - Technical team leadership
+          - Development team mentorship
   - type: testimonials_section
     section_id: testimonials
     title: Testimonials
