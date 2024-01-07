@@ -1,7 +1,7 @@
 ---
 title: Class Ltd
 subtitle: Australia’s pioneer in cloud-based wealth accounting technology.
-date: '2022-01-20'
+date: '2021-02-20'
 thumb_image: images/class-ltd-sml.jpeg
 thumb_image_alt: Class Ltd logo
 image: images/class-ltd.png
