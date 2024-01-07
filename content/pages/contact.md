@@ -6,7 +6,7 @@ sections:
     section_id: contact-form
     content: >-
       
-      Looking for a web developer to boost your project or to join your team? Got questions about your upcoming website or web app project? Or simply want to reach out to say hello? I'm here to help! Feel free to reach out – I'm just an email!
+      Looking for a web developer to boost your project or to join your team? Got questions about your upcoming website or web app project? Or simply want to reach out to say hello? I'm here to help! Feel free to reach out – I'm just an email away!
 
       ***
 
