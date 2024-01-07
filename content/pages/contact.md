@@ -5,8 +5,8 @@ sections:
   - type: form_section
     section_id: contact-form
     content: >-
-      Have any questions about your next website or web application project? Feel free to get in touch with me.
-
+      
+      Looking for a web developer to boost your project or to join your team? Got questions about your upcoming website or web app project? Or simply want to reach out to say hello? I'm here to help! Feel free to reach out – I'm just an email!
 
       ***
 
