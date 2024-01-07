@@ -88,6 +88,8 @@ sections:
     section_id: cta
     title: Let’s Work Together!
     content: >-
+      Looking for a web developer to boost your project or to join your team? Got questions about your upcoming website or web app project? 
+      <br /><br />
       Head on over to the [contact page](/contact) to get in touch. I'll be sure to get back to you as soon as possible.
     actions:
       - label: Contact me today
