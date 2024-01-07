@@ -47,9 +47,11 @@ In my 2023 Annual Review I will answer three key questions:
 
 Drafting a yearly review has become a ritual for me to take stock over the passing years. Since becoming a father, the need to capture and remember key milestones has intensified, as life appears to be racing ahead right in front of me. In the midst of juggling a never-ending and intensely demanding work schedule, parenting a __lively__ toddler, and navigating the perpetual challenge of carving out personal time, the practice of crafting an annual review is a valuable compass for self-reflection.
 
-I do want to highlight the things I was working towards in 2022 though. A year ago I was convinced that I would be living in Austria with my wife and daughter. Oh how wrong I was about that! Well, to be fair, 2023 started out with the best of intentions to move there. I studied for and passed (98%) the required German exam in order to apply for a Visa. I made some calls to the Austrian Embassy and got all my paperwork in order. 
+I do want to highlight the things I was working towards in 2022 though. A year ago I was convinced that I would be living in Austria with my wife and daughter. Oh how wrong I was about that! 
 
-As the months rolled on I did keep asking my wife if this was stil what she wanted; she was unsure but still quite open to the idea so it wasn't completely off the table. But then, it wasn't until around May when Zoe decided to pull the plug on the whole idea, and I slowly came around to her wishes. Luckily though, for as you'll read in the post, it was for the best. Moving to Austria would have been an extremely disruptive plan, and I'm glad to be here in Australia in 2024.
+Well, to be fair, 2023 started out with the best of intentions to move there. I studied for and passed the required German exam in order to apply for a Visa. I made some calls to the Austrian Embassy and got all my paperwork in order. Things were looking good...
+
+As the months rolled on I did keep asking my wife if this was still what she wanted to do; she was unsure but also quite open to the idea so it wasn't completely off the table. The whole point of moving was for her to be close to her family. But then, it wasn't until around May when Zoe decided to pull the plug on the whole idea, and that was that. I agreed and supported the decision because I do still love where we live and the life we have here in Australia. Luckily though, for as you'll read in the post, this was for the best. Moving to Austria would have been an extremely disruptive plan, and I'm glad to be here in Australia in 2024.
 
 As for my other goal to deepen my knowledge of Ayurveda; well that is definitely underway and happening, and I'll share more about that below!
 
@@ -57,11 +59,15 @@ As for my other goal to deepen my knowledge of Ayurveda; well that is definitely
 
 #### Zoe's family coming to visit
 
-The highlight of the year was undoubtedly Zoe's family visiting for three weeks. Their presence brought joy and a sense of connection, creating lasting memories for everyone. Sharing precious moments with Koa and witnessing her interactions with her extended family was heartwarming. The bond forged during their visit became a source of strength and support throughout the year.
+One of the highlights of the year was having Zoe's family come to stay with us for three weeks. Their presence brought so much joy and a real sense of connection for Koa to really get to know her cousins. We had a couple of amazing weekend getaways in Byron Bay and North Stradbroke Island. This was the first time Zoe's sister and family had been to Australia, so this trip really was a big deal for us all. It was great for them to see why we live here and what Australia is all about.
 
 #### Koa growing up
 
-More to come
+Being a dad to a two-and-a-half-year-old is like living on a non-stop rollercoaster. Some days it's a comedy show full of hilarious moments and funny phrases, other days it's a non stop barrage of tears and screaming and total meltdowns. Koa's tantrums are like mini hurricanes tearing through the living room, and bedtime battles can make you question your sanity.
+
+There are days when it feels like you're running on empty, dealing with the "I don't want to do this or that" battles or the meltdowns that seemingly come out of nowhere. The struggle to get through the day without losing your cool becomes a real challenge. The constant negotiation and figuring out what will keep the tiny human happy is an endless puzzle, and there are moments when you wonder if you're doing it all wrong.
+
+Every single day I get a crash course in patience and resilience. While it is incredibly tough, I also realise that Koa has become my biggest teacher in life right now. She makes me realise that I need to never stop doing the work to better mysel. It's grappling with self-doubt and trying not to lose your mind when nothing seems to be going your way. Yet, in the midst of the chaos, there's this strange beauty in the imperfect moments. The messy, unfiltered reality of parenthood is part of the deal, and even on the hardest days, there's a unique bond that makes it all worthwhile (in hindsight). So, yeah, it's hard – really hard – it's a messy, real, and oddly beautiful journey that makes you dig deep and discover strengths you never knew you had.
 
 #### Work
 
@@ -87,11 +93,11 @@ So yeah, looking back it was a good trip in many aspects. I'm glad we went, desp
 
 #### Yoga and Vedic Meditation
 
-Diving into the realms of yoga and Vedic Meditation has been a game-changer for me. In the midst of life's chaos – juggling work, parenthood, and the constant demands – these practices became my sanctuary. For me, it's not just about the physical postures in Yoga; it's the little nuggets of wisdom from the teacher while you're moving through the practice, followed by the deep inner calm that I feel once I've finished.
+Diving into the realms of yoga and Vedic Meditation this year has been a game-changer for me. In the midst of life's chaos – juggling work, parenthood, and the constant demands of life – these practices became my sanctuary. For me, it's not just about the physical postures in Yoga, it's the little nuggets of wisdom from the teacher while you're moving through the practice, followed by the deep inner calm that I feel at the end of practice.
 
-Vedic Meditation, in particular, has become a vital anchor in my daily routine. It's like a reset button for my mind and soul. The regular moments of tranquility that it offers are like a lifeline, allowing me to step back from the hustle and recalibrate my energy. The profound sense of inner peace that follows these sessions permeates into my daily life, fostering a more grounded and centered approach to challenges. It's not about escaping reality but about finding a steady ground within myself to navigate the ups and downs.
+Vedic Meditation, in particular, has become a vital anchor in my daily routine. It's like a reset button for my mind and soul. The regular moments of tranquility that it offers allows me to step back from the hustle and bustle, out of the busy monkey mind, and to recalibrate. The profound sense of inner peace that follows these sessions permeates into my daily life, fostering a more grounded and centered approach to all of life's challenges. For me the meditation is not about escaping reality or feeling the effects only while in the practice, but about finding a steady ground within myself to navigate the ups and downs throughout the entire day.
 
-As I look ahead to the coming year, the commitment to these practices is a non-negotiable part of my well-being journey. Further exploration into the depths of yoga philosophy and a continued dedication to Vedic Meditation hold the promise of enhancing my overall mental, emotional, and physical well-being. It's not just a routine; it's a conscious investment in self-discovery, resilience, and a pathway to a more balanced and fulfilling life. So, in the quiet moments of meditation and the flow of yoga postures, I am learning to discover not just how to pause but a profound connection to my inner self and mind that shapes how I engage with the world around me.
+As I look ahead to the coming year, the commitment to these practices is a non-negotiable part of my well-being journey. Further exploration into the depths of yoga philosophy and a continued dedication to Vedic Meditation hold the promise of enhancing my overall mental, emotional, and physical well-being. It's not just a routine, it's a conscious investment in self-discovery, resilience, and a pathway to a more balanced and fulfilling life. So, in the quiet moments of meditation and the flow of yoga postures, I am learning to discover not just how to pause but how to cultivate a profound connection to my inner self which then shapes how I engage with the world around me.
 
 ### 2. What didn’t go so well this year?
 
