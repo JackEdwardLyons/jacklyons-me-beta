@@ -1,7 +1,7 @@
 ---
 title: Adventure In My Veins
 subtitle: A rock climbing blog for digital dirtbags
-date: '2021-09-10'
+date: '2021-01-10'
 thumb_image: >-
   images/aimv-screenshot.png
 thumb_image_alt: Adventure in my veins website
