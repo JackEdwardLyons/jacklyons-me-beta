@@ -36,11 +36,13 @@ sections:
       - title: CMS and eCommerce
         image: images/service-2.svg
         content: |-
-          - WordPress
-          - WooCommerce
-          - Squiz Matrix CMS
-          - Sitecore
+          - WordPress / WooCommerce
+          - Shopify
+          - PHP / Laravel
+          - Shopify
           - Dato CMS
+          - Gridsome
+          - MongoDB / Firebase
           - Contentful
       - title: Leadership & Mentorship
         image: images/service-3.svg
