@@ -109,26 +109,45 @@ I wanted to do things the right way so that the pod would be approved by city co
 
 #### Austria trip
 
-The Austria trip, while filled with beautiful moments, presented unexpected hardships. Traveling long distances with a toddler proved exhausting, impacting the overall holiday experience. The realization that certain locations may not align with family priorities prompted a reevaluation of future travel plans. Embracing the lessons learned, both positive and negative, became crucial for personal growth.
+Oury trip to Austria was quite the rollercoaster this year. Traveling all the way from Australia with a 2-year-old in tow turned out to be a mammoth task. The exhaustion hit us hard, and the jet lag was real.
+
+Adding to the struggle was the fact that I decided to keep on working while aborad, in order to keep our project deadlines on track and to continue to pay the bills at home. Waking up at the crack of dawn, around 4 or 5 am, to hop on work calls, while Zoe tried to keep Koa entertained was nothing short of a challenge. Zoe is NOT a morning person, so the early morning starts were absolutely brutal for her. We really were juggling more than we could handle and it wore us both out very quickly.
+
+The accommodation situation didn't help either. The Airbnb we stayed in was a far cry from the cozy setups we're used to. It was small, cramped, and situated in a rough part of town, making the entire stay less than ideal. Getting around with a pram added an extra layer of difficulty, and Koa's meltdowns didn't make the situation any easier. No matter where we went, things didn't really end well.
+
+In essence, the trip didn't feel like a holiday at all. Instead of exploring new places or trying out local delicacies, we were there for a family check-in and to just make everything work without falling apart ourselves. It made us realize how much we missed the easygoing lifestyle back in Australia. The contrast was stark, and the realization hit hard that ripping up our lives for this venture was 10 times more stressful than anticipated.
+
+Financially, it was a hit too. Everything seemed more expensive this time around, with inflation and the Aussie dollar performing poorly. Balancing the demands of work, Koa, and attempting to find some personal time left me feeling stretched thin. I didn't get to climb outdoors as much as I had hoped which was a major disappointment.
+
+However, amidst the chaos, there was a silver lining. The trip served as a stark reminder of how good we have it in Australia. The familiar surroundings, the comfort of routine, and the sense of belonging all made us appreciate our home country even more. In the end, the challenging Austrian escapade reinforced the notion that, no matter the hardships, Australia is where our hearts truly find peace and comfort. Of course we will be back to visit Austria, but for now it is clear that we need to dedicate our lives and our energy to nurturing our home life, our friendships, and Koa's day to day routine here on the Gold Coast.
 
 #### Stress and burnout (again)
 
-Work-related stress and burnout reared their heads, emphasizing the need for a healthier work-life balance. The complexities of work demands, coupled with insufficient time for recuperation, prompted a self-awareness about the toll on mental and physical health. Recognizing the importance of implementing changes for a sustainable lifestyle became a pressing concern.
+Work-related stress and burnout reared their heads, emphasizing the need for a healthier work-life balance. The complexities of work demands, coupled with insufficient time for recuperation, have prompted a self-awareness about the toll on mental and physical health that I simply cannot ignore. As mentioned above, I've really gotten a lot out of my yoga classes and Vedic Meditation practice, so that is going to play a big role in my life in 2024. 
 
-#### Lots of up's and down's
+#### Relationship up's and down's
 
-Navigating relationship challenges and the stressors brought by parenthood underscored the importance of self-care. Acknowledging the toll on health and well-being prompted a realization that adjustments are necessary for a more sustainable and fulfilling future. Prioritizing rest and recovery became imperative for overall happiness.
+Navigating relationship challenges with Zoe has been extremely difficult this year. The stressors brought by parenthood and overwork underscored the importance of self-care. Acknowledging the toll on health and well-being prompted a realization that adjustments for us both are absolutely necessary for a more sustainable and fulfilling future. Prioritizing rest and recovery are imperative for overall happiness.
 
 ### 3. What am I working towards?
 
 #### More side project and learning new tech in 2024
 
-The commitment to personal growth through side projects and learning new technologies, such as Next.js, AI, TypeScript, and full-stack development, signifies a proactive approach to professional development. Embracing these challenges opens doors to new opportunities and keeps the spirit of innovation alive.
+As I dive into 2024, I want to continually work on learning new tech and keeping my developer skills sharp, despite the perpetual challenge of juggling a demanding job and parenting a lively toddler. First and foremost, I'm eager to deepen my knowledge across the front-end space. Enhancing my proficiency in JavaScript and TypeScript is a priority, as I aim to unlock their full potential for crafting clean and efficient user interfaces with React and Vue. Delving into the intricacies of CSS and embracing the utility-first approach with TailwindCSS is another facet I want to build upon, aiming to refine the visual aesthetics of my projects.
+
+However, my ambitions extend beyond the front-end realm. Venturing into full-stack development is a key objective, and I'm setting my sights on mastering the trifecta of React, NextJS, and Prisma (MongoDB, Postgres, etc). This comprehensive stack promises a holistic approach to web development, and I'm excited about the possibilities it opens up for creating dynamic and scalable applications.
+
+AI has always intrigued me, and in 2024, I'm committed to exploring this cutting-edge field. Playing around with artificial intelligence will not only broaden my skill set but also introduce a layer of innovation to my projects, bringing a new dimension to the user experience.
+
+Building a robust portfolio is not just a checkbox on my to-do list; it's a tangible representation of my growth and capabilities. The projects I undertake will not only serve as a testament to my skills but also as a source of pride in my professional journey.
+
+Lastly, I'm looking to take on more side projects and jobs. It's a balance – the desire to expand my skill set and take on new challenges while managing the responsibilities of work and parenthood. Each side project is not just an opportunity to learn but also a chance to contribute meaningfully to my portfolio.
+
+In the midst of the chaos, my goal for 2024 is to carve out the time for continuous learning, experimentation with cutting-edge technologies, and the fulfillment of my ambitions as a front-end developer. Balancing the demands of a dynamic career and the joys of fatherhood, this year is all about growth, innovation, and crafting a professional narrative that reflects my evolving skill set and passion for the ever-evolving world of web development.
 
 #### Yoga teacher training
 
 In 2024 I have enrolled in a 200 hour Yoga Teacher Training! This adventure into teaching yoga is a conscious move, a real effort to make my mental and physical health a priority. The pursuit of personal growth through yoga not only offers physical benefits but also promises a transformative journey to help me build resilience and maintain stability and calmness throughout life's up's and down's. This endeavor signifies a conscious effort to prioritize mental and physical health in the pursuit of a more balanced and fulfilling life. Enrolling in a 200-hour Yoga Teacher Training program reflects a deeper commitment to personal well-being.
-
 
 ---
 
