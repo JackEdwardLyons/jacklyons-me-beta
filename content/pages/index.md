@@ -20,7 +20,7 @@ sections:
   - type: grid_section
     section_id: services
     title: Services
-    subtitle: What I can do for you
+    subtitle: Here's just a short list of my skills, experience and services on offer.
     col_number: three
     grid_items:
       - title: Front End Development
@@ -39,9 +39,9 @@ sections:
           - WordPress / WooCommerce
           - Shopify
           - PHP / Laravel
-          - Dato CMS
-          - Gridsome
+          - Gridsome / Gatsby
           - MongoDB / Firebase
+          - Dato CMS
           - Contentful
       - title: Leadership & Mentorship
         image: images/service-3.svg
