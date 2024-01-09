@@ -147,7 +147,11 @@ In the midst of the chaos, my goal for 2024 is to carve out the time for continu
 
 #### Yoga teacher training
 
-In 2024 I have enrolled in a 200 hour Yoga Teacher Training! This adventure into teaching yoga is a conscious move, a real effort to make my mental and physical health a priority. The pursuit of personal growth through yoga not only offers physical benefits but also promises a transformative journey to help me build resilience and maintain stability and calmness throughout life's ups and downs. This endeavour signifies a conscious effort to prioritise mental and physical health in the pursuit of a more balanced and fulfilling life. Enrolling in a 200-hour Yoga Teacher Training program reflects a deeper commitment to personal well-being.
+In 2024 I have enrolled in a 200 hour Yoga Teacher Training! This adventure into teaching yoga is a conscious move, a real effort to make my mental and physical health a priority. The pursuit of personal growth through yoga not only offers physical benefits but also promises a transformative journey to help me build resilience and maintain stability and calmness throughout life's ups and downs.
+
+Honestly, I don't really know where this training will take me, and I'm not going into it in order to make money or be a teacher, per se. I love my work as a coder and will always want that to be part of my career. However, I can imagine doing small side gigs here or there, be it a workshop, a retreat or event - that sort of thing. I can also imagine that this is something I can do (teaching or practicing) throughout all stages of life.
+
+I'm really excited to take on this new challenge and deepen my Yoga practice. It has always been such a grounding, calming and energising activity. I would love to learn all the in's and out's of each and every pose so that I can truly understand what's actually going on at a mental and physical level. It's going to really help me craft more meaningful sequences when I practice at home on my own, and it will give me the ability to help others too.
 
 ---
 
