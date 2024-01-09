@@ -155,4 +155,8 @@ I'm really excited to take on this new challenge and deepen my Yoga practice. It
 
 ---
 
-And that wraps up my 2023 annual review. It's been a year marked by intensity, stress, and a rollercoaster of emotions. Yet, within these challenges, I find the seeds of a new beginning. I'm genuinely thrilled to step into the upcoming year with a fresh perspective and a considerably more positive outlook. In 2023, my focus is on internal growth, aiming to shed limiting beliefs, internal stressors, and self-talk that may have held me back. Here's to the anticipation and excitement that 2023 holds—bring it on!
+And that wraps up my 2024 annual review. It's been a year marked by intensity, stress, and a rollercoaster of emotions. Yet, within these challenges, I find the seeds of a new beginning. I'm genuinely thrilled to step into the upcoming year with a fresh perspective and a considerably more positive outlook.
+
+In 2024, my focus is on internal growth and building resiliencing, aiming to shed any limiting beliefs, internal stressors, and self-talk that may have held me back. I also want prioritise self care and wellness. Working from home and having a career in tech typically means working through lunch, long meetings all day, coding non stop for hours and sitting all day every day. It's incredibly exhausting when I don't schedule in proper breaks, and active steps to relax and recharge when it's time to slow down. So that is a big goal for 2024: more time for self care, more breaks, eating on time and not skipping meals, more time in nature, and less stress.
+
+Here's to the anticipation and excitement that 2024 holds—bring it on!
