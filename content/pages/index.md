@@ -92,7 +92,7 @@ sections:
       <br /><br />
       Head on over to the [contact page](/contact) to get in touch. I'll be sure to get back to you as soon as possible.
     actions:
-      - label: Contact me today for help on your next project.
+      - label: Contact me today
         url: /contact
         style: button
     image: images/cta.svg
