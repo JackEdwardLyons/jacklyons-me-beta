@@ -7,7 +7,7 @@ sections:
     title: >-
       I'm a Front End Developer from Gold Coast, Australia.
     content: >-
-      I build sleek, modern and responsive website solutions using React, Vue, TypeScript and GraphQL. My experience spans across Government, eCommerce, SaaS, Logistics, Real Estate and Enterprise Software. [Contact me today](/contact/).
+      I build sleek, modern and responsive website solutions using React, Vue, TypeScript and GraphQL. My experience spans across Government, eCommerce, SaaS, Logistics, Real Estate and Enterprise Software. [Contact me today for help on your next project.](/contact/).
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
