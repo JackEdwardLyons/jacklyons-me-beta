@@ -1,0 +1,9 @@
+{
+  "grammarly.selectors": [
+    {
+      "language": "markdown",
+      "scheme": "file",
+      "pattern": "content/pages/blog/diving-into-web-components.md"
+    }
+  ]
+}

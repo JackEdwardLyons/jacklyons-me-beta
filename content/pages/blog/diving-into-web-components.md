@@ -1,25 +1,25 @@
 ---
-title: Web Components in 2024
+title: Diving into Web Components (Part 1) with Stencil.js
 excerpt: >-
-  A look at Lit and Stencil.js using TypeScript.
+  A brief look at building Web Components with Stencil.js & TypeScript.
 date: "2024-01-03"
 thumb_image: images/webcomponents.svg
 image: images/webcomponents.svg
 image_alt: An image of the web components logo
 seo:
-  title: Web Components in 2024
+  title: Diving into Web Components Part 1.
   description: >-
-    A look at Lit and Stencil.js using TypeScript.
+    A brief look at building Web Components with Stencil.js & TypeScript.
   extra:
     - name: "og:type"
       value: website
       keyName: property
     - name: "og:title"
-      value: Web Components in 2024
+      value: Diving into Web Components Part 1.
       keyName: property
     - name: "og:description"
       value: >-
-        A look at Lit and Stencil.js using TypeScript.
+        A brief look at building Web Components with Stencil.js & TypeScript.
       keyName: property
     - name: "og:image"
       value: images/webcomponents.svg
@@ -28,10 +28,10 @@ seo:
     - name: "twitter:card"
       value: summary_large_image
     - name: "twitter:title"
-      value: Web Components in 2024
+      value: Diving into Web Components Part 1.
     - name: "twitter:description"
       value: >-
-        A look at Lit and Stencil.js using TypeScript.
+        A brief look at building Web Components with Stencil.js & TypeScript.
     - name: "twitter:image"
       value: images/webcomponents.svg
       relativeUrl: true
@@ -39,17 +39,75 @@ layout: post
 thumb_image_alt: Image of a windy road disappearing into fog.
 ---
 
-Diving into Web Components. A look at Lit and Stencil.js using TypeScript.
+Front end developers are constantly exploring creative approaches to build scalable and maintainable UIs and apps. Amid a plethora of web frameworks and libraries to choose from, Stencil.js has surged as a promising tool for developing web components due to it's simple API and performant runtime.
 
-Here I am rendering a custom web component that I built with Stencil.js.
+In this post I am going to give [Stencil.js](https://stenciljs.com/) a test run in order to assess its merits, drawbacks, and overall standing. Mind you, this is going to be a brief post and it will not cover all there is to know about Stencil. Think of it as a primer - it's just me messing around with a tool over a weekend. I've built a fun little Freelancer widget to put all my learnings to the test which you can check out below. OK, so let's dive in.
 
-### Todo
-- Clean up Web component styles so it renders nicely
-- Create a Subscribe web component
-- Write post about Stencil.js and Lit.js
+### Understanding Stencil.js
 
-<br />
+Simply put, Stencil.js is a library for building web components and Progressive Web Apps (PWAs). Unlike conventional frameworks, it doesn’t dictate specific structures. Instead, it compiles your code into standard JavaScript and web components, empowering developers to maintain familiarity with the ecosystem while leveraging the potential of modern web standards. 
+
+#### The Pros
+
+1. **Efficiency**: Stencil.js uses lazy-loading to only load components when they are needed, leading to a considerable performance boost. This vastly reduces initial load times, making apps built with Stencil.js remarkably fast.
+
+2. **Stencil.js CLi**: Stencil's CLI is included in the compiler, and can be invoked with the stencil `command`. With the command `stencil generate` you can build a new component complete with css module files, unit test and e2e test files. I love this.
+
+3. **Future-proof**: Capitalizing upon the standardized features of Web Components, Stencil.js secures your investment from the volatile evolution of JavaScript ecosystem. Even if you decide to shift to another framework or the framework you are using becomes obsolete, Stencil.js-compiled components will continue to work.
+
+4. **Support for Service Workers**: Stencil comes with robust support for service workers as it is built on top of [Workbox](https://developer.chrome.com/docs/workbox/), an open source Service Worker library by the team at Google Chrome. When doing a production build of an app built using Stencil, the Stencil compiler will automatically generate a service worker for you and inject the necessary code to register the service worker in your `index.html`. This is what makes Stencil.js great: they have gone the extra step to make the DX exceptional.
+
+After playing with Stencil.js I have to say, it is refreshingly simple to learn and use. It's very similar to React in the way that you must return a `render()` function to your Class component, along with JSX to interpolate your data.
+
+While it is preferred to write your component code as a Class component, there's no headaches around binding `this` and calling a `constructor` to initiate state. I also love the fact that you can simply write `class` instead of `className` for your styles. After working with React for so long, it's these little things that simply improve DX just that one little bit that I love.
+
+To sum up the pro's: Everything just works. It's fast, it's simple and it's future friendly.
+
+#### The Cons
+
+I'm sure this isn't the case, but honestly, as of right now I can't really find anything wrong with Stencil. It is simple, efficient and has all the tools you would need to build a collection of web components. However, that being said, I have only played around with building a simple web component and not a full blown application.
+
+1. **Limited Ecosystem and Community Support:** Compared to more established frameworks, Stencil.js has a smaller community and a more limited ecosystem of pre-built components. Developers might find themselves reinventing the wheel or investing extra time in crafting custom solutions for functionalities readily available in other ecosystems.
+
+I'll keep playing around with Stencil and whenever I come across something I think the library could be doing better, I'll add it here.
+
+### My experience building a widget using Stencil.js
+
+**Crafting a Widget UI with Freelancer API**
+
+To familiarise myself with Stencil I decided to build a simple Freelancer card component. The primary goal was to fetch user data from [freelancer.com](https://www.freelancer.com/) and present it in a visually appealing UI card component. Any given freelancer could then take this card web component and render it on their website.
+
+I designed two distinct styles for the widget. The first, a minimalistic horizontal card displaying a profile avatar image, along with some basic data about the user. The second design is a vertical card that includes more data around the user's rating, their hourly rate, location and online status. The card gracefully flips around 180 degrees, revealing a detailed description of the user on its back.
+
+Stencil.js made it remarkably easy to structure and manage these components.
+What surprised me the most about Stencil.js was its ease of use. If you're familiar with React, working with Stencil.js feels like second nature. Everything worked seamlessly out of the box, allowing me to focus on the creative aspects of my project rather than grappling with intricate configurations and learning new syntax.
+
+**TypeScript Integration and VS Code Intellisense**
+
+I opted to use TypeScript for my project, and Stencil.js made the integration effortless. The synergy between Stencil.js and VS Code's intellisense provided a smooth development experience, catching potential issues and offering helpful suggestions as I coded. Decorators are used extensively throughout components, which I find are a bit off putting. Decorator syntax isn't my favourite, but hey it's no big deal. I really wanted to, I could write Stencil components without decorators.
+
+**Effortless Production Build and npm Publishing**
+
+One of the standout features of Stencil.js is its simplicity in building for production. With just a few commands, I could generate optimized, production-ready code. Publishing my widget component to npm was a breeze, thanks to Stencil's (and npm's) clear and concise documentation.
+
+Here's how my widgets turned out:
 
 
 <FreelancerWebComponent />
+
+
+<br />
+<br />
+
+You can find the code on [Github](https://github.com/JackEdwardLyons/freelancer-score-web-component) and the published widget on [npm](https://www.npmjs.com/package/freelancer-web-app). If you have any feedback or questions, or would like to contribute to building out the widget, please reach out.
+
+
+### The Verdict
+
+I really like Stencil and I believe it holds a lot of promise. Its focus on modern web standards and interoperability makes it a strong contender among other libraries and frameworks.
+
+However, the adoption in 2024 is not as widespread compared to more established solutions. This is surprising to me, but also not, given the hesitance for most developers to use Web Components. Front end libraries like React and Vue have such a strong presence that it makes it hard for other libraries to compete. But honestly, I don't see this as being an issue because Stencil has carved out its niche in the world of Web Components and has been around since 2017, so the team there have had plenty of time to iterate and improve. I feel like it's only going to get better and better.
+
+
+In conclusion, if you're a developer who is eager to utilize the latest web standards and if value efficiency and portability, Stencil.js is worth considering. As we embrace 2024, the world of web development is in dire need of standards-compliant, high-performance applications and Stencil.js seems to be a solid answer to that call. It truly possesses the potential to be a gamechanger in the long-term, spearheading the future trend of web components and web development.
 
