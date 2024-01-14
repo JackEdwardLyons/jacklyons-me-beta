@@ -99,7 +99,26 @@ Here's how my widgets turned out:
 <br />
 <br />
 
-You can find the code on [Github](https://github.com/JackEdwardLyons/freelancer-score-web-component) and the published widget on [npm](https://www.npmjs.com/package/freelancer-web-app). If you have any feedback or questions, or would like to contribute to building out the widget, please reach out.
+You can find the code on [Github](https://github.com/JackEdwardLyons/freelancer-score-web-component) and the published widget on [npm](https://www.npmjs.com/package/freelancer-web-app). The web component code to embed is dead-simple, it looks like this:
+
+```html
+
+<!-- Detailed card component -->
+<freelancer-score
+  bgColor="#7FDBFF"
+  type="card"
+  username="jane_smith_freelancer"
+></freelancer-score>
+
+<!-- Minimal card component -->
+<freelancer-score
+  bgColor="#345589"
+  type="minimal"
+  username="john_doe_freelancer"
+></freelancer-score>
+```
+
+If you have any feedback or questions, or would like to contribute to building out the widget, please reach out.
 
 
 ### The Verdict
