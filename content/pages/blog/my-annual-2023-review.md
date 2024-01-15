@@ -127,7 +127,7 @@ Work-related stress and burnout reared their heads, emphasising the need for a h
 
 #### Relationship ups and downs
 
-Navigating relationship challenges with Zoe has been extremely difficult this year. The stressors brought by parenthood and overwork underscored the importance of self-care. Acknowledging the toll on health and well-being prompted a realisation that adjustments for us both are absolutely necessary for a more sustainable and fulfilling future. Prioritising rest and recovery are imperative for overall happiness.
+Navigating relationship challenges with my wife and daughter has been extremely difficult this year. The stressors brought by parenthood and overwork underscored the importance of self-care. Acknowledging the toll on health and well-being prompted a realisation that adjustments for my wife and I are absolutely necessary for a more sustainable and fulfilling future. Prioritising rest and recovery are imperative for keeping stressors at bay. For Zoe, things like ice baths, gym and sauna are her happy place. For me, it's Yoga, meditation and time outdoors. I know we can overcome anything together, and this is just one of life's many challenges. It's a long road ahead with a child, but I know deep down it's all worth it.
 
 ### 3. What am I working towards?
 
