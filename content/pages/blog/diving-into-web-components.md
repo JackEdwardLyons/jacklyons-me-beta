@@ -115,7 +115,7 @@ Here's how my widgets turned out:
 <br />
 <br />
 
-You can find the code on [Github](https://github.com/JackEdwardLyons/freelancer-score-web-component) and the published widget on [npm](https://www.npmjs.com/package/freelancer-web-app). The web component code to embed is dead-simple, it looks like this:
+You can find the published widget on [npm](https://www.npmjs.com/package/freelancer-web-app). The web component code to embed is dead-simple, it looks like this:
 
 ```html
 <!-- Add npm script to your web page -->
