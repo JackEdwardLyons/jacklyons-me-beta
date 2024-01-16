@@ -39,7 +39,7 @@ sections:
   - type: image_section
     image: https://res.cloudinary.com/jacklyons123/image/upload/f_auto,q_auto/v1704533474/maxresdefault.jpg
     image_alt: The CleanCo logo.
-    caption: The CleanCo logo.
+    caption: 
     width: wide
   - type: text_section
     content: >-
