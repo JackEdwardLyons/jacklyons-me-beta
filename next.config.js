@@ -20,6 +20,6 @@ module.exports = {
   images: {
     domains: ["res.cloudinary.com"],
     loader: "cloudinary",
-    // path: "",
+    loaderFile: "./utils/loader.js",
   },
 };
