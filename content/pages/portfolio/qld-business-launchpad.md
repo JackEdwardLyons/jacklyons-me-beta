@@ -12,7 +12,7 @@ seo:
   robots: []
   extra: []
 layout: project
-thumb_image: https://res.cloudinary.com/jacklyons123/image/upload/f_auto/v1704532624/Opengraph-default-thumbnail.png
+thumb_image: https://res.cloudinary.com/jacklyons123/image/upload/f_auto,q_auto/v1704532624/Opengraph-default-thumbnail.png
 image: images/business-launchpad-social-tile-option-3-27d61ee7.png
 sections:
 - type: image_section
