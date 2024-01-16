@@ -1,6 +1,6 @@
 import React from "react";
 import _ from "lodash";
-import Image from "next/image";
+
 import { markdownify, withPrefix } from "../utils";
 
 export default class ContentSection extends React.Component {
@@ -25,7 +25,7 @@ export default class ContentSection extends React.Component {
           )}
           {image && (
             <figure className="section__image">
-              <Image layout="fill" src={withPrefix(image)} alt={imageAlt} />
+              <img src={withPrefix(image)} alt={imageAlt} />
             </figure>
           )}
         </div>

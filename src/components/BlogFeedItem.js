@@ -1,7 +1,7 @@
 import React from "react";
 import _ from "lodash";
 import moment from "moment-strftime";
-import Image from "next/image";
+
 import { Link, withPrefix, getPageUrl } from "../utils";
 
 export default class BlogFeedItem extends React.Component {
@@ -20,11 +20,7 @@ export default class BlogFeedItem extends React.Component {
       <article className="cell post-card">
         {thumbImage && (
           <Link className="post-card__image" href={postUrl}>
-            <Image
-              layout="fill"
-              src={withPrefix(thumbImage)}
-              alt={thumbImageAlt}
-            />
+            <img src={withPrefix(thumbImage)} alt={thumbImageAlt} />
           </Link>
         )}
         <header className="post-card__header">

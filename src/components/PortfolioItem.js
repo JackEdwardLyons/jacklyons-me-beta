@@ -1,6 +1,6 @@
 import React from "react";
 import _ from "lodash";
-import Image from "next/image";
+
 import { Link, withPrefix, getPageUrl } from "../utils";
 
 export default class PortfolioItem extends React.Component {
@@ -17,11 +17,7 @@ export default class PortfolioItem extends React.Component {
         <Link href={projectUrl} className="project-card__link">
           {thumbImage && (
             <div className="project-card__image">
-              <Image
-                src={withPrefix(thumbImage)}
-                alt={thumbImageAlt}
-                layout="fill"
-              />
+              <img src={withPrefix(thumbImage)} alt={thumbImageAlt} />
             </div>
           )}
           <header className="project-card__header">

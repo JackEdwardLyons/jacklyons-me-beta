@@ -17,9 +17,4 @@ module.exports = {
     config.plugins.push(new webpack.WatchIgnorePlugin([[/\/content\//]]));
     return config;
   },
-  images: {
-    domains: ["res.cloudinary.com"],
-    loader: "cloudinary",
-    loaderFile: "./utils/loader.js",
-  },
 };

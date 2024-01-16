@@ -1,6 +1,6 @@
 import React from "react";
 import _ from "lodash";
-import Image from "next/image";
+
 import { classNames, withPrefix, markdownify } from "../utils";
 import CtaButtons from "./CtaButtons";
 
@@ -24,7 +24,7 @@ export default class CtaSection extends React.Component {
             <div className={classNames({ grid: image })}>
               {image && (
                 <div className="section__image cell">
-                  <Image layout="fill" src={withPrefix(image)} alt={imageAlt} />
+                  <img src={withPrefix(image)} alt={imageAlt} />
                 </div>
               )}
               <div className={classNames("section__content", { cell: image })}>
