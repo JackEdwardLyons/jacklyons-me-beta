@@ -42,7 +42,7 @@ seo:
       relativeUrl: true
 sections:
   - type: image_section
-    image: https://res.cloudinary.com/jacklyons123/image/upload/v1704533705/326703015_891077012037879_7360157705966881296_n.jpg.jpg
+    image: https://res.cloudinary.com/jacklyons123/image/upload/f_auto/v1704533705/326703015_891077012037879_7360157705966881296_n.jpg.jpg
     image_alt: An image of a freight liner sailing the ocean.
     width: wide
   - type: text_section
