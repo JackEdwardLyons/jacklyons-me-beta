@@ -61,6 +61,51 @@ Web Components offer a powerful solution for building modular and maintainable w
 
 Simply put, Stencil.js is a library for building web components and Progressive Web Apps (PWAs). Unlike conventional frameworks, it doesn’t dictate specific structures. Instead, it compiles your code into standard JavaScript and web components, empowering developers to maintain familiarity with the ecosystem while leveraging the potential of modern web standards. 
 
+Stencil uses JSX / TSX to render components with heavy use of Decorators (if using TS). Here is a snippet of code from my Freelancer Widget project:
+
+```html
+import { Component, Prop, h } from '@stencil/core';
+
+@Component({
+  tag: 'minimal-profile',
+  styleUrl: 'minimal-profile.scss',
+  shadow: true,
+})
+export class FreelancerScore {
+  @Prop() user;
+  @Prop() rating;
+  @Prop({ mutable: true }) bgColor: string = '#345589';
+
+  render() {
+    const cardBg = `.card::after{ background: ${this.bgColor}; }`;
+
+    return (
+      <article class="content">
+        <a target="_blank" href={`https://www.freelancer.com/u/${this.user.username}`} referrerPolicy="no-referrer">
+          <style>{cardBg}</style>
+          <div class="card">
+            <div class="profile-card">
+              <img class="profile-card__img" src={this.user.avatar_cdn} />
+              <div class="profile-card__info">
+                <div class="flex">
+                  <h1 class="profile-card__username">{this.user.public_name}</h1>
+                  <star-rating rating={this.rating} />
+                </div>
+                <h3 class="profile-card__tagline">{this.user.tagline}</h3>
+
+                <img alt="Freelancer logo" class="profile-card__freelancer-logo" src="https://www.f-cdn.com/assets/webapp/assets/freelancer-logo.svg" />
+              </div>
+            </div>
+          </div>
+        </a>
+      </article>
+    );
+  }
+}
+```
+
+As you can see it looks very much like React and Vue, just with Decorators to define props and other attributes. You can [read more about Stencil components in the docs](https://stenciljs.com/docs/component).
+
 #### The Pros
 
 1. **Efficiency**: Stencil.js uses lazy-loading to only load components when they are needed, leading to a considerable performance boost. This vastly reduces initial load times, making apps built with Stencil.js remarkably fast.
