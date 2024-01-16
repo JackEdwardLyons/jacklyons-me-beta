@@ -8,7 +8,10 @@ function FreelancerWebComponent() {
         src="https://unpkg.com/freelancer-web-app@0.0.11/dist/freelancerwebapp/freelancerwebapp.esm.js"
       ></script>
       <div>
-        <freelancer-score username="hawkgeek" type="minimal"></freelancer-score>
+        <freelancer-score
+          username="mikejcarton"
+          type="minimal"
+        ></freelancer-score>
 
         <br />
 
