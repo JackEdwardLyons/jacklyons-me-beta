@@ -37,7 +37,10 @@ export default class MyDocument extends Document {
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="black" />
         <meta name="theme-color" content="#000000" />
-
+        <meta
+          name="description"
+          content="Jack Lyons | Senior Front End Developer working with React and Vue."
+        />
         {/* make sure to provide the name of your icon in below.*/}
         <link rel="apple-touch-icon" href="/icon.png" />
         <link rel="manifest" href="/manifest.json" />
