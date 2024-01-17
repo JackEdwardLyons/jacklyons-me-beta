@@ -53,8 +53,6 @@ In this post I am going to give [Stencil.js](https://stenciljs.com/) a test run 
 
 **HTML Templates** provide a mechanism for declaring reusable chunks of markup that can be cloned and inserted into the DOM as needed. 
 
-Finally, **HTML Imports** facilitate the modularization of web applications by allowing the inclusion of external HTML documents as dependencies.
-
 Web Components offer a powerful solution for building modular and maintainable web applications, fostering a component-based development approach. They can be utilized independently or integrated seamlessly with various web frameworks, providing developers with the flexibility to choose the best tools for their specific needs.
 
 ### Understanding Stencil.js
@@ -147,7 +145,7 @@ What surprised me the most about Stencil.js was its ease of use. If you're famil
 
 #### TypeScript Integration and VS Code Intellisense
 
-I opted to use TypeScript for my project, and Stencil.js made the integration effortless. The synergy between Stencil.js and VS Code's intellisense provided a smooth development experience, catching potential issues and offering helpful suggestions as I coded. Decorators are used extensively throughout components, which I find are a bit off putting. Decorator syntax isn't my favourite, but hey it's no big deal. I really wanted to, I could write Stencil components without decorators.
+I opted to use TypeScript for my project, and Stencil.js made the integration effortless. The synergy between Stencil.js and VS Code's intellisense provided a smooth development experience, catching potential issues and offering helpful suggestions as I coded. Decorators are used extensively throughout components, which isn't my favourite syntax, but hey it's no big deal. If I really wanted to, I could write Stencil components without decorators.
 
 #### Effortless Production Build and npm Publishing
 
@@ -184,7 +182,7 @@ You can find the published widget on [npm](https://www.npmjs.com/package/freelan
 ></freelancer-score>
 ```
 
-If you have any feedback or questions, or would like to contribute to building out the widget, please reach out.
+If you have any feedback or questions, or would like to contribute to building out the widget, please reach out. This was a first pass over a weekend, and I already know that I could improve it by adding more features and tweaking a few styles here and there.
 
 ### The Verdict
 
