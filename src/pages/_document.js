@@ -31,16 +31,19 @@ export default class MyDocument extends Document {
     // const pageProps = _.get(this.props, '__NEXT_DATA__.props.pageProps');
     return (
       <Html {...this.helmetHtmlAttrComponents} lang="en-US">
-        <Head>{this.helmetHeadComponents}</Head>
+        <Head>
+          <meta
+            name="description"
+            content="Jack Lyons | Senior Front End Developer working with React and Vue."
+          />
+          {this.helmetHeadComponents}{" "}
+        </Head>
         {/* PWA meta tags */}
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="black" />
         <meta name="theme-color" content="#000000" />
-        <meta
-          name="description"
-          content="Jack Lyons | Senior Front End Developer working with React and Vue."
-        />
+
         {/* make sure to provide the name of your icon in below.*/}
         <link rel="apple-touch-icon" href="/icon.png" />
         <link rel="manifest" href="/manifest.json" />
