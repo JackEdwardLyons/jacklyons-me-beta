@@ -124,7 +124,7 @@ To sum up the pro's: Everything just works. It's fast, it's simple and it's futu
 
 #### The Cons
 
-I'm sure this isn't the case, but honestly, as of right now I can't really find anything wrong with Stencil. It is simple, efficient and has all the tools you would need to build a collection of web components. However, that being said, I have only played around with building a simple web component and not a full blown application.
+I'm sure this isn't the case, but honestly as of right now I can't really find anything wrong with Stencil. It is simple, efficient and has all the tools you would need to build a collection of web components. However, that being said, I have only played around with building a simple web component and not a full blown application. Here are a couple of things that you might consider drawbacks:
 
 1. **Limited Ecosystem and Community Support:** Compared to more established frameworks, Stencil.js has a smaller community and a more limited ecosystem of pre-built components. Developers might find themselves reinventing the wheel or investing extra time in crafting custom solutions for functionalities readily available in other ecosystems.
 
