@@ -1,0 +1,32 @@
+{
+  "theme_color": "#d8195e",
+  "background_color": "#ffffff",
+  "display": "browser",
+  "scope": "/",
+  "start_url": "/",
+  "name": "Jack Lyons | Senior Front End Developer",
+  "short_name": "Jack Lyons",
+  "description": "I'm a front end developer from Gold Coast, Australia. This is my personal website.",
+  "icons": [
+      {
+          "src": "/images/icon-192-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+      },
+      {
+          "src": "/images/icon-256-256.png",
+          "sizes": "256x256",
+          "type": "image/png"
+      },
+      {
+          "src": "/images/icon-384-384.png",
+          "sizes": "384x384",
+          "type": "image/png"
+      },
+      {
+          "src": "/images/icon-512-512.png",
+          "sizes": "512x512",
+          "type": "image/png"
+      }
+  ]
+}

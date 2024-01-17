@@ -3,7 +3,12 @@ const sourcebitConfig = require("./sourcebit.js");
 
 sourcebit.fetch(sourcebitConfig);
 
-module.exports = {
+const withPWA = require("next-pwa")({
+  dest: "public",
+});
+
+const nextConfig = withPWA({
+  reactStrictMode: true,
   trailingSlash: true,
   devIndicators: {
     autoPrerender: false,
@@ -23,4 +28,6 @@ module.exports = {
 
     return config;
   },
-};
+});
+
+module.exports = nextConfig;
