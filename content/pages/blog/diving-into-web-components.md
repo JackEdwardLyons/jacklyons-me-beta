@@ -171,14 +171,14 @@ You can find the published widget on [npm](https://www.npmjs.com/package/freelan
 <freelancer-score
   bgColor="#7FDBFF"
   type="card"
-  username="jane_smith_freelancer"
+  username="HawkGeek"
 ></freelancer-score>
 
 <!-- Minimal card component -->
 <freelancer-score
   bgColor="#345589"
   type="minimal"
-  username="john_doe_freelancer"
+  username="HawkGeek"
 ></freelancer-score>
 ```
 
