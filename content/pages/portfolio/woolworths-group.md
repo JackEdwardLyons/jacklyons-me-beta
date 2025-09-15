@@ -2,9 +2,9 @@
 title: Woolworths Group
 subtitle: Woolworths Group is Australia’s largest retailer.
 date: "2025-02-01"
-thumb_image: images/woolworths-group.png
+thumb_image: images/woolworths-group-logo.png
 thumb_image_alt: An image of the Woolworths Group logo
-image: images/woolworths-group.png
+image: images/woolworths-group-logo.png
 image_alt: An image of the Woolworths Group logo
 seo:
   title: Woolworths Group
@@ -22,7 +22,7 @@ seo:
         My role at Woolworths Group as a Front End UI Engineer has involved plenty of exciting and dynamic work using modern front end technology, including Lit to build HTML native web components.
       keyName: property
     - name: "og:image"
-      value: images/woolworths-group.png
+      value: images/woolworths-group-logo.png
       keyName: property
       relativeUrl: true
     - name: "twitter:card"
@@ -33,7 +33,7 @@ seo:
       value: >-
         My role at Woolworths Group as a Front End UI Engineer has involved plenty of exciting and dynamic work using modern front end technology, including Lit to build HTML native web components.
     - name: "twitter:image"
-      value: images/woolworths-group.png
+      value: images/woolworths-group-logo.png
       relativeUrl: true
 sections:
   - type: image_section
