@@ -71,7 +71,11 @@ While it is incredibly tough, I also realise that right now Koa has become my bi
 
 #### Work
 
+<<<<<<< HEAD
 This year of work was BIG. It was exhausting and extremely challenging. My contract at RACQ saw myself leading the front end development of a car comparison tool, which focused on providing consumers with up-to-date information on the latest electric and low emission vehicles. You can view the site at [https://www.racq.com.au/car/compare](https://www.racq.com.au/car/compare).
+=======
+This year of work was BIG. It was exhausting and extremely challenging. My contract at RACQ saw myself leading the front end development of a car comparison tool, which focused on providing consumers with up-to-date information on the latest electric and low emission vehicles. You can view the site at [https://www.racq.com.au/car/compare](https://www.racq.com.au/car/compare). 
+>>>>>>> 70a7cfce (chore: remove devtools in prod)
 
 We worked closely with the Australian Motoring Service (AMS) in order to align our UI/UX goals with their gargantuan data set of vehicles and vehicle related data. There were also many unique challenges when it came to managing the content on the site, and I worked closely with some very smart people to merge the front end with the backend services and content management system.
 

@@ -61,6 +61,29 @@ export default class MyDocument extends Document {
             data-domain="jacklyons.me"
             src="https://plausible.io/js/plausible.js"
           ></script>
+
+          <script async src="https://w.appzi.io/w.js?token=kUtK8"></script>
+
+          {/* Disable React DevTools in production */}
+          {process.env.NODE_ENV === "production" && (
+            <script
+              dangerouslySetInnerHTML={{
+                __html: `
+                  if (typeof window !== 'undefined') {
+                    // Disable React DevTools
+                    if (window.__REACT_DEVTOOLS_GLOBAL_HOOK__) {
+                      window.__REACT_DEVTOOLS_GLOBAL_HOOK__.inject = function() {};
+                    }
+                    
+                    // Disable Vue DevTools
+                    if (window.__VUE_DEVTOOLS_GLOBAL_HOOK__) {
+                      window.__VUE_DEVTOOLS_GLOBAL_HOOK__.enabled = false;
+                    }
+                  }
+                `,
+              }}
+            />
+          )}
         </body>
       </Html>
     );
